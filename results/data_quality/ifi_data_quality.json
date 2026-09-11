@@ -1,0 +1,982 @@
+{
+  "source": "https://zenodo.org/records/11275211",
+  "files": {
+    "India_Flood_Inventory_v3.csv": {
+      "rows": 6876,
+      "columns": 23,
+      "column_names": [
+        "Unnamed: 0",
+        "UEI",
+        "Start Date",
+        "End Date",
+        "Duration(Days)",
+        "Main Cause",
+        "Location",
+        "Districts",
+        "State",
+        "Latitude",
+        "Longitude",
+        "Severity",
+        "Area Affected",
+        "Human fatality",
+        "Human injured",
+        "Human Displaced",
+        "Animal Fatality",
+        "Description of Casualties/injured",
+        "Extent of damage ",
+        "Event Source",
+        "Event Souce ID",
+        "District_LGD_Codes",
+        "State_Codes"
+      ],
+      "dtypes": {
+        "Unnamed: 0": "int64",
+        "UEI": "str",
+        "Start Date": "str",
+        "End Date": "str",
+        "Duration(Days)": "float64",
+        "Main Cause": "str",
+        "Location": "float64",
+        "Districts": "str",
+        "State": "str",
+        "Latitude": "float64",
+        "Longitude": "float64",
+        "Severity": "float64",
+        "Area Affected": "float64",
+        "Human fatality": "float64",
+        "Human injured": "float64",
+        "Human Displaced": "str",
+        "Animal Fatality": "str",
+        "Description of Casualties/injured": "str",
+        "Extent of damage ": "str",
+        "Event Source": "str",
+        "Event Souce ID": "float64",
+        "District_LGD_Codes": "str",
+        "State_Codes": "str"
+      },
+      "missing_values": {
+        "Unnamed: 0": 0,
+        "UEI": 0,
+        "Start Date": 20,
+        "End Date": 20,
+        "Duration(Days)": 19,
+        "Main Cause": 31,
+        "Location": 6876,
+        "Districts": 59,
+        "State": 0,
+        "Latitude": 6876,
+        "Longitude": 6876,
+        "Severity": 6876,
+        "Area Affected": 6876,
+        "Human fatality": 3106,
+        "Human injured": 5818,
+        "Human Displaced": 6754,
+        "Animal Fatality": 6305,
+        "Description of Casualties/injured": 3609,
+        "Extent of damage ": 3121,
+        "Event Source": 0,
+        "Event Souce ID": 6876,
+        "District_LGD_Codes": 304,
+        "State_Codes": 258
+      },
+      "missing_percentages": {
+        "Unnamed: 0": 0.0,
+        "UEI": 0.0,
+        "Start Date": 0.2909,
+        "End Date": 0.2909,
+        "Duration(Days)": 0.2763,
+        "Main Cause": 0.4508,
+        "Location": 100.0,
+        "Districts": 0.8581,
+        "State": 0.0,
+        "Latitude": 100.0,
+        "Longitude": 100.0,
+        "Severity": 100.0,
+        "Area Affected": 100.0,
+        "Human fatality": 45.1716,
+        "Human injured": 84.6131,
+        "Human Displaced": 98.2257,
+        "Animal Fatality": 91.6958,
+        "Description of Casualties/injured": 52.4869,
+        "Extent of damage ": 45.3898,
+        "Event Source": 0.0,
+        "Event Souce ID": 100.0,
+        "District_LGD_Codes": 4.4212,
+        "State_Codes": 3.7522
+      },
+      "duplicate_rows": 0,
+      "unique_counts": {
+        "Unnamed: 0": 6876,
+        "UEI": 6876,
+        "Start Date": 3685,
+        "End Date": 3693,
+        "Duration(Days)": 62,
+        "Main Cause": 580,
+        "Location": 1,
+        "Districts": 2893,
+        "State": 82,
+        "Latitude": 1,
+        "Longitude": 1,
+        "Severity": 1,
+        "Area Affected": 1,
+        "Human fatality": 184,
+        "Human injured": 63,
+        "Human Displaced": 24,
+        "Animal Fatality": 248,
+        "Description of Casualties/injured": 2488,
+        "Extent of damage ": 3613,
+        "Event Source": 1,
+        "Event Souce ID": 1,
+        "District_LGD_Codes": 2483,
+        "State_Codes": 66
+      },
+      "numerical_statistics": {
+        "Unnamed: 0": {
+          "count": 6876.0,
+          "mean": 4000.5,
+          "std": 1985.0745577937,
+          "min": 563.0,
+          "25%": 2281.75,
+          "50%": 4000.5,
+          "75%": 5719.25,
+          "max": 7438.0
+        },
+        "Duration(Days)": {
+          "count": 6857.0,
+          "mean": 3.6130961062,
+          "std": 9.8176975675,
+          "min": 1.0,
+          "25%": 1.0,
+          "50%": 1.0,
+          "75%": 3.0,
+          "max": 365.0
+        },
+        "Location": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        },
+        "Latitude": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        },
+        "Longitude": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        },
+        "Severity": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        },
+        "Area Affected": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        },
+        "Human fatality": {
+          "count": 3770.0,
+          "mean": 18.7514588859,
+          "std": 104.8582083687,
+          "min": 1.0,
+          "25%": 1.0,
+          "50%": 3.0,
+          "75%": 10.0,
+          "max": 5000.0
+        },
+        "Human injured": {
+          "count": 1058.0,
+          "mean": 10.9981096408,
+          "std": 71.0742545884,
+          "min": 1.0,
+          "25%": 2.0,
+          "50%": 3.0,
+          "75%": 7.0,
+          "max": 2000.0
+        },
+        "Event Souce ID": {
+          "count": 0.0,
+          "mean": null,
+          "std": null,
+          "min": null,
+          "25%": null,
+          "50%": null,
+          "75%": null,
+          "max": null
+        }
+      },
+      "categorical_statistics": {
+        "UEI": {
+          "count": 6876,
+          "unique": 6876,
+          "top": "UEI-IMD-FL-1967-0001",
+          "frequency": 1
+        },
+        "Start Date": {
+          "count": 6856,
+          "unique": 3685,
+          "top": "17-05-2022 00:00",
+          "frequency": 41
+        },
+        "End Date": {
+          "count": 6856,
+          "unique": 3693,
+          "top": "11-07-2023 00:00",
+          "frequency": 31
+        },
+        "Main Cause": {
+          "count": 6845,
+          "unique": 580,
+          "top": "heavy rains",
+          "frequency": 2628
+        },
+        "Districts": {
+          "count": 6817,
+          "unique": 2893,
+          "top": "Mumbai",
+          "frequency": 88
+        },
+        "State": {
+          "count": 6876,
+          "unique": 82,
+          "top": "Maharashtra",
+          "frequency": 1012
+        },
+        "Human Displaced": {
+          "count": 122,
+          "unique": 24,
+          "top": "1",
+          "frequency": 45
+        },
+        "Animal Fatality": {
+          "count": 571,
+          "unique": 248,
+          "top": "1",
+          "frequency": 53
+        },
+        "Description of Casualties/injured": {
+          "count": 3267,
+          "unique": 2488,
+          "top": "One person died.",
+          "frequency": 63
+        },
+        "Extent of damage ": {
+          "count": 3755,
+          "unique": 3613,
+          "top": "Landslide reported.",
+          "frequency": 17
+        },
+        "Event Source": {
+          "count": 6876,
+          "unique": 1,
+          "top": "IMD",
+          "frequency": 6876
+        },
+        "District_LGD_Codes": {
+          "count": 6572,
+          "unique": 2483,
+          "top": "565",
+          "frequency": 97
+        },
+        "State_Codes": {
+          "count": 6618,
+          "unique": 66,
+          "top": "27",
+          "frequency": 1012
+        }
+      },
+      "minimum_values": {
+        "Unnamed: 0": "563",
+        "Duration(Days)": "1.0",
+        "Location": "",
+        "Latitude": "",
+        "Longitude": "",
+        "Severity": "",
+        "Area Affected": "",
+        "Human fatality": "1.0",
+        "Human injured": "1.0",
+        "Event Souce ID": ""
+      },
+      "maximum_values": {
+        "Unnamed: 0": "7438",
+        "Duration(Days)": "365.0",
+        "Location": "",
+        "Latitude": "",
+        "Longitude": "",
+        "Severity": "",
+        "Area Affected": "",
+        "Human fatality": "5000.0",
+        "Human injured": "2000.0",
+        "Event Souce ID": ""
+      },
+      "possible_identifiers": [
+        "Unnamed: 0",
+        "UEI",
+        "Event Souce ID"
+      ],
+      "possible_target_variables": [
+        "Duration(Days)",
+        "Severity",
+        "Area Affected",
+        "Human fatality",
+        "Human injured",
+        "Human Displaced",
+        "Animal Fatality",
+        "Description of Casualties/injured"
+      ],
+      "possible_leakage_variables": [
+        "Duration(Days)",
+        "Severity",
+        "Area Affected",
+        "Human fatality",
+        "Human injured",
+        "Human Displaced",
+        "Animal Fatality",
+        "Description of Casualties/injured",
+        "Extent of damage "
+      ],
+      "state_count": 82,
+      "district_count": 2892
+    },
+    "District_FloodImpact.csv": {
+      "rows": 732,
+      "columns": 5,
+      "column_names": [
+        "Dist_Name",
+        "Human_fatality",
+        "Human_injured",
+        "Population",
+        "Mean_Flood_Duration"
+      ],
+      "dtypes": {
+        "Dist_Name": "str",
+        "Human_fatality": "int64",
+        "Human_injured": "int64",
+        "Population": "int64",
+        "Mean_Flood_Duration": "float64"
+      },
+      "missing_values": {
+        "Dist_Name": 0,
+        "Human_fatality": 0,
+        "Human_injured": 0,
+        "Population": 0,
+        "Mean_Flood_Duration": 11
+      },
+      "missing_percentages": {
+        "Dist_Name": 0.0,
+        "Human_fatality": 0.0,
+        "Human_injured": 0.0,
+        "Population": 0.0,
+        "Mean_Flood_Duration": 1.5027
+      },
+      "duplicate_rows": 0,
+      "unique_counts": {
+        "Dist_Name": 726,
+        "Human_fatality": 234,
+        "Human_injured": 85,
+        "Population": 732,
+        "Mean_Flood_Duration": 36
+      },
+      "numerical_statistics": {
+        "Human_fatality": {
+          "count": 732.0,
+          "mean": 89.9303278689,
+          "std": 152.224011647,
+          "min": 0.0,
+          "25%": 12.0,
+          "50%": 50.0,
+          "75%": 122.25,
+          "max": 1726.0
+        },
+        "Human_injured": {
+          "count": 732.0,
+          "mean": 15.4549180328,
+          "std": 53.5609592017,
+          "min": 0.0,
+          "25%": 0.0,
+          "50%": 3.0,
+          "75%": 10.0,
+          "max": 671.0
+        },
+        "Population": {
+          "count": 732.0,
+          "mean": 1922614.43852459,
+          "std": 1713508.582379619,
+          "min": 7110.0,
+          "25%": 764979.25,
+          "50%": 1519773.5,
+          "75%": 2627948.5,
+          "max": 13403998.0
+        },
+        "Mean_Flood_Duration": {
+          "count": 721.0,
+          "mean": 10.8169209431,
+          "std": 8.2865213151,
+          "min": 1.0,
+          "25%": 5.0,
+          "50%": 7.0,
+          "75%": 17.0,
+          "max": 35.0
+        }
+      },
+      "categorical_statistics": {
+        "Dist_Name": {
+          "count": 732,
+          "unique": 726,
+          "top": "Aurangabad",
+          "frequency": 2
+        }
+      },
+      "minimum_values": {
+        "Human_fatality": "0",
+        "Human_injured": "0",
+        "Population": "7110",
+        "Mean_Flood_Duration": "1.0"
+      },
+      "maximum_values": {
+        "Human_fatality": "1726",
+        "Human_injured": "671",
+        "Population": "13403998",
+        "Mean_Flood_Duration": "35.0"
+      },
+      "possible_identifiers": [],
+      "possible_target_variables": [
+        "Human_fatality",
+        "Human_injured",
+        "Mean_Flood_Duration"
+      ],
+      "possible_leakage_variables": [
+        "Human_fatality",
+        "Human_injured",
+        "Mean_Flood_Duration"
+      ],
+      "state_count": null,
+      "district_count": 726
+    },
+    "District_FloodedArea.csv": {
+      "rows": 732,
+      "columns": 4,
+      "column_names": [
+        "Dist_Name",
+        "Percent_Flooded_Area",
+        "Parmanent_Water",
+        "Corrected_Percent_Flooded_Area"
+      ],
+      "dtypes": {
+        "Dist_Name": "str",
+        "Percent_Flooded_Area": "float64",
+        "Parmanent_Water": "float64",
+        "Corrected_Percent_Flooded_Area": "float64"
+      },
+      "missing_values": {
+        "Dist_Name": 0,
+        "Percent_Flooded_Area": 0,
+        "Parmanent_Water": 0,
+        "Corrected_Percent_Flooded_Area": 0
+      },
+      "missing_percentages": {
+        "Dist_Name": 0.0,
+        "Percent_Flooded_Area": 0.0,
+        "Parmanent_Water": 0.0,
+        "Corrected_Percent_Flooded_Area": 0.0
+      },
+      "duplicate_rows": 0,
+      "unique_counts": {
+        "Dist_Name": 726,
+        "Percent_Flooded_Area": 730,
+        "Parmanent_Water": 673,
+        "Corrected_Percent_Flooded_Area": 730
+      },
+      "numerical_statistics": {
+        "Percent_Flooded_Area": {
+          "count": 732.0,
+          "mean": 3.374125594,
+          "std": 4.4105073568,
+          "min": 0.001739235,
+          "25%": 0.8378252628,
+          "50%": 1.6978431415,
+          "75%": 3.832146258,
+          "max": 32.6562
+        },
+        "Parmanent_Water": {
+          "count": 732.0,
+          "mean": 0.6640254944,
+          "std": 1.7335812347,
+          "min": 0.0,
+          "25%": 0.0322262068,
+          "50%": 0.2389145345,
+          "75%": 0.6583502012,
+          "max": 29.67097127
+        },
+        "Corrected_Percent_Flooded_Area": {
+          "count": 732.0,
+          "mean": 2.7134377777,
+          "std": 3.8057912167,
+          "min": 7.34e-05,
+          "25%": 0.4594884982,
+          "50%": 1.2224718365,
+          "75%": 3.3398202892,
+          "max": 23.62192797
+        }
+      },
+      "categorical_statistics": {
+        "Dist_Name": {
+          "count": 732,
+          "unique": 726,
+          "top": "Aurangabad",
+          "frequency": 2
+        }
+      },
+      "minimum_values": {
+        "Percent_Flooded_Area": "0.001739235",
+        "Parmanent_Water": "0.0",
+        "Corrected_Percent_Flooded_Area": "7.34e-05"
+      },
+      "maximum_values": {
+        "Percent_Flooded_Area": "32.6562",
+        "Parmanent_Water": "29.67097127",
+        "Corrected_Percent_Flooded_Area": "23.62192797"
+      },
+      "possible_identifiers": [],
+      "possible_target_variables": [
+        "Percent_Flooded_Area",
+        "Corrected_Percent_Flooded_Area"
+      ],
+      "possible_leakage_variables": [
+        "Percent_Flooded_Area",
+        "Corrected_Percent_Flooded_Area"
+      ],
+      "state_count": null,
+      "district_count": 726
+    }
+  },
+  "temporal_coverage": {
+    "India_Flood_Inventory_v3.csv": {
+      "Start Date": {
+        "min": "1967-01-08",
+        "max": "2023-12-09",
+        "valid_values": 2930
+      },
+      "End Date": {
+        "min": "1967-08-07",
+        "max": "2023-12-09",
+        "valid_values": 2422
+      }
+    },
+    "District_FloodImpact.csv": {},
+    "District_FloodedArea.csv": {}
+  },
+  "column_details": [
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Unnamed: 0",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 6876,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": "563",
+      "maximum": "7438"
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "UEI",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 6876,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Start Date",
+      "dtype": "str",
+      "missing_count": 20,
+      "missing_percentage": 0.2909,
+      "unique_count": 3685,
+      "possible_use": "Temporal feature",
+      "possible_leakage_risk": "Medium: use only information available at the stated forecast horizon; avoid future dates.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "End Date",
+      "dtype": "str",
+      "missing_count": 20,
+      "missing_percentage": 0.2909,
+      "unique_count": 3693,
+      "possible_use": "Temporal feature",
+      "possible_leakage_risk": "Medium: use only information available at the stated forecast horizon; avoid future dates.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Duration(Days)",
+      "dtype": "float64",
+      "missing_count": 19,
+      "missing_percentage": 0.2763,
+      "unique_count": 62,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "1.0",
+      "maximum": "365.0"
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Main Cause",
+      "dtype": "str",
+      "missing_count": 31,
+      "missing_percentage": 0.4508,
+      "unique_count": 580,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Location",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Districts",
+      "dtype": "str",
+      "missing_count": 59,
+      "missing_percentage": 0.8581,
+      "unique_count": 2893,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "State",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 82,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Latitude",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Longitude",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Severity",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Area Affected",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Human fatality",
+      "dtype": "float64",
+      "missing_count": 3106,
+      "missing_percentage": 45.1716,
+      "unique_count": 184,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "1.0",
+      "maximum": "5000.0"
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Human injured",
+      "dtype": "float64",
+      "missing_count": 5818,
+      "missing_percentage": 84.6131,
+      "unique_count": 63,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "1.0",
+      "maximum": "2000.0"
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Human Displaced",
+      "dtype": "str",
+      "missing_count": 6754,
+      "missing_percentage": 98.2257,
+      "unique_count": 24,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Animal Fatality",
+      "dtype": "str",
+      "missing_count": 6305,
+      "missing_percentage": 91.6958,
+      "unique_count": 248,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Description of Casualties/injured",
+      "dtype": "str",
+      "missing_count": 3609,
+      "missing_percentage": 52.4869,
+      "unique_count": 2488,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Extent of damage ",
+      "dtype": "str",
+      "missing_count": 3121,
+      "missing_percentage": 45.3898,
+      "unique_count": 3613,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Event Source",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 1,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "Event Souce ID",
+      "dtype": "float64",
+      "missing_count": 6876,
+      "missing_percentage": 100.0,
+      "unique_count": 1,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": "",
+      "maximum": ""
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "District_LGD_Codes",
+      "dtype": "str",
+      "missing_count": 304,
+      "missing_percentage": 4.4212,
+      "unique_count": 2483,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "India_Flood_Inventory_v3.csv",
+      "column": "State_Codes",
+      "dtype": "str",
+      "missing_count": 258,
+      "missing_percentage": 3.7522,
+      "unique_count": 66,
+      "possible_use": "Geographic key or location feature",
+      "possible_leakage_risk": "Medium: may encode location or enable joins; validate availability at prediction time.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "District_FloodImpact.csv",
+      "column": "Dist_Name",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 726,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "District_FloodImpact.csv",
+      "column": "Human_fatality",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 234,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "0",
+      "maximum": "1726"
+    },
+    {
+      "dataset": "District_FloodImpact.csv",
+      "column": "Human_injured",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 85,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "0",
+      "maximum": "671"
+    },
+    {
+      "dataset": "District_FloodImpact.csv",
+      "column": "Population",
+      "dtype": "int64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 732,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": "7110",
+      "maximum": "13403998"
+    },
+    {
+      "dataset": "District_FloodImpact.csv",
+      "column": "Mean_Flood_Duration",
+      "dtype": "float64",
+      "missing_count": 11,
+      "missing_percentage": 1.5027,
+      "unique_count": 36,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "1.0",
+      "maximum": "35.0"
+    },
+    {
+      "dataset": "District_FloodedArea.csv",
+      "column": "Dist_Name",
+      "dtype": "str",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 726,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": null,
+      "maximum": null
+    },
+    {
+      "dataset": "District_FloodedArea.csv",
+      "column": "Percent_Flooded_Area",
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 730,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "0.001739235",
+      "maximum": "32.6562"
+    },
+    {
+      "dataset": "District_FloodedArea.csv",
+      "column": "Parmanent_Water",
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 673,
+      "possible_use": "Numerical feature",
+      "possible_leakage_risk": "Low by name; confirm measurement timing and provenance before modeling.",
+      "minimum": "0.0",
+      "maximum": "29.67097127"
+    },
+    {
+      "dataset": "District_FloodedArea.csv",
+      "column": "Corrected_Percent_Flooded_Area",
+      "dtype": "float64",
+      "missing_count": 0,
+      "missing_percentage": 0.0,
+      "unique_count": 730,
+      "possible_use": "Candidate target or post-event impact feature",
+      "possible_leakage_risk": "High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.",
+      "minimum": "7.34e-05",
+      "maximum": "23.62192797"
+    }
+  ]
+}

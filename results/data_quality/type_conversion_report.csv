@@ -1,0 +1,33 @@
+source_file,original_column,cleaned_column,original_dtype,target_dtype,conversion_attempted,conversion_failure_count,failure_examples,action
+District_FloodImpact.csv,Dist_Name,dist_name,str,string,False,0,,converted without imputing values
+District_FloodImpact.csv,Human_fatality,human_fatality,int64,int64,True,0,,converted without imputing values
+District_FloodImpact.csv,Human_injured,human_injured,int64,int64,True,0,,converted without imputing values
+District_FloodImpact.csv,Population,population,int64,int64,True,0,,converted without imputing values
+District_FloodImpact.csv,Mean_Flood_Duration,mean_flood_duration,float64,float64,True,0,,converted without imputing values
+District_FloodedArea.csv,Dist_Name,dist_name,str,string,False,0,,converted without imputing values
+District_FloodedArea.csv,Percent_Flooded_Area,percent_flooded_area,float64,float64,True,0,,converted without imputing values
+District_FloodedArea.csv,Parmanent_Water,parmanent_water,float64,float64,True,0,,converted without imputing values
+District_FloodedArea.csv,Corrected_Percent_Flooded_Area,corrected_percent_flooded_area,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Unnamed: 0,unnamed_0,int64,int64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,UEI,uei,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Start Date,start_date,str,datetime64[ns],True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,End Date,end_date,str,datetime64[ns],True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Duration(Days),duration_days,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Main Cause,main_cause,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Location,location,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Districts,districts,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,State,state,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Latitude,latitude,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Longitude,longitude,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Severity,severity,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Area Affected,area_affected,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Human fatality,human_fatality,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Human injured,human_injured,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Human Displaced,human_displaced,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Animal Fatality,animal_fatality,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Description of Casualties/injured,description_of_casualties_injured,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Extent of damage ,extent_of_damage,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Event Source,event_source,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,Event Souce ID,event_souce_id,float64,float64,True,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,District_LGD_Codes,district_lgd_codes,str,string,False,0,,converted without imputing values
+India_Flood_Inventory_v3.csv,State_Codes,state_codes,str,string,False,0,,converted without imputing values

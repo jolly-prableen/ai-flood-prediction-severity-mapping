@@ -1,0 +1,2381 @@
+source_file,original_state,original_district,standardized_state,standardized_district,mapping_reason,confidence
+District_FloodImpact.csv,,Dadra & Nagar Haveli,,Dadra & Nagar Haveli,unchanged source name,HIGH
+District_FloodImpact.csv,,Daman,,Daman,unchanged source name,HIGH
+District_FloodImpact.csv,,Diu,,Diu,unchanged source name,HIGH
+District_FloodImpact.csv,,North  & Middle Andaman,,North & Middle Andaman,format-only: trimmed or collapsed whitespace,HIGH
+District_FloodImpact.csv,,South Andaman,,South Andaman,unchanged source name,HIGH
+District_FloodImpact.csv,,Nicobars,,Nicobars,unchanged source name,HIGH
+District_FloodImpact.csv,,Srikakulam,,Srikakulam,unchanged source name,HIGH
+District_FloodImpact.csv,,Vizianagaram,,Vizianagaram,unchanged source name,HIGH
+District_FloodImpact.csv,,Visakhapatnam,,Visakhapatnam,unchanged source name,HIGH
+District_FloodImpact.csv,,Krishna,,Krishna,unchanged source name,HIGH
+District_FloodImpact.csv,,Guntur,,Guntur,unchanged source name,HIGH
+District_FloodImpact.csv,,East Godavari,,East Godavari,unchanged source name,HIGH
+District_FloodImpact.csv,,Prakasam,,Prakasam,unchanged source name,HIGH
+District_FloodImpact.csv,,Kurnool,,Kurnool,unchanged source name,HIGH
+District_FloodImpact.csv,,Anantapur,,Anantapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sri Potti Sriramulu Nell*,,Sri Potti Sriramulu Nell*,unchanged source name,HIGH
+District_FloodImpact.csv,,West Godavari,,West Godavari,unchanged source name,HIGH
+District_FloodImpact.csv,,Y.S.R.,,Y.S.R.,unchanged source name,HIGH
+District_FloodImpact.csv,,Chittoor,,Chittoor,unchanged source name,HIGH
+District_FloodImpact.csv,,Upper Subansiri,,Upper Subansiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Anjaw,,Anjaw,unchanged source name,HIGH
+District_FloodImpact.csv,,Changlang,,Changlang,unchanged source name,HIGH
+District_FloodImpact.csv,,Tawang,,Tawang,unchanged source name,HIGH
+District_FloodImpact.csv,,Papum Pare,,Papum Pare,unchanged source name,HIGH
+District_FloodImpact.csv,,Tirap,,Tirap,unchanged source name,HIGH
+District_FloodImpact.csv,,East Siang,,East Siang,unchanged source name,HIGH
+District_FloodImpact.csv,,Lohit,,Lohit,unchanged source name,HIGH
+District_FloodImpact.csv,,Kurung Kumey,,Kurung Kumey,unchanged source name,HIGH
+District_FloodImpact.csv,,Lower Subansiri,,Lower Subansiri,unchanged source name,HIGH
+District_FloodImpact.csv,,East Kameng,,East Kameng,unchanged source name,HIGH
+District_FloodImpact.csv,,West Kameng,,West Kameng,unchanged source name,HIGH
+District_FloodImpact.csv,,Kra Daadi,,Kra Daadi,unchanged source name,HIGH
+District_FloodImpact.csv,,Namsai,,Namsai,unchanged source name,HIGH
+District_FloodImpact.csv,,Longding,,Longding,unchanged source name,HIGH
+District_FloodImpact.csv,,Upper Siang,,Upper Siang,unchanged source name,HIGH
+District_FloodImpact.csv,,Lower Siang,,Lower Siang,unchanged source name,HIGH
+District_FloodImpact.csv,,Upper Dibang Valley,,Upper Dibang Valley,unchanged source name,HIGH
+District_FloodImpact.csv,,Lower Dibang Valley,,Lower Dibang Valley,unchanged source name,HIGH
+District_FloodImpact.csv,,Siang,,Siang,unchanged source name,HIGH
+District_FloodImpact.csv,,Shi Yomi,,Shi Yomi,unchanged source name,HIGH
+District_FloodImpact.csv,,Pakke Kessang,,Pakke Kessang,unchanged source name,HIGH
+District_FloodImpact.csv,,West Siang,,West Siang,unchanged source name,HIGH
+District_FloodImpact.csv,,Lepa Rada,,Lepa Rada,unchanged source name,HIGH
+District_FloodImpact.csv,,Kamle,,Kamle,unchanged source name,HIGH
+District_FloodImpact.csv,,Tinsukia,,Tinsukia,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhemaji,,Dhemaji,unchanged source name,HIGH
+District_FloodImpact.csv,,Dibrugarh,,Dibrugarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Lakhimpur,,Lakhimpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sivasagar,,Sivasagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Jorhat,,Jorhat,unchanged source name,HIGH
+District_FloodImpact.csv,,Sonitpur,,Sonitpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Golaghat,,Golaghat,unchanged source name,HIGH
+District_FloodImpact.csv,,Udalguri,,Udalguri,unchanged source name,HIGH
+District_FloodImpact.csv,,Chirang,,Chirang,unchanged source name,HIGH
+District_FloodImpact.csv,,Baksa,,Baksa,unchanged source name,HIGH
+District_FloodImpact.csv,,Nagaon,,Nagaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Kokrajhar,,Kokrajhar,unchanged source name,HIGH
+District_FloodImpact.csv,,Darrang,,Darrang,unchanged source name,HIGH
+District_FloodImpact.csv,,Barpeta,,Barpeta,unchanged source name,HIGH
+District_FloodImpact.csv,,Nalbari,,Nalbari,unchanged source name,HIGH
+District_FloodImpact.csv,,Morigaon,,Morigaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Kamrup,,Kamrup,unchanged source name,HIGH
+District_FloodImpact.csv,,Bongaigaon,,Bongaigaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhubri,,Dhubri,unchanged source name,HIGH
+District_FloodImpact.csv,,Kamrup Metropolitan,,Kamrup Metropolitan,unchanged source name,HIGH
+District_FloodImpact.csv,,Goalpara,,Goalpara,unchanged source name,HIGH
+District_FloodImpact.csv,,Dima Hasao,,Dima Hasao,unchanged source name,HIGH
+District_FloodImpact.csv,,Cachar,,Cachar,unchanged source name,HIGH
+District_FloodImpact.csv,,Karimganj,,Karimganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Hailakandi,,Hailakandi,unchanged source name,HIGH
+District_FloodImpact.csv,,Charaideo,,Charaideo,unchanged source name,HIGH
+District_FloodImpact.csv,,Majuli,,Majuli,unchanged source name,HIGH
+District_FloodImpact.csv,,Biswanath,,Biswanath,unchanged source name,HIGH
+District_FloodImpact.csv,,Hojai,,Hojai,unchanged source name,HIGH
+District_FloodImpact.csv,,South Salmara Mancachar,,South Salmara Mancachar,unchanged source name,HIGH
+District_FloodImpact.csv,,Karbi Anglong,,Karbi Anglong,unchanged source name,HIGH
+District_FloodImpact.csv,,West Karbi Anglong,,West Karbi Anglong,unchanged source name,HIGH
+District_FloodImpact.csv,,Pashchim Champaran,,Pashchim Champaran,unchanged source name,HIGH
+District_FloodImpact.csv,,Purba Champaran,,Purba Champaran,unchanged source name,HIGH
+District_FloodImpact.csv,,Sitamarhi,,Sitamarhi,unchanged source name,HIGH
+District_FloodImpact.csv,,Sheohar,,Sheohar,unchanged source name,HIGH
+District_FloodImpact.csv,,Gopalganj,,Gopalganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Samastipur,,Samastipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Katihar,,Katihar,unchanged source name,HIGH
+District_FloodImpact.csv,,Khagaria,,Khagaria,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhojpur,,Bhojpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Buxar,,Buxar,unchanged source name,HIGH
+District_FloodImpact.csv,,Darbhanga,,Darbhanga,unchanged source name,HIGH
+District_FloodImpact.csv,,Saharsa,,Saharsa,unchanged source name,HIGH
+District_FloodImpact.csv,,Kaimur (bhabua),,Kaimur (bhabua),unchanged source name,HIGH
+District_FloodImpact.csv,,Rohtas,,Rohtas,unchanged source name,HIGH
+District_FloodImpact.csv,,Jamui,,Jamui,unchanged source name,HIGH
+District_FloodImpact.csv,,Banka,,Banka,unchanged source name,HIGH
+District_FloodImpact.csv,,Nawada,,Nawada,unchanged source name,HIGH
+District_FloodImpact.csv,,Gaya,,Gaya,unchanged source name,HIGH
+District_FloodImpact.csv,,Munger,,Munger,unchanged source name,HIGH
+District_FloodImpact.csv,,Vaishali,,Vaishali,unchanged source name,HIGH
+District_FloodImpact.csv,,Begusarai,,Begusarai,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhagalpur,,Bhagalpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Lakhisarai,,Lakhisarai,unchanged source name,HIGH
+District_FloodImpact.csv,,Sheikhpura,,Sheikhpura,unchanged source name,HIGH
+District_FloodImpact.csv,,Arwal,,Arwal,unchanged source name,HIGH
+District_FloodImpact.csv,,Jehanabad,,Jehanabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Nalanda,,Nalanda,unchanged source name,HIGH
+District_FloodImpact.csv,,Patna,,Patna,unchanged source name,HIGH
+District_FloodImpact.csv,,Saran,,Saran,unchanged source name,HIGH
+District_FloodImpact.csv,,Siwan,,Siwan,unchanged source name,HIGH
+District_FloodImpact.csv,,Muzaffarpur,,Muzaffarpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Madhepura,,Madhepura,unchanged source name,HIGH
+District_FloodImpact.csv,,Araria,,Araria,unchanged source name,HIGH
+District_FloodImpact.csv,,Supaul,,Supaul,unchanged source name,HIGH
+District_FloodImpact.csv,,Madhubani,,Madhubani,unchanged source name,HIGH
+District_FloodImpact.csv,,Purnia,,Purnia,unchanged source name,HIGH
+District_FloodImpact.csv,,Kishanganj,,Kishanganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Aurangabad,,Aurangabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Chandigarh,,Chandigarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahasamund,,Mahasamund,unchanged source name,HIGH
+District_FloodImpact.csv,,Uttar Bastar Kanker,,Uttar Bastar Kanker,unchanged source name,HIGH
+District_FloodImpact.csv,,Narayanpur,,Narayanpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Dakshin Bastar Dantewada,,Dakshin Bastar Dantewada,unchanged source name,HIGH
+District_FloodImpact.csv,,Bastar,,Bastar,unchanged source name,HIGH
+District_FloodImpact.csv,,Kondagaon,,Kondagaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Gariaband,,Gariaband,unchanged source name,HIGH
+District_FloodImpact.csv,,Raipur,,Raipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Durg,,Durg,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhamtari,,Dhamtari,unchanged source name,HIGH
+District_FloodImpact.csv,,Balod,,Balod,unchanged source name,HIGH
+District_FloodImpact.csv,,Koriya,,Koriya,unchanged source name,HIGH
+District_FloodImpact.csv,,Jashpur,,Jashpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Korba,,Korba,unchanged source name,HIGH
+District_FloodImpact.csv,,Kabeerdham,,Kabeerdham,unchanged source name,HIGH
+District_FloodImpact.csv,,Janjgir - Champa,,Janjgir - Champa,unchanged source name,HIGH
+District_FloodImpact.csv,,Bametara,,Bametara,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajnandgaon,,Rajnandgaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Surajpur,,Surajpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Baloda Bazar,,Baloda Bazar,unchanged source name,HIGH
+District_FloodImpact.csv,,Mungeli,,Mungeli,unchanged source name,HIGH
+District_FloodImpact.csv,,Surguja,,Surguja,unchanged source name,HIGH
+District_FloodImpact.csv,,Balrampur,,Balrampur,unchanged source name,HIGH
+District_FloodImpact.csv,,Bijapur,,Bijapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Raigarh,,Raigarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Bilaspur,,Bilaspur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sukma,,Sukma,unchanged source name,HIGH
+District_FloodImpact.csv,,North,,North,unchanged source name,HIGH
+District_FloodImpact.csv,,North East,,North East,unchanged source name,HIGH
+District_FloodImpact.csv,,West,,West,unchanged source name,HIGH
+District_FloodImpact.csv,,East,,East,unchanged source name,HIGH
+District_FloodImpact.csv,,South West,,South West,unchanged source name,HIGH
+District_FloodImpact.csv,,Central,,Central,unchanged source name,HIGH
+District_FloodImpact.csv,,New Delhi,,New Delhi,unchanged source name,HIGH
+District_FloodImpact.csv,,South,,South,unchanged source name,HIGH
+District_FloodImpact.csv,,Shahdara,,Shahdara,unchanged source name,HIGH
+District_FloodImpact.csv,,South East,,South East,unchanged source name,HIGH
+District_FloodImpact.csv,,North West,,North West,unchanged source name,HIGH
+District_FloodImpact.csv,,North Goa,,North Goa,unchanged source name,HIGH
+District_FloodImpact.csv,,South Goa,,South Goa,unchanged source name,HIGH
+District_FloodImpact.csv,,Valsad,,Valsad,unchanged source name,HIGH
+District_FloodImpact.csv,,Amreli,,Amreli,unchanged source name,HIGH
+District_FloodImpact.csv,,The Dangs,,The Dangs,unchanged source name,HIGH
+District_FloodImpact.csv,,Banas Kantha,,Banas Kantha,unchanged source name,HIGH
+District_FloodImpact.csv,,Patan,,Patan,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahesana,,Mahesana,unchanged source name,HIGH
+District_FloodImpact.csv,,Gandhinagar,,Gandhinagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Ahmadabad,,Ahmadabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Panch Mahals,,Panch Mahals,unchanged source name,HIGH
+District_FloodImpact.csv,,Dohad,,Dohad,unchanged source name,HIGH
+District_FloodImpact.csv,,Vadodara,,Vadodara,unchanged source name,HIGH
+District_FloodImpact.csv,,Bharuch,,Bharuch,unchanged source name,HIGH
+District_FloodImpact.csv,,Porbandar,,Porbandar,unchanged source name,HIGH
+District_FloodImpact.csv,,Narmada,,Narmada,unchanged source name,HIGH
+District_FloodImpact.csv,,Surat,,Surat,unchanged source name,HIGH
+District_FloodImpact.csv,,Tapi,,Tapi,unchanged source name,HIGH
+District_FloodImpact.csv,,Aravalli,,Aravalli,unchanged source name,HIGH
+District_FloodImpact.csv,,Botad,,Botad,unchanged source name,HIGH
+District_FloodImpact.csv,,Chota Udaipur,,Chota Udaipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahisagar,,Mahisagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Gir Somnath,,Gir Somnath,unchanged source name,HIGH
+District_FloodImpact.csv,,Sabar Kantha,,Sabar Kantha,unchanged source name,HIGH
+District_FloodImpact.csv,,Kachchh,,Kachchh,unchanged source name,HIGH
+District_FloodImpact.csv,,Surendranagar,,Surendranagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajkot,,Rajkot,unchanged source name,HIGH
+District_FloodImpact.csv,,Kheda,,Kheda,unchanged source name,HIGH
+District_FloodImpact.csv,,Anand,,Anand,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhavnagar,,Bhavnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Junagadh,,Junagadh,unchanged source name,HIGH
+District_FloodImpact.csv,,Jamnagar,,Jamnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Devbhumi Dwarka,,Devbhumi Dwarka,unchanged source name,HIGH
+District_FloodImpact.csv,,Morbi,,Morbi,unchanged source name,HIGH
+District_FloodImpact.csv,,Navsari,,Navsari,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhajjar,,Jhajjar,unchanged source name,HIGH
+District_FloodImpact.csv,,Gurugram,,Gurugram,unchanged source name,HIGH
+District_FloodImpact.csv,,Faridabad,,Faridabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahendragarh,,Mahendragarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Rewari,,Rewari,unchanged source name,HIGH
+District_FloodImpact.csv,,Nuh,,Nuh,unchanged source name,HIGH
+District_FloodImpact.csv,,Palwal,,Palwal,unchanged source name,HIGH
+District_FloodImpact.csv,,Charki Dadri,,Charki Dadri,unchanged source name,HIGH
+District_FloodImpact.csv,,Yamunanagar,,Yamunanagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Kurukshetra,,Kurukshetra,unchanged source name,HIGH
+District_FloodImpact.csv,,Kaithal,,Kaithal,unchanged source name,HIGH
+District_FloodImpact.csv,,Sirsa,,Sirsa,unchanged source name,HIGH
+District_FloodImpact.csv,,Karnal,,Karnal,unchanged source name,HIGH
+District_FloodImpact.csv,,Jind,,Jind,unchanged source name,HIGH
+District_FloodImpact.csv,,Fatehabad,,Fatehabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Hisar,,Hisar,unchanged source name,HIGH
+District_FloodImpact.csv,,Panipat,,Panipat,unchanged source name,HIGH
+District_FloodImpact.csv,,Sonipat,,Sonipat,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhiwani,,Bhiwani,unchanged source name,HIGH
+District_FloodImpact.csv,,Rohtak,,Rohtak,unchanged source name,HIGH
+District_FloodImpact.csv,,Panchkula,,Panchkula,unchanged source name,HIGH
+District_FloodImpact.csv,,Ambala,,Ambala,unchanged source name,HIGH
+District_FloodImpact.csv,,Lahul & Spiti,,Lahul & Spiti,unchanged source name,HIGH
+District_FloodImpact.csv,,Chamba,,Chamba,unchanged source name,HIGH
+District_FloodImpact.csv,,Kangra,,Kangra,unchanged source name,HIGH
+District_FloodImpact.csv,,Kullu,,Kullu,unchanged source name,HIGH
+District_FloodImpact.csv,,Mandi,,Mandi,unchanged source name,HIGH
+District_FloodImpact.csv,,Kinnaur,,Kinnaur,unchanged source name,HIGH
+District_FloodImpact.csv,,Una,,Una,unchanged source name,HIGH
+District_FloodImpact.csv,,Shimla,,Shimla,unchanged source name,HIGH
+District_FloodImpact.csv,,Solan,,Solan,unchanged source name,HIGH
+District_FloodImpact.csv,,Sirmaur,,Sirmaur,unchanged source name,HIGH
+District_FloodImpact.csv,,Hamirpur,,Hamirpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Kupwara,,Kupwara,unchanged source name,HIGH
+District_FloodImpact.csv,,Bandipore,,Bandipore,unchanged source name,HIGH
+District_FloodImpact.csv,,Baramula,,Baramula,unchanged source name,HIGH
+District_FloodImpact.csv,,Ganderbal,,Ganderbal,unchanged source name,HIGH
+District_FloodImpact.csv,,Anantnag,,Anantnag,unchanged source name,HIGH
+District_FloodImpact.csv,,Kishtwar,,Kishtwar,unchanged source name,HIGH
+District_FloodImpact.csv,,Srinagar,,Srinagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Badgam,,Badgam,unchanged source name,HIGH
+District_FloodImpact.csv,,Pulwama,,Pulwama,unchanged source name,HIGH
+District_FloodImpact.csv,,Punch,,Punch,unchanged source name,HIGH
+District_FloodImpact.csv,,Shupiyan,,Shupiyan,unchanged source name,HIGH
+District_FloodImpact.csv,,Kulgam,,Kulgam,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajouri,,Rajouri,unchanged source name,HIGH
+District_FloodImpact.csv,,Ramban,,Ramban,unchanged source name,HIGH
+District_FloodImpact.csv,,Reasi,,Reasi,unchanged source name,HIGH
+District_FloodImpact.csv,,Doda,,Doda,unchanged source name,HIGH
+District_FloodImpact.csv,,Jammu,,Jammu,unchanged source name,HIGH
+District_FloodImpact.csv,,Kathua,,Kathua,unchanged source name,HIGH
+District_FloodImpact.csv,,Udhampur,,Udhampur,unchanged source name,HIGH
+District_FloodImpact.csv,,Samba,,Samba,unchanged source name,HIGH
+District_FloodImpact.csv,,Muzaffarabad,,Muzaffarabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Mirpur,,Mirpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sahibganj,,Sahibganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Godda,,Godda,unchanged source name,HIGH
+District_FloodImpact.csv,,Pakur,,Pakur,unchanged source name,HIGH
+District_FloodImpact.csv,,Giridih,,Giridih,unchanged source name,HIGH
+District_FloodImpact.csv,,Dumka,,Dumka,unchanged source name,HIGH
+District_FloodImpact.csv,,Deoghar,,Deoghar,unchanged source name,HIGH
+District_FloodImpact.csv,,Palamu,,Palamu,unchanged source name,HIGH
+District_FloodImpact.csv,,Chatra,,Chatra,unchanged source name,HIGH
+District_FloodImpact.csv,,Garhwa,,Garhwa,unchanged source name,HIGH
+District_FloodImpact.csv,,Jamtara,,Jamtara,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhanbad,,Dhanbad,unchanged source name,HIGH
+District_FloodImpact.csv,,Latehar,,Latehar,unchanged source name,HIGH
+District_FloodImpact.csv,,Bokaro,,Bokaro,unchanged source name,HIGH
+District_FloodImpact.csv,,Ramgarh,,Ramgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Ranchi,,Ranchi,unchanged source name,HIGH
+District_FloodImpact.csv,,Lohardaga,,Lohardaga,unchanged source name,HIGH
+District_FloodImpact.csv,,Gumla,,Gumla,unchanged source name,HIGH
+District_FloodImpact.csv,,Khunti,,Khunti,unchanged source name,HIGH
+District_FloodImpact.csv,,Saraikela-kharsawan,,Saraikela-kharsawan,unchanged source name,HIGH
+District_FloodImpact.csv,,Purbi Singhbhum,,Purbi Singhbhum,unchanged source name,HIGH
+District_FloodImpact.csv,,Pashchimi Singhbhum,,Pashchimi Singhbhum,unchanged source name,HIGH
+District_FloodImpact.csv,,Simdega,,Simdega,unchanged source name,HIGH
+District_FloodImpact.csv,,Kodarma,,Kodarma,unchanged source name,HIGH
+District_FloodImpact.csv,,Hazaribagh,,Hazaribagh,unchanged source name,HIGH
+District_FloodImpact.csv,,Bidar,,Bidar,unchanged source name,HIGH
+District_FloodImpact.csv,,Kalaburagi,,Kalaburagi,unchanged source name,HIGH
+District_FloodImpact.csv,,Belagavi,,Belagavi,unchanged source name,HIGH
+District_FloodImpact.csv,,Yadgir,,Yadgir,unchanged source name,HIGH
+District_FloodImpact.csv,,Bagalkote,,Bagalkote,unchanged source name,HIGH
+District_FloodImpact.csv,,Raichur,,Raichur,unchanged source name,HIGH
+District_FloodImpact.csv,,Koppal,,Koppal,unchanged source name,HIGH
+District_FloodImpact.csv,,Gadag,,Gadag,unchanged source name,HIGH
+District_FloodImpact.csv,,Ballari,,Ballari,unchanged source name,HIGH
+District_FloodImpact.csv,,Dharwad,,Dharwad,unchanged source name,HIGH
+District_FloodImpact.csv,,Uttara Kannada,,Uttara Kannada,unchanged source name,HIGH
+District_FloodImpact.csv,,Haveri,,Haveri,unchanged source name,HIGH
+District_FloodImpact.csv,,Chitradurga,,Chitradurga,unchanged source name,HIGH
+District_FloodImpact.csv,,Davanagere,,Davanagere,unchanged source name,HIGH
+District_FloodImpact.csv,,Shivamogga,,Shivamogga,unchanged source name,HIGH
+District_FloodImpact.csv,,Udupi,,Udupi,unchanged source name,HIGH
+District_FloodImpact.csv,,Chikkamagaluru,,Chikkamagaluru,unchanged source name,HIGH
+District_FloodImpact.csv,,Chikkaballapura,,Chikkaballapura,unchanged source name,HIGH
+District_FloodImpact.csv,,Hassan,,Hassan,unchanged source name,HIGH
+District_FloodImpact.csv,,Kolar,,Kolar,unchanged source name,HIGH
+District_FloodImpact.csv,,Bengaluru Rural,,Bengaluru Rural,unchanged source name,HIGH
+District_FloodImpact.csv,,Dakshina Kannada,,Dakshina Kannada,unchanged source name,HIGH
+District_FloodImpact.csv,,Bangalore,,Bangalore,unchanged source name,HIGH
+District_FloodImpact.csv,,Kodagu,,Kodagu,unchanged source name,HIGH
+District_FloodImpact.csv,,Chamarajanagara,,Chamarajanagara,unchanged source name,HIGH
+District_FloodImpact.csv,,Tumakuru,,Tumakuru,unchanged source name,HIGH
+District_FloodImpact.csv,,Ramanagara,,Ramanagara,unchanged source name,HIGH
+District_FloodImpact.csv,,Mandya,,Mandya,unchanged source name,HIGH
+District_FloodImpact.csv,,Mysuru,,Mysuru,unchanged source name,HIGH
+District_FloodImpact.csv,,Vijayapura,,Vijayapura,unchanged source name,HIGH
+District_FloodImpact.csv,,Kasaragod,,Kasaragod,unchanged source name,HIGH
+District_FloodImpact.csv,,Wayanad,,Wayanad,unchanged source name,HIGH
+District_FloodImpact.csv,,Kozhikode,,Kozhikode,unchanged source name,HIGH
+District_FloodImpact.csv,,Malappuram,,Malappuram,unchanged source name,HIGH
+District_FloodImpact.csv,,Palakkad,,Palakkad,unchanged source name,HIGH
+District_FloodImpact.csv,,Thrissur,,Thrissur,unchanged source name,HIGH
+District_FloodImpact.csv,,Idukki,,Idukki,unchanged source name,HIGH
+District_FloodImpact.csv,,Ernakulam,,Ernakulam,unchanged source name,HIGH
+District_FloodImpact.csv,,Alappuzha,,Alappuzha,unchanged source name,HIGH
+District_FloodImpact.csv,,Kottayam,,Kottayam,unchanged source name,HIGH
+District_FloodImpact.csv,,Pathanamthitta,,Pathanamthitta,unchanged source name,HIGH
+District_FloodImpact.csv,,Kollam,,Kollam,unchanged source name,HIGH
+District_FloodImpact.csv,,Thiruvananthapuram,,Thiruvananthapuram,unchanged source name,HIGH
+District_FloodImpact.csv,,Kannur,,Kannur,unchanged source name,HIGH
+District_FloodImpact.csv,,Leh,,Leh,unchanged source name,HIGH
+District_FloodImpact.csv,,Kargil,,Kargil,unchanged source name,HIGH
+District_FloodImpact.csv,,Lakshadweep,,Lakshadweep,unchanged source name,HIGH
+District_FloodImpact.csv,,Burhanpur,,Burhanpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Morena,,Morena,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhind,,Bhind,unchanged source name,HIGH
+District_FloodImpact.csv,,Gwalior,,Gwalior,unchanged source name,HIGH
+District_FloodImpact.csv,,Sheopur,,Sheopur,unchanged source name,HIGH
+District_FloodImpact.csv,,Shivpuri,,Shivpuri,unchanged source name,HIGH
+District_FloodImpact.csv,,Tikamgarh,,Tikamgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Neemuch,,Neemuch,unchanged source name,HIGH
+District_FloodImpact.csv,,Rewa,,Rewa,unchanged source name,HIGH
+District_FloodImpact.csv,,Satna,,Satna,unchanged source name,HIGH
+District_FloodImpact.csv,,Guna,,Guna,unchanged source name,HIGH
+District_FloodImpact.csv,,Ashoknagar,,Ashoknagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Mandsaur,,Mandsaur,unchanged source name,HIGH
+District_FloodImpact.csv,,Singrauli,,Singrauli,unchanged source name,HIGH
+District_FloodImpact.csv,,Sidhi,,Sidhi,unchanged source name,HIGH
+District_FloodImpact.csv,,Sagar,,Sagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Damoh,,Damoh,unchanged source name,HIGH
+District_FloodImpact.csv,,Shajapur,,Shajapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Vidisha,,Vidisha,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajgarh,,Rajgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Shahdol,,Shahdol,unchanged source name,HIGH
+District_FloodImpact.csv,,Katni,,Katni,unchanged source name,HIGH
+District_FloodImpact.csv,,Umaria,,Umaria,unchanged source name,HIGH
+District_FloodImpact.csv,,Ratlam,,Ratlam,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhopal,,Bhopal,unchanged source name,HIGH
+District_FloodImpact.csv,,Ujjain,,Ujjain,unchanged source name,HIGH
+District_FloodImpact.csv,,Raisen,,Raisen,unchanged source name,HIGH
+District_FloodImpact.csv,,Sehore,,Sehore,unchanged source name,HIGH
+District_FloodImpact.csv,,Jabalpur,,Jabalpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Dewas,,Dewas,unchanged source name,HIGH
+District_FloodImpact.csv,,Anuppur,,Anuppur,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhabua,,Jhabua,unchanged source name,HIGH
+District_FloodImpact.csv,,Dindori,,Dindori,unchanged source name,HIGH
+District_FloodImpact.csv,,Narsimhapur,,Narsimhapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhar,,Dhar,unchanged source name,HIGH
+District_FloodImpact.csv,,Indore,,Indore,unchanged source name,HIGH
+District_FloodImpact.csv,,Mandla,,Mandla,unchanged source name,HIGH
+District_FloodImpact.csv,,Hoshangabad,,Hoshangabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Seoni,,Seoni,unchanged source name,HIGH
+District_FloodImpact.csv,,Alirajpur,,Alirajpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Chhindwara,,Chhindwara,unchanged source name,HIGH
+District_FloodImpact.csv,,Harda,,Harda,unchanged source name,HIGH
+District_FloodImpact.csv,,West Nimar,,West Nimar,unchanged source name,HIGH
+District_FloodImpact.csv,,East Nimar,,East Nimar,unchanged source name,HIGH
+District_FloodImpact.csv,,Balaghat,,Balaghat,unchanged source name,HIGH
+District_FloodImpact.csv,,Barwani,,Barwani,unchanged source name,HIGH
+District_FloodImpact.csv,,Agar Malwa,,Agar Malwa,unchanged source name,HIGH
+District_FloodImpact.csv,,Datia,,Datia,unchanged source name,HIGH
+District_FloodImpact.csv,,Chhatarpur,,Chhatarpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Panna,,Panna,unchanged source name,HIGH
+District_FloodImpact.csv,,Betul,,Betul,unchanged source name,HIGH
+District_FloodImpact.csv,,Niwari,,Niwari,unchanged source name,HIGH
+District_FloodImpact.csv,,Gondiya,,Gondiya,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhandara,,Bhandara,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalgaon,,Jalgaon,unchanged source name,HIGH
+District_FloodImpact.csv,,Wardha,,Wardha,unchanged source name,HIGH
+District_FloodImpact.csv,,Buldana,,Buldana,unchanged source name,HIGH
+District_FloodImpact.csv,,Akola,,Akola,unchanged source name,HIGH
+District_FloodImpact.csv,,Nashik,,Nashik,unchanged source name,HIGH
+District_FloodImpact.csv,,Gadchiroli,,Gadchiroli,unchanged source name,HIGH
+District_FloodImpact.csv,,Washim,,Washim,unchanged source name,HIGH
+District_FloodImpact.csv,,Chandrapur,,Chandrapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Yavatmal,,Yavatmal,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalna,,Jalna,unchanged source name,HIGH
+District_FloodImpact.csv,,Ahmadnagar,,Ahmadnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Hingoli,,Hingoli,unchanged source name,HIGH
+District_FloodImpact.csv,,Nanded,,Nanded,unchanged source name,HIGH
+District_FloodImpact.csv,,Parbhani,,Parbhani,unchanged source name,HIGH
+District_FloodImpact.csv,,Pune,,Pune,unchanged source name,HIGH
+District_FloodImpact.csv,,Bid,,Bid,unchanged source name,HIGH
+District_FloodImpact.csv,,Mumbai,,Mumbai,unchanged source name,HIGH
+District_FloodImpact.csv,,Latur,,Latur,unchanged source name,HIGH
+District_FloodImpact.csv,,Osmanabad,,Osmanabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Solapur,,Solapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Satara,,Satara,unchanged source name,HIGH
+District_FloodImpact.csv,,Ratnagiri,,Ratnagiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Sangli,,Sangli,unchanged source name,HIGH
+District_FloodImpact.csv,,Kolhapur,,Kolhapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sindhudurg,,Sindhudurg,unchanged source name,HIGH
+District_FloodImpact.csv,,Thane,,Thane,unchanged source name,HIGH
+District_FloodImpact.csv,,Palghar,,Palghar,unchanged source name,HIGH
+District_FloodImpact.csv,,Nandurbar,,Nandurbar,unchanged source name,HIGH
+District_FloodImpact.csv,,Amravati,,Amravati,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhule,,Dhule,unchanged source name,HIGH
+District_FloodImpact.csv,,Nagpur,,Nagpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Mumbai Suburban,,Mumbai Suburban,unchanged source name,HIGH
+District_FloodImpact.csv,,Kamjong,,Kamjong,unchanged source name,HIGH
+District_FloodImpact.csv,,Senapati,,Senapati,unchanged source name,HIGH
+District_FloodImpact.csv,,Tamenglong,,Tamenglong,unchanged source name,HIGH
+District_FloodImpact.csv,,Imphal West,,Imphal West,unchanged source name,HIGH
+District_FloodImpact.csv,,Kakching,,Kakching,unchanged source name,HIGH
+District_FloodImpact.csv,,Bishnupur,,Bishnupur,unchanged source name,HIGH
+District_FloodImpact.csv,,Chandel,,Chandel,unchanged source name,HIGH
+District_FloodImpact.csv,,Churachandpur,,Churachandpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Imphal East,,Imphal East,unchanged source name,HIGH
+District_FloodImpact.csv,,Jiribam,,Jiribam,unchanged source name,HIGH
+District_FloodImpact.csv,,Kangpokpi,,Kangpokpi,unchanged source name,HIGH
+District_FloodImpact.csv,,Thoubal,,Thoubal,unchanged source name,HIGH
+District_FloodImpact.csv,,Tengnoupal,,Tengnoupal,unchanged source name,HIGH
+District_FloodImpact.csv,,Ukhrul,,Ukhrul,unchanged source name,HIGH
+District_FloodImpact.csv,,Noney,,Noney,unchanged source name,HIGH
+District_FloodImpact.csv,,Pherzawl,,Pherzawl,unchanged source name,HIGH
+District_FloodImpact.csv,,Ribhoi,,Ribhoi,unchanged source name,HIGH
+District_FloodImpact.csv,,West Khasi Hills,,West Khasi Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,East Jaintia Hills,,East Jaintia Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,East Khasi Hills,,East Khasi Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,South Garo Hills,,South Garo Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,West Garo Hills,,West Garo Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,East Garo Hills,,East Garo Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,West Jaintia Hills,,West Jaintia Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,South West Khasi Hills,,South West Khasi Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,North Garo Hills,,North Garo Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,South West Garo Hills,,South West Garo Hills,unchanged source name,HIGH
+District_FloodImpact.csv,,Kolasib,,Kolasib,unchanged source name,HIGH
+District_FloodImpact.csv,,Aizawl,,Aizawl,unchanged source name,HIGH
+District_FloodImpact.csv,,Mamit,,Mamit,unchanged source name,HIGH
+District_FloodImpact.csv,,Champhai,,Champhai,unchanged source name,HIGH
+District_FloodImpact.csv,,Serchhip,,Serchhip,unchanged source name,HIGH
+District_FloodImpact.csv,,Lunglei,,Lunglei,unchanged source name,HIGH
+District_FloodImpact.csv,,Saiha,,Saiha,unchanged source name,HIGH
+District_FloodImpact.csv,,Lawngtlai,,Lawngtlai,unchanged source name,HIGH
+District_FloodImpact.csv,,Mon,,Mon,unchanged source name,HIGH
+District_FloodImpact.csv,,Longleng,,Longleng,unchanged source name,HIGH
+District_FloodImpact.csv,,Mokokchung,,Mokokchung,unchanged source name,HIGH
+District_FloodImpact.csv,,Tuensang,,Tuensang,unchanged source name,HIGH
+District_FloodImpact.csv,,Kiphire,,Kiphire,unchanged source name,HIGH
+District_FloodImpact.csv,,Peren,,Peren,unchanged source name,HIGH
+District_FloodImpact.csv,,Wokha,,Wokha,unchanged source name,HIGH
+District_FloodImpact.csv,,Zunheboto,,Zunheboto,unchanged source name,HIGH
+District_FloodImpact.csv,,Phek,,Phek,unchanged source name,HIGH
+District_FloodImpact.csv,,Kohima,,Kohima,unchanged source name,HIGH
+District_FloodImpact.csv,,Dimapur,,Dimapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhadrak,,Bhadrak,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhenkanal,,Dhenkanal,unchanged source name,HIGH
+District_FloodImpact.csv,,Jajapur,,Jajapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Subarnapur,,Subarnapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Nuapada,,Nuapada,unchanged source name,HIGH
+District_FloodImpact.csv,,Balangir,,Balangir,unchanged source name,HIGH
+District_FloodImpact.csv,,Baudh,,Baudh,unchanged source name,HIGH
+District_FloodImpact.csv,,Cuttack,,Cuttack,unchanged source name,HIGH
+District_FloodImpact.csv,,Kandhamal,,Kandhamal,unchanged source name,HIGH
+District_FloodImpact.csv,,Nayagarh,,Nayagarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Khordha,,Khordha,unchanged source name,HIGH
+District_FloodImpact.csv,,Kalahandi,,Kalahandi,unchanged source name,HIGH
+District_FloodImpact.csv,,Jagatsinghapur,,Jagatsinghapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Puri,,Puri,unchanged source name,HIGH
+District_FloodImpact.csv,,Nabarangapur,,Nabarangapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Rayagada,,Rayagada,unchanged source name,HIGH
+District_FloodImpact.csv,,Koraput,,Koraput,unchanged source name,HIGH
+District_FloodImpact.csv,,Malkangiri,,Malkangiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Anugul,,Anugul,unchanged source name,HIGH
+District_FloodImpact.csv,,Kendrapara,,Kendrapara,unchanged source name,HIGH
+District_FloodImpact.csv,,Ganjam,,Ganjam,unchanged source name,HIGH
+District_FloodImpact.csv,,Gajapati,,Gajapati,unchanged source name,HIGH
+District_FloodImpact.csv,,Mayurbhanj,,Mayurbhanj,unchanged source name,HIGH
+District_FloodImpact.csv,,Sundargarh,,Sundargarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Kendujhar,,Kendujhar,unchanged source name,HIGH
+District_FloodImpact.csv,,Baleshwar,,Baleshwar,unchanged source name,HIGH
+District_FloodImpact.csv,,Jharsuguda,,Jharsuguda,unchanged source name,HIGH
+District_FloodImpact.csv,,Bargarh,,Bargarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Debagarh,,Debagarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Sambalpur,,Sambalpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Puducherry,,Puducherry,unchanged source name,HIGH
+District_FloodImpact.csv,,Karaikal,,Karaikal,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahe,,Mahe,unchanged source name,HIGH
+District_FloodImpact.csv,,Yanam,,Yanam,unchanged source name,HIGH
+District_FloodImpact.csv,,Gurdaspur,,Gurdaspur,unchanged source name,HIGH
+District_FloodImpact.csv,,Hoshiarpur,,Hoshiarpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Amritsar,,Amritsar,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalandhar,,Jalandhar,unchanged source name,HIGH
+District_FloodImpact.csv,,Tarn Taran,,Tarn Taran,unchanged source name,HIGH
+District_FloodImpact.csv,,Rupnagar,,Rupnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Shahid Bhagat Singh Nagar,,Shahid Bhagat Singh Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Fazilka,,Fazilka,unchanged source name,HIGH
+District_FloodImpact.csv,,Moga,,Moga,unchanged source name,HIGH
+District_FloodImpact.csv,,Ludhiana,,Ludhiana,unchanged source name,HIGH
+District_FloodImpact.csv,,Sahibzada Ajit Singh Nag*,,Sahibzada Ajit Singh Nag*,unchanged source name,HIGH
+District_FloodImpact.csv,,Faridkot,,Faridkot,unchanged source name,HIGH
+District_FloodImpact.csv,,Fatehgarh Sahib,,Fatehgarh Sahib,unchanged source name,HIGH
+District_FloodImpact.csv,,Sri Muktsar Sahib,,Sri Muktsar Sahib,unchanged source name,HIGH
+District_FloodImpact.csv,,Sangrur,,Sangrur,unchanged source name,HIGH
+District_FloodImpact.csv,,Barnala,,Barnala,unchanged source name,HIGH
+District_FloodImpact.csv,,Bathinda,,Bathinda,unchanged source name,HIGH
+District_FloodImpact.csv,,Patiala,,Patiala,unchanged source name,HIGH
+District_FloodImpact.csv,,Mansa,,Mansa,unchanged source name,HIGH
+District_FloodImpact.csv,,Firozpur,,Firozpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Pathankot,,Pathankot,unchanged source name,HIGH
+District_FloodImpact.csv,,Kapurthala,,Kapurthala,unchanged source name,HIGH
+District_FloodImpact.csv,,Churu,,Churu,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhunjhunun,,Jhunjhunun,unchanged source name,HIGH
+District_FloodImpact.csv,,Jaisalmer,,Jaisalmer,unchanged source name,HIGH
+District_FloodImpact.csv,,Sikar,,Sikar,unchanged source name,HIGH
+District_FloodImpact.csv,,Alwar,,Alwar,unchanged source name,HIGH
+District_FloodImpact.csv,,Jaipur,,Jaipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Jodhpur,,Jodhpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Bharatpur,,Bharatpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Nagaur,,Nagaur,unchanged source name,HIGH
+District_FloodImpact.csv,,Dausa,,Dausa,unchanged source name,HIGH
+District_FloodImpact.csv,,Karauli,,Karauli,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhaulpur,,Dhaulpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Barmer,,Barmer,unchanged source name,HIGH
+District_FloodImpact.csv,,Sawai Madhopur,,Sawai Madhopur,unchanged source name,HIGH
+District_FloodImpact.csv,,Tonk,,Tonk,unchanged source name,HIGH
+District_FloodImpact.csv,,Pali,,Pali,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhilwara,,Bhilwara,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalor,,Jalor,unchanged source name,HIGH
+District_FloodImpact.csv,,Bundi,,Bundi,unchanged source name,HIGH
+District_FloodImpact.csv,,Kota,,Kota,unchanged source name,HIGH
+District_FloodImpact.csv,,Sirohi,,Sirohi,unchanged source name,HIGH
+District_FloodImpact.csv,,Baran,,Baran,unchanged source name,HIGH
+District_FloodImpact.csv,,Udaipur,,Udaipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhalawar,,Jhalawar,unchanged source name,HIGH
+District_FloodImpact.csv,,Dungarpur,,Dungarpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Banswara,,Banswara,unchanged source name,HIGH
+District_FloodImpact.csv,,Ajmer,,Ajmer,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajsamand,,Rajsamand,unchanged source name,HIGH
+District_FloodImpact.csv,,Chittaurgarh,,Chittaurgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Ganganagar,,Ganganagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Hanumangarh,,Hanumangarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Bikaner,,Bikaner,unchanged source name,HIGH
+District_FloodImpact.csv,,Pratapgarh,,Pratapgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,North  District,,North District,format-only: trimmed or collapsed whitespace,HIGH
+District_FloodImpact.csv,,West District,,West District,unchanged source name,HIGH
+District_FloodImpact.csv,,South District,,South District,unchanged source name,HIGH
+District_FloodImpact.csv,,East District,,East District,unchanged source name,HIGH
+District_FloodImpact.csv,,Adilabad,,Adilabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Hyderabad,,Hyderabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Jagitial,,Jagitial,unchanged source name,HIGH
+District_FloodImpact.csv,,Jangoan,,Jangoan,unchanged source name,HIGH
+District_FloodImpact.csv,,Mulugu,,Mulugu,unchanged source name,HIGH
+District_FloodImpact.csv,,Jogulamba Gadwal,,Jogulamba Gadwal,unchanged source name,HIGH
+District_FloodImpact.csv,,Kamareddy,,Kamareddy,unchanged source name,HIGH
+District_FloodImpact.csv,,Karimnagar,,Karimnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Khammam,,Khammam,unchanged source name,HIGH
+District_FloodImpact.csv,,Kumuram Bheem Asifabad,,Kumuram Bheem Asifabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahabubabad,,Mahabubabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahabubnagar,,Mahabubnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Mancherial,,Mancherial,unchanged source name,HIGH
+District_FloodImpact.csv,,Medak,,Medak,unchanged source name,HIGH
+District_FloodImpact.csv,,Medchal Malkajgiri,,Medchal Malkajgiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Nagarkurnool,,Nagarkurnool,unchanged source name,HIGH
+District_FloodImpact.csv,,Nalgonda,,Nalgonda,unchanged source name,HIGH
+District_FloodImpact.csv,,Nirmal,,Nirmal,unchanged source name,HIGH
+District_FloodImpact.csv,,Nizamabad,,Nizamabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Peddapalli,,Peddapalli,unchanged source name,HIGH
+District_FloodImpact.csv,,Rajanna Sircilla,,Rajanna Sircilla,unchanged source name,HIGH
+District_FloodImpact.csv,,Ranga Reddy,,Ranga Reddy,unchanged source name,HIGH
+District_FloodImpact.csv,,Sangareddy,,Sangareddy,unchanged source name,HIGH
+District_FloodImpact.csv,,Siddipet,,Siddipet,unchanged source name,HIGH
+District_FloodImpact.csv,,Suryapet,,Suryapet,unchanged source name,HIGH
+District_FloodImpact.csv,,Vikarabad,,Vikarabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Wanaparthy,,Wanaparthy,unchanged source name,HIGH
+District_FloodImpact.csv,,Warangal Rural,,Warangal Rural,unchanged source name,HIGH
+District_FloodImpact.csv,,Warangal Urban,,Warangal Urban,unchanged source name,HIGH
+District_FloodImpact.csv,,Yadadri Bhuvanagiri,,Yadadri Bhuvanagiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhadradri Kothagudem,,Bhadradri Kothagudem,unchanged source name,HIGH
+District_FloodImpact.csv,,Jayashankar,,Jayashankar,unchanged source name,HIGH
+District_FloodImpact.csv,,Narayanpet,,Narayanpet,unchanged source name,HIGH
+District_FloodImpact.csv,,North Tripura,,North Tripura,unchanged source name,HIGH
+District_FloodImpact.csv,,Dhalai,,Dhalai,unchanged source name,HIGH
+District_FloodImpact.csv,,Sipahijala,,Sipahijala,unchanged source name,HIGH
+District_FloodImpact.csv,,Gomati,,Gomati,unchanged source name,HIGH
+District_FloodImpact.csv,,Khowai,,Khowai,unchanged source name,HIGH
+District_FloodImpact.csv,,West Tripura,,West Tripura,unchanged source name,HIGH
+District_FloodImpact.csv,,South Tripura,,South Tripura,unchanged source name,HIGH
+District_FloodImpact.csv,,Unokoti,,Unokoti,unchanged source name,HIGH
+District_FloodImpact.csv,,Amroha,,Amroha,unchanged source name,HIGH
+District_FloodImpact.csv,,Hapur,,Hapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Bareilly,,Bareilly,unchanged source name,HIGH
+District_FloodImpact.csv,,Pilibhit,,Pilibhit,unchanged source name,HIGH
+District_FloodImpact.csv,,Bulandshahr,,Bulandshahr,unchanged source name,HIGH
+District_FloodImpact.csv,,Gautam Buddha Nagar,,Gautam Buddha Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Kheri,,Kheri,unchanged source name,HIGH
+District_FloodImpact.csv,,Budaun,,Budaun,unchanged source name,HIGH
+District_FloodImpact.csv,,Bahraich,,Bahraich,unchanged source name,HIGH
+District_FloodImpact.csv,,Shahjahanpur,,Shahjahanpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Aligarh,,Aligarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Kasganj,,Kasganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Mathura,,Mathura,unchanged source name,HIGH
+District_FloodImpact.csv,,Shrawasti,,Shrawasti,unchanged source name,HIGH
+District_FloodImpact.csv,,Sitapur,,Sitapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Hathras,,Hathras,unchanged source name,HIGH
+District_FloodImpact.csv,,Etah,,Etah,unchanged source name,HIGH
+District_FloodImpact.csv,,Hardoi,,Hardoi,unchanged source name,HIGH
+District_FloodImpact.csv,,Farrukhabad,,Farrukhabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Firozabad,,Firozabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Siddharthnagar,,Siddharthnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Mainpuri,,Mainpuri,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahrajganj,,Mahrajganj,unchanged source name,HIGH
+District_FloodImpact.csv,,Agra,,Agra,unchanged source name,HIGH
+District_FloodImpact.csv,,Gonda,,Gonda,unchanged source name,HIGH
+District_FloodImpact.csv,,Bara Banki,,Bara Banki,unchanged source name,HIGH
+District_FloodImpact.csv,,Kushinagar,,Kushinagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Kannauj,,Kannauj,unchanged source name,HIGH
+District_FloodImpact.csv,,Lucknow,,Lucknow,unchanged source name,HIGH
+District_FloodImpact.csv,,Basti,,Basti,unchanged source name,HIGH
+District_FloodImpact.csv,,Gorakhpur,,Gorakhpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sant Kabir Nagar,,Sant Kabir Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Unnao,,Unnao,unchanged source name,HIGH
+District_FloodImpact.csv,,Etawah,,Etawah,unchanged source name,HIGH
+District_FloodImpact.csv,,Kanpur Nagar,,Kanpur Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Auraiya,,Auraiya,unchanged source name,HIGH
+District_FloodImpact.csv,,Faizabad,,Faizabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Kanpur Dehat,,Kanpur Dehat,unchanged source name,HIGH
+District_FloodImpact.csv,,Deoria,,Deoria,unchanged source name,HIGH
+District_FloodImpact.csv,,Sultanpur,,Sultanpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Ambedkar Nagar,,Ambedkar Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Rae Bareli,,Rae Bareli,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalaun,,Jalaun,unchanged source name,HIGH
+District_FloodImpact.csv,,Azamgarh,,Azamgarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Mau,,Mau,unchanged source name,HIGH
+District_FloodImpact.csv,,Fatehpur,,Fatehpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Ballia,,Ballia,unchanged source name,HIGH
+District_FloodImpact.csv,,Jaunpur,,Jaunpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhansi,,Jhansi,unchanged source name,HIGH
+District_FloodImpact.csv,,Banda,,Banda,unchanged source name,HIGH
+District_FloodImpact.csv,,Ghazipur,,Ghazipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Kaushambi,,Kaushambi,unchanged source name,HIGH
+District_FloodImpact.csv,,Prayagraj,,Prayagraj,unchanged source name,HIGH
+District_FloodImpact.csv,,Varanasi,,Varanasi,unchanged source name,HIGH
+District_FloodImpact.csv,,Chitrakoot,,Chitrakoot,unchanged source name,HIGH
+District_FloodImpact.csv,,Chandauli,,Chandauli,unchanged source name,HIGH
+District_FloodImpact.csv,,Bhadohi,,Bhadohi,unchanged source name,HIGH
+District_FloodImpact.csv,,Mirzapur,,Mirzapur,unchanged source name,HIGH
+District_FloodImpact.csv,,Lalitpur,,Lalitpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Sonbhadra,,Sonbhadra,unchanged source name,HIGH
+District_FloodImpact.csv,,Amethi,,Amethi,unchanged source name,HIGH
+District_FloodImpact.csv,,Ghaziabad,,Ghaziabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Sambhal,,Sambhal,unchanged source name,HIGH
+District_FloodImpact.csv,,Mahoba,,Mahoba,unchanged source name,HIGH
+District_FloodImpact.csv,,Saharanpur,,Saharanpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Bijnor,,Bijnor,unchanged source name,HIGH
+District_FloodImpact.csv,,Muzaffarnagar,,Muzaffarnagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Baghpat,,Baghpat,unchanged source name,HIGH
+District_FloodImpact.csv,,Meerut,,Meerut,unchanged source name,HIGH
+District_FloodImpact.csv,,Moradabad,,Moradabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Rampur,,Rampur,unchanged source name,HIGH
+District_FloodImpact.csv,,Shamli,,Shamli,unchanged source name,HIGH
+District_FloodImpact.csv,,Uttarkashi,,Uttarkashi,unchanged source name,HIGH
+District_FloodImpact.csv,,Chamoli,,Chamoli,unchanged source name,HIGH
+District_FloodImpact.csv,,Dehradun,,Dehradun,unchanged source name,HIGH
+District_FloodImpact.csv,,Tehri Garhwal,,Tehri Garhwal,unchanged source name,HIGH
+District_FloodImpact.csv,,Rudraprayag,,Rudraprayag,unchanged source name,HIGH
+District_FloodImpact.csv,,Pithoragarh,,Pithoragarh,unchanged source name,HIGH
+District_FloodImpact.csv,,Bageshwar,,Bageshwar,unchanged source name,HIGH
+District_FloodImpact.csv,,Hardwar,,Hardwar,unchanged source name,HIGH
+District_FloodImpact.csv,,Garhwal,,Garhwal,unchanged source name,HIGH
+District_FloodImpact.csv,,Almora,,Almora,unchanged source name,HIGH
+District_FloodImpact.csv,,Nainital,,Nainital,unchanged source name,HIGH
+District_FloodImpact.csv,,Champawat,,Champawat,unchanged source name,HIGH
+District_FloodImpact.csv,,Udham Singh Nagar,,Udham Singh Nagar,unchanged source name,HIGH
+District_FloodImpact.csv,,South Twenty Four Pargan*,,South Twenty Four Pargan*,unchanged source name,HIGH
+District_FloodImpact.csv,,Darjiling,,Darjiling,unchanged source name,HIGH
+District_FloodImpact.csv,,Jalpaiguri,,Jalpaiguri,unchanged source name,HIGH
+District_FloodImpact.csv,,Dakshin Dinajpur,,Dakshin Dinajpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Maldah,,Maldah,unchanged source name,HIGH
+District_FloodImpact.csv,,Murshidabad,,Murshidabad,unchanged source name,HIGH
+District_FloodImpact.csv,,Birbhum,,Birbhum,unchanged source name,HIGH
+District_FloodImpact.csv,,Nadia,,Nadia,unchanged source name,HIGH
+District_FloodImpact.csv,,Purba Bardhaman,,Purba Bardhaman,unchanged source name,HIGH
+District_FloodImpact.csv,,Puruliya,,Puruliya,unchanged source name,HIGH
+District_FloodImpact.csv,,Bankura,,Bankura,unchanged source name,HIGH
+District_FloodImpact.csv,,North Twenty Four Pargan*,,North Twenty Four Pargan*,unchanged source name,HIGH
+District_FloodImpact.csv,,Hooghly,,Hooghly,unchanged source name,HIGH
+District_FloodImpact.csv,,Medinipur West,,Medinipur West,unchanged source name,HIGH
+District_FloodImpact.csv,,Howrah,,Howrah,unchanged source name,HIGH
+District_FloodImpact.csv,,Kolkata,,Kolkata,unchanged source name,HIGH
+District_FloodImpact.csv,,Purba Medinipur,,Purba Medinipur,unchanged source name,HIGH
+District_FloodImpact.csv,,Alipurduar,,Alipurduar,unchanged source name,HIGH
+District_FloodImpact.csv,,Paschim Bardhaman,,Paschim Bardhaman,unchanged source name,HIGH
+District_FloodImpact.csv,,Kalimpong,,Kalimpong,unchanged source name,HIGH
+District_FloodImpact.csv,,Jhargram,,Jhargram,unchanged source name,HIGH
+District_FloodImpact.csv,,Cooch Behar,,Cooch Behar,unchanged source name,HIGH
+District_FloodImpact.csv,,Uttar Dinajpur,,Uttar Dinajpur,unchanged source name,HIGH
+District_FloodImpact.csv,,Thiruvallur,,Thiruvallur,unchanged source name,HIGH
+District_FloodImpact.csv,,Chennai,,Chennai,unchanged source name,HIGH
+District_FloodImpact.csv,,Krishnagiri,,Krishnagiri,unchanged source name,HIGH
+District_FloodImpact.csv,,Tiruvannamalai,,Tiruvannamalai,unchanged source name,HIGH
+District_FloodImpact.csv,,Dharmapuri,,Dharmapuri,unchanged source name,HIGH
+District_FloodImpact.csv,,Salem,,Salem,unchanged source name,HIGH
+District_FloodImpact.csv,,Erode,,Erode,unchanged source name,HIGH
+District_FloodImpact.csv,,The Nilgiris,,The Nilgiris,unchanged source name,HIGH
+District_FloodImpact.csv,,Namakkal,,Namakkal,unchanged source name,HIGH
+District_FloodImpact.csv,,Perambalur,,Perambalur,unchanged source name,HIGH
+District_FloodImpact.csv,,Coimbatore,,Coimbatore,unchanged source name,HIGH
+District_FloodImpact.csv,,Tiruchirappalli,,Tiruchirappalli,unchanged source name,HIGH
+District_FloodImpact.csv,,Ariyalur,,Ariyalur,unchanged source name,HIGH
+District_FloodImpact.csv,,Tiruppur,,Tiruppur,unchanged source name,HIGH
+District_FloodImpact.csv,,Thanjavur,,Thanjavur,unchanged source name,HIGH
+District_FloodImpact.csv,,Karur,,Karur,unchanged source name,HIGH
+District_FloodImpact.csv,,Thiruvarur,,Thiruvarur,unchanged source name,HIGH
+District_FloodImpact.csv,,Dindigul,,Dindigul,unchanged source name,HIGH
+District_FloodImpact.csv,,Madurai,,Madurai,unchanged source name,HIGH
+District_FloodImpact.csv,,Theni,,Theni,unchanged source name,HIGH
+District_FloodImpact.csv,,Virudhunagar,,Virudhunagar,unchanged source name,HIGH
+District_FloodImpact.csv,,Thoothukkudi,,Thoothukkudi,unchanged source name,HIGH
+District_FloodImpact.csv,,Kanniyakumari,,Kanniyakumari,unchanged source name,HIGH
+District_FloodImpact.csv,,Viluppuram,,Viluppuram,unchanged source name,HIGH
+District_FloodImpact.csv,,Cuddalore,,Cuddalore,unchanged source name,HIGH
+District_FloodImpact.csv,,Pudukkottai,,Pudukkottai,unchanged source name,HIGH
+District_FloodImpact.csv,,Sivaganga,,Sivaganga,unchanged source name,HIGH
+District_FloodImpact.csv,,Ramanathapuram,,Ramanathapuram,unchanged source name,HIGH
+District_FloodImpact.csv,,Nagapattinam,,Nagapattinam,unchanged source name,HIGH
+District_FloodImpact.csv,,Kallakurichi,,Kallakurichi,unchanged source name,HIGH
+District_FloodImpact.csv,,Tenkasi,,Tenkasi,unchanged source name,HIGH
+District_FloodImpact.csv,,Tirunelveli,,Tirunelveli,unchanged source name,HIGH
+District_FloodImpact.csv,,Vellore,,Vellore,unchanged source name,HIGH
+District_FloodImpact.csv,,Ranipet,,Ranipet,unchanged source name,HIGH
+District_FloodImpact.csv,,Tirupathur,,Tirupathur,unchanged source name,HIGH
+District_FloodImpact.csv,,Kancheepuram,,Kancheepuram,unchanged source name,HIGH
+District_FloodImpact.csv,,Chengalpattu,,Chengalpattu,unchanged source name,HIGH
+District_FloodedArea.csv,,Dadra & Nagar Haveli,,Dadra & Nagar Haveli,unchanged source name,HIGH
+District_FloodedArea.csv,,Daman,,Daman,unchanged source name,HIGH
+District_FloodedArea.csv,,Diu,,Diu,unchanged source name,HIGH
+District_FloodedArea.csv,,North  & Middle Andaman,,North & Middle Andaman,format-only: trimmed or collapsed whitespace,HIGH
+District_FloodedArea.csv,,South Andaman,,South Andaman,unchanged source name,HIGH
+District_FloodedArea.csv,,Nicobars,,Nicobars,unchanged source name,HIGH
+District_FloodedArea.csv,,Srikakulam,,Srikakulam,unchanged source name,HIGH
+District_FloodedArea.csv,,Vizianagaram,,Vizianagaram,unchanged source name,HIGH
+District_FloodedArea.csv,,Visakhapatnam,,Visakhapatnam,unchanged source name,HIGH
+District_FloodedArea.csv,,Krishna,,Krishna,unchanged source name,HIGH
+District_FloodedArea.csv,,Guntur,,Guntur,unchanged source name,HIGH
+District_FloodedArea.csv,,East Godavari,,East Godavari,unchanged source name,HIGH
+District_FloodedArea.csv,,Prakasam,,Prakasam,unchanged source name,HIGH
+District_FloodedArea.csv,,Kurnool,,Kurnool,unchanged source name,HIGH
+District_FloodedArea.csv,,Anantapur,,Anantapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sri Potti Sriramulu Nell*,,Sri Potti Sriramulu Nell*,unchanged source name,HIGH
+District_FloodedArea.csv,,West Godavari,,West Godavari,unchanged source name,HIGH
+District_FloodedArea.csv,,Y.S.R.,,Y.S.R.,unchanged source name,HIGH
+District_FloodedArea.csv,,Chittoor,,Chittoor,unchanged source name,HIGH
+District_FloodedArea.csv,,Upper Subansiri,,Upper Subansiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Anjaw,,Anjaw,unchanged source name,HIGH
+District_FloodedArea.csv,,Changlang,,Changlang,unchanged source name,HIGH
+District_FloodedArea.csv,,Tawang,,Tawang,unchanged source name,HIGH
+District_FloodedArea.csv,,Papum Pare,,Papum Pare,unchanged source name,HIGH
+District_FloodedArea.csv,,Tirap,,Tirap,unchanged source name,HIGH
+District_FloodedArea.csv,,East Siang,,East Siang,unchanged source name,HIGH
+District_FloodedArea.csv,,Lohit,,Lohit,unchanged source name,HIGH
+District_FloodedArea.csv,,Kurung Kumey,,Kurung Kumey,unchanged source name,HIGH
+District_FloodedArea.csv,,Lower Subansiri,,Lower Subansiri,unchanged source name,HIGH
+District_FloodedArea.csv,,East Kameng,,East Kameng,unchanged source name,HIGH
+District_FloodedArea.csv,,West Kameng,,West Kameng,unchanged source name,HIGH
+District_FloodedArea.csv,,Kra Daadi,,Kra Daadi,unchanged source name,HIGH
+District_FloodedArea.csv,,Namsai,,Namsai,unchanged source name,HIGH
+District_FloodedArea.csv,,Longding,,Longding,unchanged source name,HIGH
+District_FloodedArea.csv,,Upper Siang,,Upper Siang,unchanged source name,HIGH
+District_FloodedArea.csv,,Lower Siang,,Lower Siang,unchanged source name,HIGH
+District_FloodedArea.csv,,Upper Dibang Valley,,Upper Dibang Valley,unchanged source name,HIGH
+District_FloodedArea.csv,,Lower Dibang Valley,,Lower Dibang Valley,unchanged source name,HIGH
+District_FloodedArea.csv,,Siang,,Siang,unchanged source name,HIGH
+District_FloodedArea.csv,,Shi Yomi,,Shi Yomi,unchanged source name,HIGH
+District_FloodedArea.csv,,Pakke Kessang,,Pakke Kessang,unchanged source name,HIGH
+District_FloodedArea.csv,,West Siang,,West Siang,unchanged source name,HIGH
+District_FloodedArea.csv,,Lepa Rada,,Lepa Rada,unchanged source name,HIGH
+District_FloodedArea.csv,,Kamle,,Kamle,unchanged source name,HIGH
+District_FloodedArea.csv,,Tinsukia,,Tinsukia,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhemaji,,Dhemaji,unchanged source name,HIGH
+District_FloodedArea.csv,,Dibrugarh,,Dibrugarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Lakhimpur,,Lakhimpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sivasagar,,Sivasagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Jorhat,,Jorhat,unchanged source name,HIGH
+District_FloodedArea.csv,,Sonitpur,,Sonitpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Golaghat,,Golaghat,unchanged source name,HIGH
+District_FloodedArea.csv,,Udalguri,,Udalguri,unchanged source name,HIGH
+District_FloodedArea.csv,,Chirang,,Chirang,unchanged source name,HIGH
+District_FloodedArea.csv,,Baksa,,Baksa,unchanged source name,HIGH
+District_FloodedArea.csv,,Nagaon,,Nagaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Kokrajhar,,Kokrajhar,unchanged source name,HIGH
+District_FloodedArea.csv,,Darrang,,Darrang,unchanged source name,HIGH
+District_FloodedArea.csv,,Barpeta,,Barpeta,unchanged source name,HIGH
+District_FloodedArea.csv,,Nalbari,,Nalbari,unchanged source name,HIGH
+District_FloodedArea.csv,,Morigaon,,Morigaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Kamrup,,Kamrup,unchanged source name,HIGH
+District_FloodedArea.csv,,Bongaigaon,,Bongaigaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhubri,,Dhubri,unchanged source name,HIGH
+District_FloodedArea.csv,,Kamrup Metropolitan,,Kamrup Metropolitan,unchanged source name,HIGH
+District_FloodedArea.csv,,Goalpara,,Goalpara,unchanged source name,HIGH
+District_FloodedArea.csv,,Dima Hasao,,Dima Hasao,unchanged source name,HIGH
+District_FloodedArea.csv,,Cachar,,Cachar,unchanged source name,HIGH
+District_FloodedArea.csv,,Karimganj,,Karimganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Hailakandi,,Hailakandi,unchanged source name,HIGH
+District_FloodedArea.csv,,Charaideo,,Charaideo,unchanged source name,HIGH
+District_FloodedArea.csv,,Majuli,,Majuli,unchanged source name,HIGH
+District_FloodedArea.csv,,Biswanath,,Biswanath,unchanged source name,HIGH
+District_FloodedArea.csv,,Hojai,,Hojai,unchanged source name,HIGH
+District_FloodedArea.csv,,South Salmara Mancachar,,South Salmara Mancachar,unchanged source name,HIGH
+District_FloodedArea.csv,,Karbi Anglong,,Karbi Anglong,unchanged source name,HIGH
+District_FloodedArea.csv,,West Karbi Anglong,,West Karbi Anglong,unchanged source name,HIGH
+District_FloodedArea.csv,,Pashchim Champaran,,Pashchim Champaran,unchanged source name,HIGH
+District_FloodedArea.csv,,Purba Champaran,,Purba Champaran,unchanged source name,HIGH
+District_FloodedArea.csv,,Sitamarhi,,Sitamarhi,unchanged source name,HIGH
+District_FloodedArea.csv,,Sheohar,,Sheohar,unchanged source name,HIGH
+District_FloodedArea.csv,,Gopalganj,,Gopalganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Samastipur,,Samastipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Katihar,,Katihar,unchanged source name,HIGH
+District_FloodedArea.csv,,Khagaria,,Khagaria,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhojpur,,Bhojpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Buxar,,Buxar,unchanged source name,HIGH
+District_FloodedArea.csv,,Darbhanga,,Darbhanga,unchanged source name,HIGH
+District_FloodedArea.csv,,Saharsa,,Saharsa,unchanged source name,HIGH
+District_FloodedArea.csv,,Kaimur (bhabua),,Kaimur (bhabua),unchanged source name,HIGH
+District_FloodedArea.csv,,Rohtas,,Rohtas,unchanged source name,HIGH
+District_FloodedArea.csv,,Jamui,,Jamui,unchanged source name,HIGH
+District_FloodedArea.csv,,Banka,,Banka,unchanged source name,HIGH
+District_FloodedArea.csv,,Nawada,,Nawada,unchanged source name,HIGH
+District_FloodedArea.csv,,Gaya,,Gaya,unchanged source name,HIGH
+District_FloodedArea.csv,,Munger,,Munger,unchanged source name,HIGH
+District_FloodedArea.csv,,Vaishali,,Vaishali,unchanged source name,HIGH
+District_FloodedArea.csv,,Begusarai,,Begusarai,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhagalpur,,Bhagalpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Lakhisarai,,Lakhisarai,unchanged source name,HIGH
+District_FloodedArea.csv,,Sheikhpura,,Sheikhpura,unchanged source name,HIGH
+District_FloodedArea.csv,,Arwal,,Arwal,unchanged source name,HIGH
+District_FloodedArea.csv,,Jehanabad,,Jehanabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Nalanda,,Nalanda,unchanged source name,HIGH
+District_FloodedArea.csv,,Patna,,Patna,unchanged source name,HIGH
+District_FloodedArea.csv,,Saran,,Saran,unchanged source name,HIGH
+District_FloodedArea.csv,,Siwan,,Siwan,unchanged source name,HIGH
+District_FloodedArea.csv,,Muzaffarpur,,Muzaffarpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Madhepura,,Madhepura,unchanged source name,HIGH
+District_FloodedArea.csv,,Araria,,Araria,unchanged source name,HIGH
+District_FloodedArea.csv,,Supaul,,Supaul,unchanged source name,HIGH
+District_FloodedArea.csv,,Madhubani,,Madhubani,unchanged source name,HIGH
+District_FloodedArea.csv,,Purnia,,Purnia,unchanged source name,HIGH
+District_FloodedArea.csv,,Kishanganj,,Kishanganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Aurangabad,,Aurangabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Chandigarh,,Chandigarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahasamund,,Mahasamund,unchanged source name,HIGH
+District_FloodedArea.csv,,Uttar Bastar Kanker,,Uttar Bastar Kanker,unchanged source name,HIGH
+District_FloodedArea.csv,,Narayanpur,,Narayanpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Dakshin Bastar Dantewada,,Dakshin Bastar Dantewada,unchanged source name,HIGH
+District_FloodedArea.csv,,Bastar,,Bastar,unchanged source name,HIGH
+District_FloodedArea.csv,,Kondagaon,,Kondagaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Gariaband,,Gariaband,unchanged source name,HIGH
+District_FloodedArea.csv,,Raipur,,Raipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Durg,,Durg,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhamtari,,Dhamtari,unchanged source name,HIGH
+District_FloodedArea.csv,,Balod,,Balod,unchanged source name,HIGH
+District_FloodedArea.csv,,Koriya,,Koriya,unchanged source name,HIGH
+District_FloodedArea.csv,,Jashpur,,Jashpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Korba,,Korba,unchanged source name,HIGH
+District_FloodedArea.csv,,Kabeerdham,,Kabeerdham,unchanged source name,HIGH
+District_FloodedArea.csv,,Janjgir - Champa,,Janjgir - Champa,unchanged source name,HIGH
+District_FloodedArea.csv,,Bametara,,Bametara,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajnandgaon,,Rajnandgaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Surajpur,,Surajpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Baloda Bazar,,Baloda Bazar,unchanged source name,HIGH
+District_FloodedArea.csv,,Mungeli,,Mungeli,unchanged source name,HIGH
+District_FloodedArea.csv,,Surguja,,Surguja,unchanged source name,HIGH
+District_FloodedArea.csv,,Balrampur,,Balrampur,unchanged source name,HIGH
+District_FloodedArea.csv,,Bijapur,,Bijapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Raigarh,,Raigarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Bilaspur,,Bilaspur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sukma,,Sukma,unchanged source name,HIGH
+District_FloodedArea.csv,,North,,North,unchanged source name,HIGH
+District_FloodedArea.csv,,North East,,North East,unchanged source name,HIGH
+District_FloodedArea.csv,,West,,West,unchanged source name,HIGH
+District_FloodedArea.csv,,East,,East,unchanged source name,HIGH
+District_FloodedArea.csv,,South West,,South West,unchanged source name,HIGH
+District_FloodedArea.csv,,Central,,Central,unchanged source name,HIGH
+District_FloodedArea.csv,,New Delhi,,New Delhi,unchanged source name,HIGH
+District_FloodedArea.csv,,South,,South,unchanged source name,HIGH
+District_FloodedArea.csv,,Shahdara,,Shahdara,unchanged source name,HIGH
+District_FloodedArea.csv,,South East,,South East,unchanged source name,HIGH
+District_FloodedArea.csv,,North West,,North West,unchanged source name,HIGH
+District_FloodedArea.csv,,North Goa,,North Goa,unchanged source name,HIGH
+District_FloodedArea.csv,,South Goa,,South Goa,unchanged source name,HIGH
+District_FloodedArea.csv,,Valsad,,Valsad,unchanged source name,HIGH
+District_FloodedArea.csv,,Amreli,,Amreli,unchanged source name,HIGH
+District_FloodedArea.csv,,The Dangs,,The Dangs,unchanged source name,HIGH
+District_FloodedArea.csv,,Banas Kantha,,Banas Kantha,unchanged source name,HIGH
+District_FloodedArea.csv,,Patan,,Patan,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahesana,,Mahesana,unchanged source name,HIGH
+District_FloodedArea.csv,,Gandhinagar,,Gandhinagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Ahmadabad,,Ahmadabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Panch Mahals,,Panch Mahals,unchanged source name,HIGH
+District_FloodedArea.csv,,Dohad,,Dohad,unchanged source name,HIGH
+District_FloodedArea.csv,,Vadodara,,Vadodara,unchanged source name,HIGH
+District_FloodedArea.csv,,Bharuch,,Bharuch,unchanged source name,HIGH
+District_FloodedArea.csv,,Porbandar,,Porbandar,unchanged source name,HIGH
+District_FloodedArea.csv,,Narmada,,Narmada,unchanged source name,HIGH
+District_FloodedArea.csv,,Surat,,Surat,unchanged source name,HIGH
+District_FloodedArea.csv,,Tapi,,Tapi,unchanged source name,HIGH
+District_FloodedArea.csv,,Aravalli,,Aravalli,unchanged source name,HIGH
+District_FloodedArea.csv,,Botad,,Botad,unchanged source name,HIGH
+District_FloodedArea.csv,,Chota Udaipur,,Chota Udaipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahisagar,,Mahisagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Gir Somnath,,Gir Somnath,unchanged source name,HIGH
+District_FloodedArea.csv,,Sabar Kantha,,Sabar Kantha,unchanged source name,HIGH
+District_FloodedArea.csv,,Kachchh,,Kachchh,unchanged source name,HIGH
+District_FloodedArea.csv,,Surendranagar,,Surendranagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajkot,,Rajkot,unchanged source name,HIGH
+District_FloodedArea.csv,,Kheda,,Kheda,unchanged source name,HIGH
+District_FloodedArea.csv,,Anand,,Anand,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhavnagar,,Bhavnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Junagadh,,Junagadh,unchanged source name,HIGH
+District_FloodedArea.csv,,Jamnagar,,Jamnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Devbhumi Dwarka,,Devbhumi Dwarka,unchanged source name,HIGH
+District_FloodedArea.csv,,Morbi,,Morbi,unchanged source name,HIGH
+District_FloodedArea.csv,,Navsari,,Navsari,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhajjar,,Jhajjar,unchanged source name,HIGH
+District_FloodedArea.csv,,Gurugram,,Gurugram,unchanged source name,HIGH
+District_FloodedArea.csv,,Faridabad,,Faridabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahendragarh,,Mahendragarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Rewari,,Rewari,unchanged source name,HIGH
+District_FloodedArea.csv,,Nuh,,Nuh,unchanged source name,HIGH
+District_FloodedArea.csv,,Palwal,,Palwal,unchanged source name,HIGH
+District_FloodedArea.csv,,Charki Dadri,,Charki Dadri,unchanged source name,HIGH
+District_FloodedArea.csv,,Yamunanagar,,Yamunanagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Kurukshetra,,Kurukshetra,unchanged source name,HIGH
+District_FloodedArea.csv,,Kaithal,,Kaithal,unchanged source name,HIGH
+District_FloodedArea.csv,,Sirsa,,Sirsa,unchanged source name,HIGH
+District_FloodedArea.csv,,Karnal,,Karnal,unchanged source name,HIGH
+District_FloodedArea.csv,,Jind,,Jind,unchanged source name,HIGH
+District_FloodedArea.csv,,Fatehabad,,Fatehabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Hisar,,Hisar,unchanged source name,HIGH
+District_FloodedArea.csv,,Panipat,,Panipat,unchanged source name,HIGH
+District_FloodedArea.csv,,Sonipat,,Sonipat,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhiwani,,Bhiwani,unchanged source name,HIGH
+District_FloodedArea.csv,,Rohtak,,Rohtak,unchanged source name,HIGH
+District_FloodedArea.csv,,Panchkula,,Panchkula,unchanged source name,HIGH
+District_FloodedArea.csv,,Ambala,,Ambala,unchanged source name,HIGH
+District_FloodedArea.csv,,Lahul & Spiti,,Lahul & Spiti,unchanged source name,HIGH
+District_FloodedArea.csv,,Chamba,,Chamba,unchanged source name,HIGH
+District_FloodedArea.csv,,Kangra,,Kangra,unchanged source name,HIGH
+District_FloodedArea.csv,,Kullu,,Kullu,unchanged source name,HIGH
+District_FloodedArea.csv,,Mandi,,Mandi,unchanged source name,HIGH
+District_FloodedArea.csv,,Kinnaur,,Kinnaur,unchanged source name,HIGH
+District_FloodedArea.csv,,Una,,Una,unchanged source name,HIGH
+District_FloodedArea.csv,,Shimla,,Shimla,unchanged source name,HIGH
+District_FloodedArea.csv,,Solan,,Solan,unchanged source name,HIGH
+District_FloodedArea.csv,,Sirmaur,,Sirmaur,unchanged source name,HIGH
+District_FloodedArea.csv,,Hamirpur,,Hamirpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Kupwara,,Kupwara,unchanged source name,HIGH
+District_FloodedArea.csv,,Bandipore,,Bandipore,unchanged source name,HIGH
+District_FloodedArea.csv,,Baramula,,Baramula,unchanged source name,HIGH
+District_FloodedArea.csv,,Ganderbal,,Ganderbal,unchanged source name,HIGH
+District_FloodedArea.csv,,Anantnag,,Anantnag,unchanged source name,HIGH
+District_FloodedArea.csv,,Kishtwar,,Kishtwar,unchanged source name,HIGH
+District_FloodedArea.csv,,Srinagar,,Srinagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Badgam,,Badgam,unchanged source name,HIGH
+District_FloodedArea.csv,,Pulwama,,Pulwama,unchanged source name,HIGH
+District_FloodedArea.csv,,Punch,,Punch,unchanged source name,HIGH
+District_FloodedArea.csv,,Shupiyan,,Shupiyan,unchanged source name,HIGH
+District_FloodedArea.csv,,Kulgam,,Kulgam,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajouri,,Rajouri,unchanged source name,HIGH
+District_FloodedArea.csv,,Ramban,,Ramban,unchanged source name,HIGH
+District_FloodedArea.csv,,Reasi,,Reasi,unchanged source name,HIGH
+District_FloodedArea.csv,,Doda,,Doda,unchanged source name,HIGH
+District_FloodedArea.csv,,Jammu,,Jammu,unchanged source name,HIGH
+District_FloodedArea.csv,,Kathua,,Kathua,unchanged source name,HIGH
+District_FloodedArea.csv,,Udhampur,,Udhampur,unchanged source name,HIGH
+District_FloodedArea.csv,,Samba,,Samba,unchanged source name,HIGH
+District_FloodedArea.csv,,Muzaffarabad,,Muzaffarabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Mirpur,,Mirpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sahibganj,,Sahibganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Godda,,Godda,unchanged source name,HIGH
+District_FloodedArea.csv,,Pakur,,Pakur,unchanged source name,HIGH
+District_FloodedArea.csv,,Giridih,,Giridih,unchanged source name,HIGH
+District_FloodedArea.csv,,Dumka,,Dumka,unchanged source name,HIGH
+District_FloodedArea.csv,,Deoghar,,Deoghar,unchanged source name,HIGH
+District_FloodedArea.csv,,Palamu,,Palamu,unchanged source name,HIGH
+District_FloodedArea.csv,,Chatra,,Chatra,unchanged source name,HIGH
+District_FloodedArea.csv,,Garhwa,,Garhwa,unchanged source name,HIGH
+District_FloodedArea.csv,,Jamtara,,Jamtara,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhanbad,,Dhanbad,unchanged source name,HIGH
+District_FloodedArea.csv,,Latehar,,Latehar,unchanged source name,HIGH
+District_FloodedArea.csv,,Bokaro,,Bokaro,unchanged source name,HIGH
+District_FloodedArea.csv,,Ramgarh,,Ramgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Ranchi,,Ranchi,unchanged source name,HIGH
+District_FloodedArea.csv,,Lohardaga,,Lohardaga,unchanged source name,HIGH
+District_FloodedArea.csv,,Gumla,,Gumla,unchanged source name,HIGH
+District_FloodedArea.csv,,Khunti,,Khunti,unchanged source name,HIGH
+District_FloodedArea.csv,,Saraikela-kharsawan,,Saraikela-kharsawan,unchanged source name,HIGH
+District_FloodedArea.csv,,Purbi Singhbhum,,Purbi Singhbhum,unchanged source name,HIGH
+District_FloodedArea.csv,,Pashchimi Singhbhum,,Pashchimi Singhbhum,unchanged source name,HIGH
+District_FloodedArea.csv,,Simdega,,Simdega,unchanged source name,HIGH
+District_FloodedArea.csv,,Kodarma,,Kodarma,unchanged source name,HIGH
+District_FloodedArea.csv,,Hazaribagh,,Hazaribagh,unchanged source name,HIGH
+District_FloodedArea.csv,,Bidar,,Bidar,unchanged source name,HIGH
+District_FloodedArea.csv,,Kalaburagi,,Kalaburagi,unchanged source name,HIGH
+District_FloodedArea.csv,,Belagavi,,Belagavi,unchanged source name,HIGH
+District_FloodedArea.csv,,Yadgir,,Yadgir,unchanged source name,HIGH
+District_FloodedArea.csv,,Bagalkote,,Bagalkote,unchanged source name,HIGH
+District_FloodedArea.csv,,Raichur,,Raichur,unchanged source name,HIGH
+District_FloodedArea.csv,,Koppal,,Koppal,unchanged source name,HIGH
+District_FloodedArea.csv,,Gadag,,Gadag,unchanged source name,HIGH
+District_FloodedArea.csv,,Ballari,,Ballari,unchanged source name,HIGH
+District_FloodedArea.csv,,Dharwad,,Dharwad,unchanged source name,HIGH
+District_FloodedArea.csv,,Uttara Kannada,,Uttara Kannada,unchanged source name,HIGH
+District_FloodedArea.csv,,Haveri,,Haveri,unchanged source name,HIGH
+District_FloodedArea.csv,,Chitradurga,,Chitradurga,unchanged source name,HIGH
+District_FloodedArea.csv,,Davanagere,,Davanagere,unchanged source name,HIGH
+District_FloodedArea.csv,,Shivamogga,,Shivamogga,unchanged source name,HIGH
+District_FloodedArea.csv,,Udupi,,Udupi,unchanged source name,HIGH
+District_FloodedArea.csv,,Chikkamagaluru,,Chikkamagaluru,unchanged source name,HIGH
+District_FloodedArea.csv,,Chikkaballapura,,Chikkaballapura,unchanged source name,HIGH
+District_FloodedArea.csv,,Hassan,,Hassan,unchanged source name,HIGH
+District_FloodedArea.csv,,Kolar,,Kolar,unchanged source name,HIGH
+District_FloodedArea.csv,,Bengaluru Rural,,Bengaluru Rural,unchanged source name,HIGH
+District_FloodedArea.csv,,Dakshina Kannada,,Dakshina Kannada,unchanged source name,HIGH
+District_FloodedArea.csv,,Bangalore,,Bangalore,unchanged source name,HIGH
+District_FloodedArea.csv,,Kodagu,,Kodagu,unchanged source name,HIGH
+District_FloodedArea.csv,,Chamarajanagara,,Chamarajanagara,unchanged source name,HIGH
+District_FloodedArea.csv,,Tumakuru,,Tumakuru,unchanged source name,HIGH
+District_FloodedArea.csv,,Ramanagara,,Ramanagara,unchanged source name,HIGH
+District_FloodedArea.csv,,Mandya,,Mandya,unchanged source name,HIGH
+District_FloodedArea.csv,,Mysuru,,Mysuru,unchanged source name,HIGH
+District_FloodedArea.csv,,Vijayapura,,Vijayapura,unchanged source name,HIGH
+District_FloodedArea.csv,,Kasaragod,,Kasaragod,unchanged source name,HIGH
+District_FloodedArea.csv,,Wayanad,,Wayanad,unchanged source name,HIGH
+District_FloodedArea.csv,,Kozhikode,,Kozhikode,unchanged source name,HIGH
+District_FloodedArea.csv,,Malappuram,,Malappuram,unchanged source name,HIGH
+District_FloodedArea.csv,,Palakkad,,Palakkad,unchanged source name,HIGH
+District_FloodedArea.csv,,Thrissur,,Thrissur,unchanged source name,HIGH
+District_FloodedArea.csv,,Idukki,,Idukki,unchanged source name,HIGH
+District_FloodedArea.csv,,Ernakulam,,Ernakulam,unchanged source name,HIGH
+District_FloodedArea.csv,,Alappuzha,,Alappuzha,unchanged source name,HIGH
+District_FloodedArea.csv,,Kottayam,,Kottayam,unchanged source name,HIGH
+District_FloodedArea.csv,,Pathanamthitta,,Pathanamthitta,unchanged source name,HIGH
+District_FloodedArea.csv,,Kollam,,Kollam,unchanged source name,HIGH
+District_FloodedArea.csv,,Thiruvananthapuram,,Thiruvananthapuram,unchanged source name,HIGH
+District_FloodedArea.csv,,Kannur,,Kannur,unchanged source name,HIGH
+District_FloodedArea.csv,,Leh,,Leh,unchanged source name,HIGH
+District_FloodedArea.csv,,Kargil,,Kargil,unchanged source name,HIGH
+District_FloodedArea.csv,,Lakshadweep,,Lakshadweep,unchanged source name,HIGH
+District_FloodedArea.csv,,Burhanpur,,Burhanpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Morena,,Morena,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhind,,Bhind,unchanged source name,HIGH
+District_FloodedArea.csv,,Gwalior,,Gwalior,unchanged source name,HIGH
+District_FloodedArea.csv,,Sheopur,,Sheopur,unchanged source name,HIGH
+District_FloodedArea.csv,,Shivpuri,,Shivpuri,unchanged source name,HIGH
+District_FloodedArea.csv,,Tikamgarh,,Tikamgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Neemuch,,Neemuch,unchanged source name,HIGH
+District_FloodedArea.csv,,Rewa,,Rewa,unchanged source name,HIGH
+District_FloodedArea.csv,,Satna,,Satna,unchanged source name,HIGH
+District_FloodedArea.csv,,Guna,,Guna,unchanged source name,HIGH
+District_FloodedArea.csv,,Ashoknagar,,Ashoknagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Mandsaur,,Mandsaur,unchanged source name,HIGH
+District_FloodedArea.csv,,Singrauli,,Singrauli,unchanged source name,HIGH
+District_FloodedArea.csv,,Sidhi,,Sidhi,unchanged source name,HIGH
+District_FloodedArea.csv,,Sagar,,Sagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Damoh,,Damoh,unchanged source name,HIGH
+District_FloodedArea.csv,,Shajapur,,Shajapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Vidisha,,Vidisha,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajgarh,,Rajgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Shahdol,,Shahdol,unchanged source name,HIGH
+District_FloodedArea.csv,,Katni,,Katni,unchanged source name,HIGH
+District_FloodedArea.csv,,Umaria,,Umaria,unchanged source name,HIGH
+District_FloodedArea.csv,,Ratlam,,Ratlam,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhopal,,Bhopal,unchanged source name,HIGH
+District_FloodedArea.csv,,Ujjain,,Ujjain,unchanged source name,HIGH
+District_FloodedArea.csv,,Raisen,,Raisen,unchanged source name,HIGH
+District_FloodedArea.csv,,Sehore,,Sehore,unchanged source name,HIGH
+District_FloodedArea.csv,,Jabalpur,,Jabalpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Dewas,,Dewas,unchanged source name,HIGH
+District_FloodedArea.csv,,Anuppur,,Anuppur,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhabua,,Jhabua,unchanged source name,HIGH
+District_FloodedArea.csv,,Dindori,,Dindori,unchanged source name,HIGH
+District_FloodedArea.csv,,Narsimhapur,,Narsimhapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhar,,Dhar,unchanged source name,HIGH
+District_FloodedArea.csv,,Indore,,Indore,unchanged source name,HIGH
+District_FloodedArea.csv,,Mandla,,Mandla,unchanged source name,HIGH
+District_FloodedArea.csv,,Hoshangabad,,Hoshangabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Seoni,,Seoni,unchanged source name,HIGH
+District_FloodedArea.csv,,Alirajpur,,Alirajpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Chhindwara,,Chhindwara,unchanged source name,HIGH
+District_FloodedArea.csv,,Harda,,Harda,unchanged source name,HIGH
+District_FloodedArea.csv,,West Nimar,,West Nimar,unchanged source name,HIGH
+District_FloodedArea.csv,,East Nimar,,East Nimar,unchanged source name,HIGH
+District_FloodedArea.csv,,Balaghat,,Balaghat,unchanged source name,HIGH
+District_FloodedArea.csv,,Barwani,,Barwani,unchanged source name,HIGH
+District_FloodedArea.csv,,Agar Malwa,,Agar Malwa,unchanged source name,HIGH
+District_FloodedArea.csv,,Datia,,Datia,unchanged source name,HIGH
+District_FloodedArea.csv,,Chhatarpur,,Chhatarpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Panna,,Panna,unchanged source name,HIGH
+District_FloodedArea.csv,,Betul,,Betul,unchanged source name,HIGH
+District_FloodedArea.csv,,Niwari,,Niwari,unchanged source name,HIGH
+District_FloodedArea.csv,,Gondiya,,Gondiya,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhandara,,Bhandara,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalgaon,,Jalgaon,unchanged source name,HIGH
+District_FloodedArea.csv,,Wardha,,Wardha,unchanged source name,HIGH
+District_FloodedArea.csv,,Buldana,,Buldana,unchanged source name,HIGH
+District_FloodedArea.csv,,Akola,,Akola,unchanged source name,HIGH
+District_FloodedArea.csv,,Nashik,,Nashik,unchanged source name,HIGH
+District_FloodedArea.csv,,Gadchiroli,,Gadchiroli,unchanged source name,HIGH
+District_FloodedArea.csv,,Washim,,Washim,unchanged source name,HIGH
+District_FloodedArea.csv,,Chandrapur,,Chandrapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Yavatmal,,Yavatmal,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalna,,Jalna,unchanged source name,HIGH
+District_FloodedArea.csv,,Ahmadnagar,,Ahmadnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Hingoli,,Hingoli,unchanged source name,HIGH
+District_FloodedArea.csv,,Nanded,,Nanded,unchanged source name,HIGH
+District_FloodedArea.csv,,Parbhani,,Parbhani,unchanged source name,HIGH
+District_FloodedArea.csv,,Pune,,Pune,unchanged source name,HIGH
+District_FloodedArea.csv,,Bid,,Bid,unchanged source name,HIGH
+District_FloodedArea.csv,,Mumbai,,Mumbai,unchanged source name,HIGH
+District_FloodedArea.csv,,Latur,,Latur,unchanged source name,HIGH
+District_FloodedArea.csv,,Osmanabad,,Osmanabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Solapur,,Solapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Satara,,Satara,unchanged source name,HIGH
+District_FloodedArea.csv,,Ratnagiri,,Ratnagiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Sangli,,Sangli,unchanged source name,HIGH
+District_FloodedArea.csv,,Kolhapur,,Kolhapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sindhudurg,,Sindhudurg,unchanged source name,HIGH
+District_FloodedArea.csv,,Thane,,Thane,unchanged source name,HIGH
+District_FloodedArea.csv,,Palghar,,Palghar,unchanged source name,HIGH
+District_FloodedArea.csv,,Nandurbar,,Nandurbar,unchanged source name,HIGH
+District_FloodedArea.csv,,Amravati,,Amravati,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhule,,Dhule,unchanged source name,HIGH
+District_FloodedArea.csv,,Nagpur,,Nagpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Mumbai Suburban,,Mumbai Suburban,unchanged source name,HIGH
+District_FloodedArea.csv,,Kamjong,,Kamjong,unchanged source name,HIGH
+District_FloodedArea.csv,,Senapati,,Senapati,unchanged source name,HIGH
+District_FloodedArea.csv,,Tamenglong,,Tamenglong,unchanged source name,HIGH
+District_FloodedArea.csv,,Imphal West,,Imphal West,unchanged source name,HIGH
+District_FloodedArea.csv,,Kakching,,Kakching,unchanged source name,HIGH
+District_FloodedArea.csv,,Bishnupur,,Bishnupur,unchanged source name,HIGH
+District_FloodedArea.csv,,Chandel,,Chandel,unchanged source name,HIGH
+District_FloodedArea.csv,,Churachandpur,,Churachandpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Imphal East,,Imphal East,unchanged source name,HIGH
+District_FloodedArea.csv,,Jiribam,,Jiribam,unchanged source name,HIGH
+District_FloodedArea.csv,,Kangpokpi,,Kangpokpi,unchanged source name,HIGH
+District_FloodedArea.csv,,Thoubal,,Thoubal,unchanged source name,HIGH
+District_FloodedArea.csv,,Tengnoupal,,Tengnoupal,unchanged source name,HIGH
+District_FloodedArea.csv,,Ukhrul,,Ukhrul,unchanged source name,HIGH
+District_FloodedArea.csv,,Noney,,Noney,unchanged source name,HIGH
+District_FloodedArea.csv,,Pherzawl,,Pherzawl,unchanged source name,HIGH
+District_FloodedArea.csv,,Ribhoi,,Ribhoi,unchanged source name,HIGH
+District_FloodedArea.csv,,West Khasi Hills,,West Khasi Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,East Jaintia Hills,,East Jaintia Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,East Khasi Hills,,East Khasi Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,South Garo Hills,,South Garo Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,West Garo Hills,,West Garo Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,East Garo Hills,,East Garo Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,West Jaintia Hills,,West Jaintia Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,South West Khasi Hills,,South West Khasi Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,North Garo Hills,,North Garo Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,South West Garo Hills,,South West Garo Hills,unchanged source name,HIGH
+District_FloodedArea.csv,,Kolasib,,Kolasib,unchanged source name,HIGH
+District_FloodedArea.csv,,Aizawl,,Aizawl,unchanged source name,HIGH
+District_FloodedArea.csv,,Mamit,,Mamit,unchanged source name,HIGH
+District_FloodedArea.csv,,Champhai,,Champhai,unchanged source name,HIGH
+District_FloodedArea.csv,,Serchhip,,Serchhip,unchanged source name,HIGH
+District_FloodedArea.csv,,Lunglei,,Lunglei,unchanged source name,HIGH
+District_FloodedArea.csv,,Saiha,,Saiha,unchanged source name,HIGH
+District_FloodedArea.csv,,Lawngtlai,,Lawngtlai,unchanged source name,HIGH
+District_FloodedArea.csv,,Mon,,Mon,unchanged source name,HIGH
+District_FloodedArea.csv,,Longleng,,Longleng,unchanged source name,HIGH
+District_FloodedArea.csv,,Mokokchung,,Mokokchung,unchanged source name,HIGH
+District_FloodedArea.csv,,Tuensang,,Tuensang,unchanged source name,HIGH
+District_FloodedArea.csv,,Kiphire,,Kiphire,unchanged source name,HIGH
+District_FloodedArea.csv,,Peren,,Peren,unchanged source name,HIGH
+District_FloodedArea.csv,,Wokha,,Wokha,unchanged source name,HIGH
+District_FloodedArea.csv,,Zunheboto,,Zunheboto,unchanged source name,HIGH
+District_FloodedArea.csv,,Phek,,Phek,unchanged source name,HIGH
+District_FloodedArea.csv,,Kohima,,Kohima,unchanged source name,HIGH
+District_FloodedArea.csv,,Dimapur,,Dimapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhadrak,,Bhadrak,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhenkanal,,Dhenkanal,unchanged source name,HIGH
+District_FloodedArea.csv,,Jajapur,,Jajapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Subarnapur,,Subarnapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Nuapada,,Nuapada,unchanged source name,HIGH
+District_FloodedArea.csv,,Balangir,,Balangir,unchanged source name,HIGH
+District_FloodedArea.csv,,Baudh,,Baudh,unchanged source name,HIGH
+District_FloodedArea.csv,,Cuttack,,Cuttack,unchanged source name,HIGH
+District_FloodedArea.csv,,Kandhamal,,Kandhamal,unchanged source name,HIGH
+District_FloodedArea.csv,,Nayagarh,,Nayagarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Khordha,,Khordha,unchanged source name,HIGH
+District_FloodedArea.csv,,Kalahandi,,Kalahandi,unchanged source name,HIGH
+District_FloodedArea.csv,,Jagatsinghapur,,Jagatsinghapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Puri,,Puri,unchanged source name,HIGH
+District_FloodedArea.csv,,Nabarangapur,,Nabarangapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Rayagada,,Rayagada,unchanged source name,HIGH
+District_FloodedArea.csv,,Koraput,,Koraput,unchanged source name,HIGH
+District_FloodedArea.csv,,Malkangiri,,Malkangiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Anugul,,Anugul,unchanged source name,HIGH
+District_FloodedArea.csv,,Kendrapara,,Kendrapara,unchanged source name,HIGH
+District_FloodedArea.csv,,Ganjam,,Ganjam,unchanged source name,HIGH
+District_FloodedArea.csv,,Gajapati,,Gajapati,unchanged source name,HIGH
+District_FloodedArea.csv,,Mayurbhanj,,Mayurbhanj,unchanged source name,HIGH
+District_FloodedArea.csv,,Sundargarh,,Sundargarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Kendujhar,,Kendujhar,unchanged source name,HIGH
+District_FloodedArea.csv,,Baleshwar,,Baleshwar,unchanged source name,HIGH
+District_FloodedArea.csv,,Jharsuguda,,Jharsuguda,unchanged source name,HIGH
+District_FloodedArea.csv,,Bargarh,,Bargarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Debagarh,,Debagarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Sambalpur,,Sambalpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Puducherry,,Puducherry,unchanged source name,HIGH
+District_FloodedArea.csv,,Karaikal,,Karaikal,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahe,,Mahe,unchanged source name,HIGH
+District_FloodedArea.csv,,Yanam,,Yanam,unchanged source name,HIGH
+District_FloodedArea.csv,,Gurdaspur,,Gurdaspur,unchanged source name,HIGH
+District_FloodedArea.csv,,Hoshiarpur,,Hoshiarpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Amritsar,,Amritsar,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalandhar,,Jalandhar,unchanged source name,HIGH
+District_FloodedArea.csv,,Tarn Taran,,Tarn Taran,unchanged source name,HIGH
+District_FloodedArea.csv,,Rupnagar,,Rupnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Shahid Bhagat Singh Nagar,,Shahid Bhagat Singh Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Fazilka,,Fazilka,unchanged source name,HIGH
+District_FloodedArea.csv,,Moga,,Moga,unchanged source name,HIGH
+District_FloodedArea.csv,,Ludhiana,,Ludhiana,unchanged source name,HIGH
+District_FloodedArea.csv,,Sahibzada Ajit Singh Nag*,,Sahibzada Ajit Singh Nag*,unchanged source name,HIGH
+District_FloodedArea.csv,,Faridkot,,Faridkot,unchanged source name,HIGH
+District_FloodedArea.csv,,Fatehgarh Sahib,,Fatehgarh Sahib,unchanged source name,HIGH
+District_FloodedArea.csv,,Sri Muktsar Sahib,,Sri Muktsar Sahib,unchanged source name,HIGH
+District_FloodedArea.csv,,Sangrur,,Sangrur,unchanged source name,HIGH
+District_FloodedArea.csv,,Barnala,,Barnala,unchanged source name,HIGH
+District_FloodedArea.csv,,Bathinda,,Bathinda,unchanged source name,HIGH
+District_FloodedArea.csv,,Patiala,,Patiala,unchanged source name,HIGH
+District_FloodedArea.csv,,Mansa,,Mansa,unchanged source name,HIGH
+District_FloodedArea.csv,,Firozpur,,Firozpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Pathankot,,Pathankot,unchanged source name,HIGH
+District_FloodedArea.csv,,Kapurthala,,Kapurthala,unchanged source name,HIGH
+District_FloodedArea.csv,,Churu,,Churu,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhunjhunun,,Jhunjhunun,unchanged source name,HIGH
+District_FloodedArea.csv,,Jaisalmer,,Jaisalmer,unchanged source name,HIGH
+District_FloodedArea.csv,,Sikar,,Sikar,unchanged source name,HIGH
+District_FloodedArea.csv,,Alwar,,Alwar,unchanged source name,HIGH
+District_FloodedArea.csv,,Jaipur,,Jaipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Jodhpur,,Jodhpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Bharatpur,,Bharatpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Nagaur,,Nagaur,unchanged source name,HIGH
+District_FloodedArea.csv,,Dausa,,Dausa,unchanged source name,HIGH
+District_FloodedArea.csv,,Karauli,,Karauli,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhaulpur,,Dhaulpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Barmer,,Barmer,unchanged source name,HIGH
+District_FloodedArea.csv,,Sawai Madhopur,,Sawai Madhopur,unchanged source name,HIGH
+District_FloodedArea.csv,,Tonk,,Tonk,unchanged source name,HIGH
+District_FloodedArea.csv,,Pali,,Pali,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhilwara,,Bhilwara,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalor,,Jalor,unchanged source name,HIGH
+District_FloodedArea.csv,,Bundi,,Bundi,unchanged source name,HIGH
+District_FloodedArea.csv,,Kota,,Kota,unchanged source name,HIGH
+District_FloodedArea.csv,,Sirohi,,Sirohi,unchanged source name,HIGH
+District_FloodedArea.csv,,Baran,,Baran,unchanged source name,HIGH
+District_FloodedArea.csv,,Udaipur,,Udaipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhalawar,,Jhalawar,unchanged source name,HIGH
+District_FloodedArea.csv,,Dungarpur,,Dungarpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Banswara,,Banswara,unchanged source name,HIGH
+District_FloodedArea.csv,,Ajmer,,Ajmer,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajsamand,,Rajsamand,unchanged source name,HIGH
+District_FloodedArea.csv,,Chittaurgarh,,Chittaurgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Ganganagar,,Ganganagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Hanumangarh,,Hanumangarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Bikaner,,Bikaner,unchanged source name,HIGH
+District_FloodedArea.csv,,Pratapgarh,,Pratapgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,North  District,,North District,format-only: trimmed or collapsed whitespace,HIGH
+District_FloodedArea.csv,,West District,,West District,unchanged source name,HIGH
+District_FloodedArea.csv,,South District,,South District,unchanged source name,HIGH
+District_FloodedArea.csv,,East District,,East District,unchanged source name,HIGH
+District_FloodedArea.csv,,Adilabad,,Adilabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Hyderabad,,Hyderabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Jagitial,,Jagitial,unchanged source name,HIGH
+District_FloodedArea.csv,,Jangoan,,Jangoan,unchanged source name,HIGH
+District_FloodedArea.csv,,Mulugu,,Mulugu,unchanged source name,HIGH
+District_FloodedArea.csv,,Jogulamba Gadwal,,Jogulamba Gadwal,unchanged source name,HIGH
+District_FloodedArea.csv,,Kamareddy,,Kamareddy,unchanged source name,HIGH
+District_FloodedArea.csv,,Karimnagar,,Karimnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Khammam,,Khammam,unchanged source name,HIGH
+District_FloodedArea.csv,,Kumuram Bheem Asifabad,,Kumuram Bheem Asifabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahabubabad,,Mahabubabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahabubnagar,,Mahabubnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Mancherial,,Mancherial,unchanged source name,HIGH
+District_FloodedArea.csv,,Medak,,Medak,unchanged source name,HIGH
+District_FloodedArea.csv,,Medchal Malkajgiri,,Medchal Malkajgiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Nagarkurnool,,Nagarkurnool,unchanged source name,HIGH
+District_FloodedArea.csv,,Nalgonda,,Nalgonda,unchanged source name,HIGH
+District_FloodedArea.csv,,Nirmal,,Nirmal,unchanged source name,HIGH
+District_FloodedArea.csv,,Nizamabad,,Nizamabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Peddapalli,,Peddapalli,unchanged source name,HIGH
+District_FloodedArea.csv,,Rajanna Sircilla,,Rajanna Sircilla,unchanged source name,HIGH
+District_FloodedArea.csv,,Ranga Reddy,,Ranga Reddy,unchanged source name,HIGH
+District_FloodedArea.csv,,Sangareddy,,Sangareddy,unchanged source name,HIGH
+District_FloodedArea.csv,,Siddipet,,Siddipet,unchanged source name,HIGH
+District_FloodedArea.csv,,Suryapet,,Suryapet,unchanged source name,HIGH
+District_FloodedArea.csv,,Vikarabad,,Vikarabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Wanaparthy,,Wanaparthy,unchanged source name,HIGH
+District_FloodedArea.csv,,Warangal Rural,,Warangal Rural,unchanged source name,HIGH
+District_FloodedArea.csv,,Warangal Urban,,Warangal Urban,unchanged source name,HIGH
+District_FloodedArea.csv,,Yadadri Bhuvanagiri,,Yadadri Bhuvanagiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhadradri Kothagudem,,Bhadradri Kothagudem,unchanged source name,HIGH
+District_FloodedArea.csv,,Jayashankar,,Jayashankar,unchanged source name,HIGH
+District_FloodedArea.csv,,Narayanpet,,Narayanpet,unchanged source name,HIGH
+District_FloodedArea.csv,,North Tripura,,North Tripura,unchanged source name,HIGH
+District_FloodedArea.csv,,Dhalai,,Dhalai,unchanged source name,HIGH
+District_FloodedArea.csv,,Sipahijala,,Sipahijala,unchanged source name,HIGH
+District_FloodedArea.csv,,Gomati,,Gomati,unchanged source name,HIGH
+District_FloodedArea.csv,,Khowai,,Khowai,unchanged source name,HIGH
+District_FloodedArea.csv,,West Tripura,,West Tripura,unchanged source name,HIGH
+District_FloodedArea.csv,,South Tripura,,South Tripura,unchanged source name,HIGH
+District_FloodedArea.csv,,Unokoti,,Unokoti,unchanged source name,HIGH
+District_FloodedArea.csv,,Amroha,,Amroha,unchanged source name,HIGH
+District_FloodedArea.csv,,Hapur,,Hapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Bareilly,,Bareilly,unchanged source name,HIGH
+District_FloodedArea.csv,,Pilibhit,,Pilibhit,unchanged source name,HIGH
+District_FloodedArea.csv,,Bulandshahr,,Bulandshahr,unchanged source name,HIGH
+District_FloodedArea.csv,,Gautam Buddha Nagar,,Gautam Buddha Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Kheri,,Kheri,unchanged source name,HIGH
+District_FloodedArea.csv,,Budaun,,Budaun,unchanged source name,HIGH
+District_FloodedArea.csv,,Bahraich,,Bahraich,unchanged source name,HIGH
+District_FloodedArea.csv,,Shahjahanpur,,Shahjahanpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Aligarh,,Aligarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Kasganj,,Kasganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Mathura,,Mathura,unchanged source name,HIGH
+District_FloodedArea.csv,,Shrawasti,,Shrawasti,unchanged source name,HIGH
+District_FloodedArea.csv,,Sitapur,,Sitapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Hathras,,Hathras,unchanged source name,HIGH
+District_FloodedArea.csv,,Etah,,Etah,unchanged source name,HIGH
+District_FloodedArea.csv,,Hardoi,,Hardoi,unchanged source name,HIGH
+District_FloodedArea.csv,,Farrukhabad,,Farrukhabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Firozabad,,Firozabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Siddharthnagar,,Siddharthnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Mainpuri,,Mainpuri,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahrajganj,,Mahrajganj,unchanged source name,HIGH
+District_FloodedArea.csv,,Agra,,Agra,unchanged source name,HIGH
+District_FloodedArea.csv,,Gonda,,Gonda,unchanged source name,HIGH
+District_FloodedArea.csv,,Bara Banki,,Bara Banki,unchanged source name,HIGH
+District_FloodedArea.csv,,Kushinagar,,Kushinagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Kannauj,,Kannauj,unchanged source name,HIGH
+District_FloodedArea.csv,,Lucknow,,Lucknow,unchanged source name,HIGH
+District_FloodedArea.csv,,Basti,,Basti,unchanged source name,HIGH
+District_FloodedArea.csv,,Gorakhpur,,Gorakhpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sant Kabir Nagar,,Sant Kabir Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Unnao,,Unnao,unchanged source name,HIGH
+District_FloodedArea.csv,,Etawah,,Etawah,unchanged source name,HIGH
+District_FloodedArea.csv,,Kanpur Nagar,,Kanpur Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Auraiya,,Auraiya,unchanged source name,HIGH
+District_FloodedArea.csv,,Faizabad,,Faizabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Kanpur Dehat,,Kanpur Dehat,unchanged source name,HIGH
+District_FloodedArea.csv,,Deoria,,Deoria,unchanged source name,HIGH
+District_FloodedArea.csv,,Sultanpur,,Sultanpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Ambedkar Nagar,,Ambedkar Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Rae Bareli,,Rae Bareli,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalaun,,Jalaun,unchanged source name,HIGH
+District_FloodedArea.csv,,Azamgarh,,Azamgarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Mau,,Mau,unchanged source name,HIGH
+District_FloodedArea.csv,,Fatehpur,,Fatehpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Ballia,,Ballia,unchanged source name,HIGH
+District_FloodedArea.csv,,Jaunpur,,Jaunpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhansi,,Jhansi,unchanged source name,HIGH
+District_FloodedArea.csv,,Banda,,Banda,unchanged source name,HIGH
+District_FloodedArea.csv,,Ghazipur,,Ghazipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Kaushambi,,Kaushambi,unchanged source name,HIGH
+District_FloodedArea.csv,,Prayagraj,,Prayagraj,unchanged source name,HIGH
+District_FloodedArea.csv,,Varanasi,,Varanasi,unchanged source name,HIGH
+District_FloodedArea.csv,,Chitrakoot,,Chitrakoot,unchanged source name,HIGH
+District_FloodedArea.csv,,Chandauli,,Chandauli,unchanged source name,HIGH
+District_FloodedArea.csv,,Bhadohi,,Bhadohi,unchanged source name,HIGH
+District_FloodedArea.csv,,Mirzapur,,Mirzapur,unchanged source name,HIGH
+District_FloodedArea.csv,,Lalitpur,,Lalitpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Sonbhadra,,Sonbhadra,unchanged source name,HIGH
+District_FloodedArea.csv,,Amethi,,Amethi,unchanged source name,HIGH
+District_FloodedArea.csv,,Ghaziabad,,Ghaziabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Sambhal,,Sambhal,unchanged source name,HIGH
+District_FloodedArea.csv,,Mahoba,,Mahoba,unchanged source name,HIGH
+District_FloodedArea.csv,,Saharanpur,,Saharanpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Bijnor,,Bijnor,unchanged source name,HIGH
+District_FloodedArea.csv,,Muzaffarnagar,,Muzaffarnagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Baghpat,,Baghpat,unchanged source name,HIGH
+District_FloodedArea.csv,,Meerut,,Meerut,unchanged source name,HIGH
+District_FloodedArea.csv,,Moradabad,,Moradabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Rampur,,Rampur,unchanged source name,HIGH
+District_FloodedArea.csv,,Shamli,,Shamli,unchanged source name,HIGH
+District_FloodedArea.csv,,Uttarkashi,,Uttarkashi,unchanged source name,HIGH
+District_FloodedArea.csv,,Chamoli,,Chamoli,unchanged source name,HIGH
+District_FloodedArea.csv,,Dehradun,,Dehradun,unchanged source name,HIGH
+District_FloodedArea.csv,,Tehri Garhwal,,Tehri Garhwal,unchanged source name,HIGH
+District_FloodedArea.csv,,Rudraprayag,,Rudraprayag,unchanged source name,HIGH
+District_FloodedArea.csv,,Pithoragarh,,Pithoragarh,unchanged source name,HIGH
+District_FloodedArea.csv,,Bageshwar,,Bageshwar,unchanged source name,HIGH
+District_FloodedArea.csv,,Hardwar,,Hardwar,unchanged source name,HIGH
+District_FloodedArea.csv,,Garhwal,,Garhwal,unchanged source name,HIGH
+District_FloodedArea.csv,,Almora,,Almora,unchanged source name,HIGH
+District_FloodedArea.csv,,Nainital,,Nainital,unchanged source name,HIGH
+District_FloodedArea.csv,,Champawat,,Champawat,unchanged source name,HIGH
+District_FloodedArea.csv,,Udham Singh Nagar,,Udham Singh Nagar,unchanged source name,HIGH
+District_FloodedArea.csv,,South Twenty Four Pargan*,,South Twenty Four Pargan*,unchanged source name,HIGH
+District_FloodedArea.csv,,Darjiling,,Darjiling,unchanged source name,HIGH
+District_FloodedArea.csv,,Jalpaiguri,,Jalpaiguri,unchanged source name,HIGH
+District_FloodedArea.csv,,Dakshin Dinajpur,,Dakshin Dinajpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Maldah,,Maldah,unchanged source name,HIGH
+District_FloodedArea.csv,,Murshidabad,,Murshidabad,unchanged source name,HIGH
+District_FloodedArea.csv,,Birbhum,,Birbhum,unchanged source name,HIGH
+District_FloodedArea.csv,,Nadia,,Nadia,unchanged source name,HIGH
+District_FloodedArea.csv,,Purba Bardhaman,,Purba Bardhaman,unchanged source name,HIGH
+District_FloodedArea.csv,,Puruliya,,Puruliya,unchanged source name,HIGH
+District_FloodedArea.csv,,Bankura,,Bankura,unchanged source name,HIGH
+District_FloodedArea.csv,,North Twenty Four Pargan*,,North Twenty Four Pargan*,unchanged source name,HIGH
+District_FloodedArea.csv,,Hooghly,,Hooghly,unchanged source name,HIGH
+District_FloodedArea.csv,,Medinipur West,,Medinipur West,unchanged source name,HIGH
+District_FloodedArea.csv,,Howrah,,Howrah,unchanged source name,HIGH
+District_FloodedArea.csv,,Kolkata,,Kolkata,unchanged source name,HIGH
+District_FloodedArea.csv,,Purba Medinipur,,Purba Medinipur,unchanged source name,HIGH
+District_FloodedArea.csv,,Alipurduar,,Alipurduar,unchanged source name,HIGH
+District_FloodedArea.csv,,Paschim Bardhaman,,Paschim Bardhaman,unchanged source name,HIGH
+District_FloodedArea.csv,,Kalimpong,,Kalimpong,unchanged source name,HIGH
+District_FloodedArea.csv,,Jhargram,,Jhargram,unchanged source name,HIGH
+District_FloodedArea.csv,,Cooch Behar,,Cooch Behar,unchanged source name,HIGH
+District_FloodedArea.csv,,Uttar Dinajpur,,Uttar Dinajpur,unchanged source name,HIGH
+District_FloodedArea.csv,,Thiruvallur,,Thiruvallur,unchanged source name,HIGH
+District_FloodedArea.csv,,Chennai,,Chennai,unchanged source name,HIGH
+District_FloodedArea.csv,,Krishnagiri,,Krishnagiri,unchanged source name,HIGH
+District_FloodedArea.csv,,Tiruvannamalai,,Tiruvannamalai,unchanged source name,HIGH
+District_FloodedArea.csv,,Dharmapuri,,Dharmapuri,unchanged source name,HIGH
+District_FloodedArea.csv,,Salem,,Salem,unchanged source name,HIGH
+District_FloodedArea.csv,,Erode,,Erode,unchanged source name,HIGH
+District_FloodedArea.csv,,The Nilgiris,,The Nilgiris,unchanged source name,HIGH
+District_FloodedArea.csv,,Namakkal,,Namakkal,unchanged source name,HIGH
+District_FloodedArea.csv,,Perambalur,,Perambalur,unchanged source name,HIGH
+District_FloodedArea.csv,,Coimbatore,,Coimbatore,unchanged source name,HIGH
+District_FloodedArea.csv,,Tiruchirappalli,,Tiruchirappalli,unchanged source name,HIGH
+District_FloodedArea.csv,,Ariyalur,,Ariyalur,unchanged source name,HIGH
+District_FloodedArea.csv,,Tiruppur,,Tiruppur,unchanged source name,HIGH
+District_FloodedArea.csv,,Thanjavur,,Thanjavur,unchanged source name,HIGH
+District_FloodedArea.csv,,Karur,,Karur,unchanged source name,HIGH
+District_FloodedArea.csv,,Thiruvarur,,Thiruvarur,unchanged source name,HIGH
+District_FloodedArea.csv,,Dindigul,,Dindigul,unchanged source name,HIGH
+District_FloodedArea.csv,,Madurai,,Madurai,unchanged source name,HIGH
+District_FloodedArea.csv,,Theni,,Theni,unchanged source name,HIGH
+District_FloodedArea.csv,,Virudhunagar,,Virudhunagar,unchanged source name,HIGH
+District_FloodedArea.csv,,Thoothukkudi,,Thoothukkudi,unchanged source name,HIGH
+District_FloodedArea.csv,,Kanniyakumari,,Kanniyakumari,unchanged source name,HIGH
+District_FloodedArea.csv,,Viluppuram,,Viluppuram,unchanged source name,HIGH
+District_FloodedArea.csv,,Cuddalore,,Cuddalore,unchanged source name,HIGH
+District_FloodedArea.csv,,Pudukkottai,,Pudukkottai,unchanged source name,HIGH
+District_FloodedArea.csv,,Sivaganga,,Sivaganga,unchanged source name,HIGH
+District_FloodedArea.csv,,Ramanathapuram,,Ramanathapuram,unchanged source name,HIGH
+District_FloodedArea.csv,,Nagapattinam,,Nagapattinam,unchanged source name,HIGH
+District_FloodedArea.csv,,Kallakurichi,,Kallakurichi,unchanged source name,HIGH
+District_FloodedArea.csv,,Tenkasi,,Tenkasi,unchanged source name,HIGH
+District_FloodedArea.csv,,Tirunelveli,,Tirunelveli,unchanged source name,HIGH
+District_FloodedArea.csv,,Vellore,,Vellore,unchanged source name,HIGH
+District_FloodedArea.csv,,Ranipet,,Ranipet,unchanged source name,HIGH
+District_FloodedArea.csv,,Tirupathur,,Tirupathur,unchanged source name,HIGH
+District_FloodedArea.csv,,Kancheepuram,,Kancheepuram,unchanged source name,HIGH
+District_FloodedArea.csv,,Chengalpattu,,Chengalpattu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhadrak,,Bhadrak,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhenkanal,,Dhenkanal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jajapur,,Jajapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Subarnapur,,Subarnapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nuapada,,Nuapada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Balangir,,Balangir,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Boudh,,Boudh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Cuttack,,Cuttack,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kandhamal,,Kandhamal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nayagarh,,Nayagarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khordha,,Khordha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kalahandi,,Kalahandi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jagatsinghapur,,Jagatsinghapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Puri,,Puri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagpur,,Nagpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rayagada,,Rayagada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Koraput,,Koraput,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Malkangiri,,Malkangiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Anugul,,Anugul,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kendrapara,,Kendrapara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ganjam,,Ganjam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gajapati,,Gajapati,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mayurbhanj,,Mayurbhanj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sundargarh,,Sundargarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kendujhar,,Kendujhar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Baleshwar,,Baleshwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jharsuguda,,Jharsuguda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bargarh,,Bargarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Deogarh,,Deogarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sambalpur,,Sambalpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pashchim Champaran,,Pashchim Champaran,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purbi Champaran,,Purbi Champaran,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sitamarhi,,Sitamarhi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sheohar,,Sheohar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gopalganj,,Gopalganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Samastipur,,Samastipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Katihar,,Katihar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khagaria,,Khagaria,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhojpur,,Bhojpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Buxar,,Buxar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Darbhanga,,Darbhanga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Saharsa,,Saharsa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kaimur (Bhabua),,Kaimur (Bhabua),unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rohtas,,Rohtas,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jamui,,Jamui,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Banka,,Banka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nawada,,Nawada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gaya,,Gaya,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Munger,,Munger,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vaishali,,Vaishali,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Begusarai,,Begusarai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhagalpur,,Bhagalpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lakhisarai,,Lakhisarai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sheikhpura,,Sheikhpura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Arwal,,Arwal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jehanabad,,Jehanabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nalanda,,Nalanda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Patna,,Patna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Saran,,Saran,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siwan,,Siwan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Muzaffarpur,,Muzaffarpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Madhepura,,Madhepura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Araria,,Araria,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Supaul,,Supaul,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Madhubani,,Madhubani,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purnia,,Purnia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kishanganj,,Kishanganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Aurangabad,,Aurangabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Amroha,,Amroha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hapur,,Hapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bareilly,,Bareilly,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pilibhit,,Pilibhit,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bulandshahr,,Bulandshahr,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gautam Buddha Nagar,,Gautam Buddha Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kheri,,Kheri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Budaun,,Budaun,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bahraich,,Bahraich,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shahjahanpur,,Shahjahanpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Aligarh,,Aligarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kasganj,,Kasganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mathura,,Mathura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,SShrawasti,,SShrawasti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sitapur,,Sitapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hathras,,Hathras,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Etah,,Etah,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hardoi,,Hardoi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Farrukhabad,,Farrukhabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Firozabad,,Firozabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siddharthnagar,,Siddharthnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mainpuri,,Mainpuri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahrajganj,,Mahrajganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Agra,,Agra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gonda,,Gonda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bara Banki,,Bara Banki,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kushinagar,,Kushinagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kannauj,,Kannauj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lucknow,,Lucknow,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Basti,,Basti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gorakhpur,,Gorakhpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sant Kabir Nagar,,Sant Kabir Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Unnao,,Unnao,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Etawah,,Etawah,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanpur nagar Nagar,,Kanpur nagar Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Auraiya,,Auraiya,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ayodhya,,Ayodhya,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanpur nagar Dehat,,Kanpur nagar Dehat,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Deoria,,Deoria,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sultanpur,,Sultanpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ambedkar Nagar,,Ambedkar Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rae Bareli,,Rae Bareli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalaun,,Jalaun,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Azamgarh,,Azamgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mau,,Mau,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Fatehpur,,Fatehpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ballia,,Ballia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jaunpur,,Jaunpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhansi,,Jhansi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Banda,,Banda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ghazipurr,,Ghazipurr,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kaushambi,,Kaushambi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Prayagraj,,Prayagraj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Varanasi,,Varanasi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chitrakoot,,Chitrakoot,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chandauli,,Chandauli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhadohi,,Bhadohi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mirzapur,,Mirzapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lalitpur,,Lalitpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sonbhadra,,Sonbhadra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Amethi,,Amethi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ghaziabad,,Ghaziabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sambhal,,Sambhal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahoba,,Mahoba,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Saharanpur,,Saharanpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bijnor,,Bijnor,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Muzaffarnagar,,Muzaffarnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Baghpat,,Baghpat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Meerut,,Meerut,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Moradabad,,Moradabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rampur,,Rampur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shamli,,Shamli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Balrampur,,Balrampur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hamirpur,,Hamirpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pratapgarh,,Pratapgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Burhanpur,,Burhanpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Morena,,Morena,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhind,,Bhind,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gwalior,,Gwalior,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sheopur,,Sheopur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shivpuri,,Shivpuri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tikamgarh,,Tikamgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Neemuch,,Neemuch,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rewa,,Rewa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Satna,,Satna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Guna,,Guna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ashoknagar,,Ashoknagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mandsaur,,Mandsaur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Singrauli,,Singrauli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sidhi,,Sidhi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sagar,,Sagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Damoh,,Damoh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shajapur,,Shajapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vidisha,,Vidisha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajgarh,,Rajgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shahdol,,Shahdol,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Katni,,Katni,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Umaria,,Umaria,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ratlam,,Ratlam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhopal,,Bhopal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ujjain,,Ujjain,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Raisen,,Raisen,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sehore,,Sehore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jabalpur,,Jabalpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dewas,,Dewas,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Anuppur,,Anuppur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhabua,,Jhabua,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dindori,,Dindori,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Narsimhapur,,Narsimhapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhar,,Dhar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Indore,,Indore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mandla,,Mandla,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Narmadapuram,,Narmadapuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Seoni,,Seoni,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Alirajpur,,Alirajpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chhindwara,,Chhindwara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Harda,,Harda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khargone (Khargone (West Nimar)),,Khargone (Khargone (West Nimar)),unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Nimar,,East Nimar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Balaghat,,Balaghat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Barwani,,Barwani,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Agar-Malwa,,Agar-Malwa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Datia,,Datia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chhatarpur,,Chhatarpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Panna,,Panna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Betul,,Betul,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Niwari,,Niwari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Churu,,Churu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhunjhunu,,Jhunjhunu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jaisalmer,,Jaisalmer,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sikar,,Sikar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Alwar,,Alwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jaipur,,Jaipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jodhpur,,Jodhpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bharatpur,,Bharatpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagaur,,Nagaur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dausa,,Dausa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karauli,,Karauli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dholpur,,Dholpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Barmer,,Barmer,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sawai Madhopur,,Sawai Madhopur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tonk,,Tonk,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pali,,Pali,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhilwara,,Bhilwara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalore,,Jalore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bundi,,Bundi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kota,,Kota,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sirohi,,Sirohi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Baran,,Baran,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udaipur,,Udaipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhalawar,,Jhalawar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dungarpur,,Dungarpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Banswara,,Banswara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ajmer,,Ajmer,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajsamand,,Rajsamand,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chittorgarh,,Chittorgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ganganagar,,Ganganagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hanumangarh,,Hanumangarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bikaner,,Bikaner,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhajjar,,Jhajjar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gurugram,,Gurugram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Faridabad,,Faridabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahendragarh,,Mahendragarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rewari,,Rewari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nuh,,Nuh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palwal,,Palwal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Charki Dadri,,Charki Dadri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yamunanagar,,Yamunanagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kurukshetra,,Kurukshetra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kaithal,,Kaithal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sirsa,,Sirsa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karnal,,Karnal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jind,,Jind,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Fatehabad,,Fatehabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hisar,,Hisar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Panipat,,Panipat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sonipat,,Sonipat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhiwani,,Bhiwani,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rohtak,,Rohtak,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Panchkula,,Panchkula,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ambala,,Ambala,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kasaragod,,Kasaragod,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Wayanad,,Wayanad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kozhikode,,Kozhikode,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Malappuram,,Malappuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palakkad,,Palakkad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thrissur,,Thrissur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Idukki,,Idukki,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ernakulam,,Ernakulam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Alappuzha,,Alappuzha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kottayam,,Kottayam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pathanamthitta,,Pathanamthitta,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kollam,,Kollam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thiruvananthapuram,,Thiruvananthapuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kannur,,Kannur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jhunjhunun,,Jhunjhunun,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Surat,,Surat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Darjeeling,,Darjeeling,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalpaiguri,,Jalpaiguri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Cooch Behar,,Cooch Behar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gangtok,,Gangtok,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Beedar,,Beedar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kalaburagi,,Kalaburagi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Belagavi,,Belagavi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yadgir,,Yadgir,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkotee,,Bagalkotee,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Raichur,,Raichur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Koppal,,Koppal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gadag,,Gadag,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ballari,,Ballari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dharwad,,Dharwad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashia Kannada,,Uttar Kashia Kannada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Haveri,,Haveri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chitradurga,,Chitradurga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Davangere,,Davangere,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Shivamogga,,Shivamogga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udupi,,Udupi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chikkamagaluru,,Chikkamagaluru,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chikkaballapura,,Chikkaballapura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hassan,,Hassan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kolar,,Kolar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bengaluru Rural,,Bengaluru Rural,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dakshina Kannada,,Dakshina Kannada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bengaluru Urban,,Bengaluru Urban,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kodagu,,Kodagu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa,,Chamarajanagaraa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tumakuru,,Tumakuru,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ramanagara,,Ramanagara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mandya,,Mandya,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mysuru,,Mysuru,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vijayapura,,Vijayapura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lahul And Spiti,,Lahul And Spiti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamba,,Chamba,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kangra,,Kangra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kullu,,Kullu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mandi,,Mandi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kinnaur,,Kinnaur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Una,,Una,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shimla,,Shimla,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Solan,,Solan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sirmaur,,Sirmaur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bilaspur,,Bilaspur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kupwara,,Kupwara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bandipora,,Bandipora,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Baramulla,,Baramulla,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ganderbal,,Ganderbal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Anantnag,,Anantnag,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kishtwar,,Kishtwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Srinagar,,Srinagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Budgam,,Budgam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pulwama,,Pulwama,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Poonch,,Poonch,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shopian,,Shopian,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kulgam,,Kulgam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajouri,,Rajouri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ramban,,Ramban,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Reasi,,Reasi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Doda,,Doda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jammu,,Jammu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kathua,,Kathua,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udhampur,,Udhampur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Samba,,Samba,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Muzaffarabad,,Muzaffarabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mirpur,,Mirpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North,,North,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North East,,North East,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West,,West,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East,,East,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South West,,South West,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Central,,Central,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,New New Delhi,,New New Delhi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South,,South,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shahdara,,Shahdara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South East,,South East,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North West,,North West,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Gurdaspur,,Gurdaspur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hoshiarpur,,Hoshiarpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Amritsar,,Amritsar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalandhar,,Jalandhar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tarn Taran,,Tarn Taran,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rupnagar,,Rupnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shahid Bhagat Singh Nagar,,Shahid Bhagat Singh Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Fazilka,,Fazilka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Moga,,Moga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ludhiana,,Ludhiana,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,S.A.S Nagar,,S.A.S Nagar,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Faridkot,,Faridkot,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Fatehgarh Sahib,,Fatehgarh Sahib,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sri Sri Muktsar Sahib Sahib,,Sri Sri Muktsar Sahib Sahib,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sangrur,,Sangrur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Barnala,,Barnala,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bathinda,,Bathinda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Patiala,,Patiala,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mansa,,Mansa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ferozepur,,Ferozepur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pathankot,,Pathankot,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kapurthala,,Kapurthala,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gondia,,Gondia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhandara,,Bhandara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalgaon,,Jalgaon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Wardha,,Wardha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Buldhana,,Buldhana,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Akola,,Akola,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nashik,,Nashik,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gadchiroli,,Gadchiroli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Washim,,Washim,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chandrapur,,Chandrapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yavatmal,,Yavatmal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jalna,,Jalna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ahmednagar,,Ahmednagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hingoli,,Hingoli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nanded,,Nanded,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parbhani,,Parbhani,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pune,,Pune,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Beed,,Beed,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mumbai,,Mumbai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Latur,,Latur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dharashiv,,Dharashiv,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Solapur,,Solapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Satara,,Satara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ratnagiri,,Ratnagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sangli,,Sangli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kolhapur,,Kolhapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sindhudurg,,Sindhudurg,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thane,,Thane,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palghar,,Palghar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nandurbar,,Nandurbar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Amravati,,Amravati,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhule,,Dhule,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Raigarh,,Raigarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mumbai Suburban,,Mumbai Suburban,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Adilabad,,Adilabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hyderabad,,Hyderabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jagitial,,Jagitial,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jangoan,,Jangoan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mulugu,,Mulugu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jogulamba Gadwal,,Jogulamba Gadwal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kamareddy,,Kamareddy,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karimnagar,,Karimnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khammam,,Khammam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kumuram Bheem Asifabad,,Kumuram Bheem Asifabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahabubabad,,Mahabubabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahabubnagar,,Mahabubnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mancherial,,Mancherial,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Medak,,Medak,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Medchal Malkajgiri,,Medchal Malkajgiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagarkurnool,,Nagarkurnool,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nalgonda,,Nalgonda,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Nirmal,,Nirmal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nizamabad,,Nizamabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Peddapalli,,Peddapalli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajanna Sircilla,,Rajanna Sircilla,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ranga Reddy,,Ranga Reddy,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sangareddy,,Sangareddy,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siddipet,,Siddipet,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Suryapet,,Suryapet,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vikarabad,,Vikarabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Wanaparthy,,Wanaparthy,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Warangal,,Warangal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yadadri Yadadri Bhuvanagiri Yadadri Bhuvanagiri,,Yadadri Yadadri Bhuvanagiri Yadadri Bhuvanagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhadradri Bhadradri Kothagudem Bhadradri Kothagudem,,Bhadradri Bhadradri Kothagudem Bhadradri Kothagudem,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jayashankar Bhupalapally,,Jayashankar Bhupalapally,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Narayanpet,,Narayanpet,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chennai,,Chennai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Suburbans,,Suburbans,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udalguri,,Udalguri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Darrang,,Darrang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sonitpur,,Sonitpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Biswanath,,Biswanath,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Entire village,,Entire village,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Srikakulam,,Srikakulam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vizianagaram,,Vizianagaram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Visakhapatnam,,Visakhapatnam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Krishna,,Krishna,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Guntur,,Guntur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Godavari,,East Godavari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Prakasam,,Prakasam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kurnool,,Kurnool,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ananthapuramuamu,,Ananthapuramuamu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sri Potti Sriramulu Nellore,,Sri Potti Sriramulu Nellore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Godavari,,West Godavari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Y.S.R.,,Y.S.R.,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chittoor,,Chittoor,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Malda,,Malda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashi Dinajpur,,Uttar Kashi Dinajpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dakshin Dinajpur,,Dakshin Dinajpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North westduar,,North westduar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kalimpong,,Kalimpong,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tinsukia,,Tinsukia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhemaji,,Dhemaji,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dibrugarh,,Dibrugarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lakhimpur,,Lakhimpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sivasagar,,Sivasagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jorhat,,Jorhat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Golaghat,,Golaghat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chirang,,Chirang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Baksa,,Baksa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagaon,,Nagaon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kokrajhar,,Kokrajhar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Barpeta,,Barpeta,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nalbari,,Nalbari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Marigaon,,Marigaon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kamrup,,Kamrup,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bongaigaon,,Bongaigaon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhubri,,Dhubri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kamrup Metro,,Kamrup Metro,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Goalpara,,Goalpara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dima Hasao,,Dima Hasao,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Cachar,,Cachar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karimganj,,Karimganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hailakandi,,Hailakandi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Charaideo,,Charaideo,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Majuli,,Majuli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hojai,,Hojai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Salmara Mancachar,,South Salmara Mancachar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karbi Anglong,,Karbi Anglong,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Karbi Anglong,,West Karbi Anglong,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South 24 Parganas,,South 24 Parganas,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Maldah,,Maldah,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Murshidabad,,Murshidabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Birbhum,,Birbhum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nadia,,Nadia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purba Purba Bardhaman,,Purba Purba Bardhaman,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purulia,,Purulia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bankura,,Bankura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North 24 Parganas,,North 24 Parganas,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,S.A.S Nagar*,,S.A.S Nagar*,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Kashmir valley,,Kashmir valley,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Few districts,,Few districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Valsad,,Valsad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Amreli,,Amreli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dangs,,Dangs,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Banas Kantha,,Banas Kantha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Patan,,Patan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahesana,,Mahesana,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gandhinagar,,Gandhinagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ahmedabad,,Ahmedabad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Panch Mahals,,Panch Mahals,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dahod,,Dahod,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vadodara,,Vadodara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bharuch,,Bharuch,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Porbandar,,Porbandar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Narmada,,Narmada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tapi,,Tapi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Arvalli,,Arvalli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Botad,,Botad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chota Udaipur,,Chota Udaipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahisagar,,Mahisagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gir Somnath,,Gir Somnath,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sabar Kantha,,Sabar Kantha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kachchh,,Kachchh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Surendranagar,,Surendranagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajkot,,Rajkot,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kheda,,Kheda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Anand,,Anand,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhavnagar,,Bhavnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Junagadh,,Junagadh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jamnagar,,Jamnagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Devbhumi Dwarka Dwarka,,Devbhumi Dwarka Dwarka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Morbi,,Morbi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Navsari,,Navsari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Upper Lower Subansiri,,Upper Lower Subansiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Anjaw,,Anjaw,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Changlang,,Changlang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tawang,,Tawang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Papum Pare,,Papum Pare,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tirap,,Tirap,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Siang,,East Siang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lohit,,Lohit,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kurung Kumey,,Kurung Kumey,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lower Lower Subansiri,,Lower Lower Subansiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Kameng,,East Kameng,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Kameng,,West Kameng,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kra Daadi,,Kra Daadi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Namsai,,Namsai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Longding,,Longding,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Upper Siang,,Upper Siang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lower Siang,,Lower Siang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dibang Valley,,Dibang Valley,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lower Dibang Valley,,Lower Dibang Valley,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siang,,Siang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Shi Yomi,,Shi Yomi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pakke Kessang,,Pakke Kessang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Siang,,West Siang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Leparada,,Leparada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kamle,,Kamle,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ghazipur,,Ghazipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South 24 Parganas*,,South 24 Parganas*,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Mumbai (Colaba),,Mumbai (Colaba),unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Silchar,,Silchar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North Bengal,,North Bengal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kolkata,,Kolkata,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purba Purba Medinipur,,Purba Purba Medinipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Paschim Purba Medinipur,,Paschim Purba Medinipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Paschim Purba Bardhaman,,Paschim Purba Bardhaman,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ramgarh,,Ramgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khurja,,Khurja,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ghat area,,Ghat area,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bijapur,,Bijapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thanjavur,,Thanjavur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chengalpattu,,Chengalpattu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North Tripura,,North Tripura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hooghly,,Hooghly,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purba bardhaman,,Purba bardhaman,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Jhelum,,Jhelum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dadra And Nagar Haveli,,Dadra And Nagar Haveli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Gujarat,,South Gujarat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhadradri Bhadradri Kothagudem kothagudem,,Bhadradri Bhadradri Kothagudem kothagudem,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,The Nilgiris,,The Nilgiris,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Coimbatore,,Coimbatore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,nalgonda,,nalgonda,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Greater Kolkata area,,Greater Kolkata area,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North west,,North west,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Chumanung,,Chumanung,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mudigere,,Mudigere,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mangalore,,Mangalore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Raipur,,Raipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ramagiri,,Ramagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Erode,,Erode,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Salem,,Salem,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ramanathapuram,,Ramanathapuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tripura,,Tripura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Almora,,Almora,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashi Kashi,,Uttar Kashi Kashi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tehri Garhwal,,Tehri Garhwal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Garhwal,,Garhwal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dehradun,,Dehradun,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hilly areas,,Hilly areas,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rugi,,Rugi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Madurai,,Madurai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pudukkottai,,Pudukkottai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Cuddalore,,Cuddalore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tiruchirappalli,,Tiruchirappalli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tirunelveli,,Tirunelveli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamoli,,Chamoli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siliguri,,Siliguri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Howrah,,Howrah,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Santal Pargan,,Santal Pargan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chandigarh,,Chandigarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North Goa,,North Goa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Goa,,South Goa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Imphal West,,Imphal West,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Imphal East,,Imphal East,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mangan,,Mangan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gyalshing,,Gyalshing,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Namchi,,Namchi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nainital,,Nainital,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pithoragarh,,Pithoragarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,New Delhi,,New Delhi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kohima,,Kohima,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Vellore,,Vellore,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Manali,,Manali,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Viluppuram,,Viluppuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Akharpur,,Akharpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Goa,,Goa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Godda,,Godda,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Deoghar,,Deoghar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dumka,,Dumka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jamtara,,Jamtara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sahebganj,,Sahebganj,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pakur,,Pakur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bastar,,Bastar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhubaneshwar,,Bhubaneshwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhalai,,Dhalai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sepahijala,,Sepahijala,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gomati,,Gomati,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khowai,,Khowai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Tripura,,West Tripura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Tripura,,South Tripura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Unakoti,,Unakoti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palamu,,Palamu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kargil,,Kargil,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Raigad,,Raigad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ranchi,,Ranchi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Durg,,Durg,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kamjong,,Kamjong,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Senapati,,Senapati,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tamenglong,,Tamenglong,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kakching,,Kakching,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bishnupur,,Bishnupur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chandel,,Chandel,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Churachandpur,,Churachandpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jiribam,,Jiribam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kangpokpi,,Kangpokpi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thoubal,,Thoubal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tengnoupal,,Tengnoupal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ukhrul,,Ukhrul,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Noney,,Noney,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pherzawl,,Pherzawl,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ri Bhoi,,Ri Bhoi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Khasi Hills,,West Khasi Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East East Jaintia Hills,,East East Jaintia Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Khasi Hills,,East Khasi Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Garo Hills,,South Garo Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Garo Hills,,West Garo Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Garo Hills,,East Garo Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West East Jaintia Hills,,West East Jaintia Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South West Khasi Hills,,South West Khasi Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North Garo Hills,,North Garo Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South West Garo Hills,,South West Garo Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thiruvallur,,Thiruvallur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Krishnagiri,,Krishnagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tiruvannamalai,,Tiruvannamalai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dharmapuri,,Dharmapuri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Namakkal,,Namakkal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Perambalur,,Perambalur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ariyalur,,Ariyalur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tiruppur,,Tiruppur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karur,,Karur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thiruvarur,,Thiruvarur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dindigul,,Dindigul,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Theni,,Theni,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Virudhunagar,,Virudhunagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Thoothukkudi,,Thoothukkudi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanniyakumariumari,,Kanniyakumariumari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sivaganga,,Sivaganga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagapattinam,,Nagapattinam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kallakurichi,,Kallakurichi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tenkasi,,Tenkasi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ranipet,,Ranipet,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tirupathur,,Tirupathur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kancheepuram,,Kancheepuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanpur nagar,,Kanpur nagar,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Pondicherry,,Pondicherry,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Leh ladakh,,Leh ladakh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Surguja,,Surguja,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Marathwada,,Marathwada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Karaikal,,Karaikal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahe,,Mahe,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yanam,,Yanam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sivasagar amd Sonitpur,,Sivasagar amd Sonitpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Singhbhum,,West Singhbhum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,29 districts affected,,29 districts affected,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Assam,,South Assam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Kashmir,,South Kashmir,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kashmir,,Kashmir,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rajnandgaon,,Rajnandgaon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,howrah,,howrah,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Purba Medinipur,,Purba Medinipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Itanagar,,Itanagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mancachar,,Mancachar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kolasib,,Kolasib,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Aizawl,,Aizawl,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mamit,,Mamit,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Champhai,,Champhai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Serchhip,,Serchhip,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lunglei,,Lunglei,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Siaha,,Siaha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lawngtlai,,Lawngtlai,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,3 out of 8 districts,,3 out of 8 districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bijapur Surendranagar,,Bijapur Surendranagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mon,,Mon,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Longleng,,Longleng,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mokokchung,,Mokokchung,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Tuensang,,Tuensang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kiphire,,Kiphire,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Peren,,Peren,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Wokha,,Wokha,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Zunheboto,,Zunheboto,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Phek,,Phek,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dimapur,,Dimapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Haridwar,,Haridwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Purbi West Singhbhum,,Purbi West Singhbhum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pashchimi West Singhbhum,,Pashchimi West Singhbhum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sri Muktsar Sahib,,Sri Muktsar Sahib,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jaloree,,Jaloree,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,neighbourhood,,neighbourhood,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Paschim Medinipur,,Paschim Medinipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kashmir Valley,,Kashmir Valley,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Purba Bardhaman,,Purba Bardhaman,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Ananthapuramu,,Ananthapuramu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bageshwar,,Bageshwar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Champawat,,Champawat,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udam Singh Nagar,,Udam Singh Nagar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many parts of the State,,Many parts of the State,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Uttar Kashi Pradesh,,East Uttar Kashi Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashi,,Uttar Kashi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East Jaintia Hills,,East Jaintia Hills,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rudra Prayag,,Rudra Prayag,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Northern parts,,Northern parts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many parts,,Many parts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhamtari,,Dhamtari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jagdalpur,,Jagdalpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashi Bastar Kanker,,Uttar Kashi Bastar Kanker,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jashpur,,Jashpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Uttar Kashia,,Uttar Kashia,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Some parts,,Some parts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,14 districts,,14 districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,11 districts,,11 districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Most parts,,Most parts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,6 districts,,6 districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkotee Belagavi,,Bagalkotee Belagavi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa Hassan,,Chamarajanagaraa Hassan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Southern parts,,Southern parts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ernakulam ant Thiruvananthapuram,,Ernakulam ant Thiruvananthapuram,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palampur,,Palampur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,adjoining areas,,adjoining areas,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Giridih,,Giridih,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chatra,,Chatra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Garhwa,,Garhwa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dhanbad,,Dhanbad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Latehar,,Latehar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bokaro,,Bokaro,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lohardaga,,Lohardaga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gumla,,Gumla,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Khunti,,Khunti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Saraikela Kharsawan,,Saraikela Kharsawan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Simdega,,Simdega,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Koderma,,Koderma,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hazaribagh,,Hazaribagh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Malikkeri,,Malikkeri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chhatisgarh,,Chhatisgarh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,West Madhya Pradesh,,West Madhya Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Jawad,,Jawad,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,21 districts of Assam,,21 districts of Assam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkote,,Bagalkote,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many districts of South Bengal,,Many districts of South Bengal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Most of the districts,,Most of the districts,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Lower Subansiri,,Lower Subansiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa Davangere,,Chamarajanagaraa Davangere,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chikodi,,Chikodi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ernakulam Kannur,,Ernakulam Kannur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhandara Chandrapur,,Bhandara Chandrapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many districts of Uttar Kashi Pradesh,,Many districts of Uttar Kashi Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East & West Purba Purba Medinipur,,East & West Purba Purba Medinipur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,coastal districts of Andhra Pradesh,,coastal districts of Andhra Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Narayanpur,,Narayanpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kochi,,Kochi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kollam Kozhikode,,Kollam Kozhikode,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Orissa,,Parts of Orissa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Some districts of Punjab,,Some districts of Punjab,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanpur Nagar,,Kanpur Nagar,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Parts of Sikkim,,Parts of Sikkim,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many districts of Tamil Nadu.,,Many districts of Tamil Nadu.,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mangalbari,,Mangalbari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kabeerdham,,Kabeerdham,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Janjgir-Champa,,Janjgir-Champa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Korba,,Korba,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mahasamund,,Mahasamund,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Jammu,,Parts of Jammu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Heavy rains Hazaribagh,,Heavy rains Hazaribagh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Karnataka,,Parts of Karnataka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,BagalkoteeBijapur,,BagalkoteeBijapur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,19 districts of Orissa,,19 districts of Orissa,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Districts of Cauvery delta zone,,Districts of Cauvery delta zone,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Districts of Cauvery delta,,Districts of Cauvery delta,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Uttar Kashiakhand,,Parts of Uttar Kashiakhand,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North And Middle Andaman,,North And Middle Andaman,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East & West Godavari,,East & West Godavari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Palnadu,,Palnadu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Ntr,,Ntr,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Most Upper Lower Subansiri,,Most Upper Lower Subansiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Pak,,Pak,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,14 districts of Assam,,14 districts of Assam,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,neighborhood,,neighborhood,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Different parts of Jammu,,Different parts of Jammu,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Many parts of Tamil Nadu.,,Many parts of Tamil Nadu.,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Lahul & Spitti,,Parts of Lahul & Spitti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Andamans,,South Andamans,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Mungeli,,Mungeli,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Jharkhand,,Parts of Jharkhand,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa Gadag,,Chamarajanagaraa Gadag,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Urban,,Urban,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Rural,,Rural,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Meghalaya,,Parts of Meghalaya,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nabarangpur,,Nabarangpur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,26 districts of Rajasthan,,26 districts of Rajasthan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Rajasthan,,Parts of Rajasthan,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanniyakumari,,Kanniyakumari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Darjeelingm,,Darjeelingm,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Udaiur,,Udaiur,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Devbhumi Dwarka,,Devbhumi Dwarka,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,East West Singhbhum,,East West Singhbhum,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Maharashtra,,Parts of Maharashtra,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Gadchiroli Yavotmal,,Gadchiroli Yavotmal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yadadri Yadadri Bhuvanagiri,,Yadadri Yadadri Bhuvanagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,North westdusar,,North westdusar,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bemetara,,Bemetara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Dakshin Bastar Dantewada,,Dakshin Bastar Dantewada,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkotee Ballari,,Bagalkotee Ballari,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkotee Bengaluru Urban,,Bagalkotee Bengaluru Urban,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Nagarkoil,,Nagarkoil,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,SShrawasti & Parts of East U.P.,,SShrawasti & Parts of East U.P.,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Himachal Pradesh,,Parts of Himachal Pradesh,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Parts of Telangana,,Parts of Telangana,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Uttar Pradesh,,Parts of Uttar Pradesh,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Shrawasti,,Shrawasti,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Central Part of Uttar Kashi Pradesh,,Central Part of Uttar Kashi Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,South Salmara Mancachar - Mankachar,,South Salmara Mancachar - Mankachar,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa  Kalaburagi,,Chamarajanagaraa Kalaburagi,format-only: trimmed or collapsed whitespace,HIGH
+India_Flood_Inventory_v3.csv,,Bagalkotee Udupi,,Bagalkotee Udupi,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kanpur nagar-Dehat,,Kanpur nagar-Dehat,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,South Salmara Mancachar- Mankachar,,South Salmara Mancachar- Mankachar,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Balodabazar-Bhatapara,,Balodabazar-Bhatapara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa Chikkaballapura,,Chamarajanagaraa Chikkaballapura,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Chamarajanagaraa Chitradurga,,Chamarajanagaraa Chitradurga,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Nagaland,,Parts of Nagaland,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Hyderabad & Parts of Telangana,,Hyderabad & Parts of Telangana,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of West Bengal,,Parts of West Bengal,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Parts of Andhra Pradesh,,Parts of Andhra Pradesh,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Kokrajhar Darrang,,Kokrajhar Darrang,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Davangere����,,Davangere����,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Bhadradri Bhadradri Kothagudem,,Bhadradri Bhadradri Kothagudem,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,several other district (Andhra Pradesh),,several other district (Andhra Pradesh),unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Sukma,,Sukma,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Balod,,Balod,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,The Dangs,,The Dangs,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,& Parts of Himachal Pradesh,,& Parts of Himachal Pradesh,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,,Chamarajanagara,,Chamarajanagara,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,& various parts of Nagaland,,& various parts of Nagaland,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Bhadradri Kothagudem,,Bhadradri Kothagudem,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Yadadri Bhuvanagiri,,Yadadri Bhuvanagiri,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,Korea,,Korea,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,,& Parts of Uttar Pradesh,,& Parts of Uttar Pradesh,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,Assam,,Assam,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Maharashtra,,Maharashtra,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Gujarat,,Gujarat,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Uttar Pradesh,,Uttar Pradesh,,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,Odisha,,Odisha,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Bihar,,Bihar,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Madhya Pradesh,,Madhya Pradesh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Rajasthan,,Rajasthan,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Haryana,,Haryana,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,West Bengal,,West Bengal,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Kerala,,Kerala,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Sikkim,,Sikkim,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Andhra Pradesh,,Andhra Pradesh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Karnataka,,Karnataka,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Himachal Pradesh,,Himachal Pradesh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Jammu and Kashmir,,Jammu and Kashmir,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Delhi,,Delhi,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Punjab,,Punjab,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Telangana,,Telangana,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Madras,,Madras,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Tamil Nadu,,Tamil Nadu,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Uttarakhand,,Uttarakhand,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Uttar pradesh,,Uttar pradesh,,REQUIRES_VERIFICATION: spelling/case/punctuation variant retained,REQUIRES_VERIFICATION
+India_Flood_Inventory_v3.csv,Parts of Maharashtra,,Parts of Maharashtra,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,East Rajasthan,,East Rajasthan,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Arunachal Pradesh,,Arunachal Pradesh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Manipur,,Manipur,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Tripura,,Tripura,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Dadra and Nagar Haveli,,Dadra and Nagar Haveli,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Chandigarh,,Chandigarh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Chhattisgarh,,Chhattisgarh,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Goa,,Goa,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Nagaland,,Nagaland,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Daman and Diu,,Daman and Diu,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Jharkhand,,Jharkhand,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Meghalaya,,Meghalaya,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Daman,,Daman,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Diu,,Diu,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Puducherry,,Puducherry,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Mizoram,,Mizoram,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Daman & Diu,,Daman & Diu,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Andaman & Nicobar Islands,,Andaman & Nicobar Islands,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Jammu & Kashmir,,Jammu & Kashmir,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,New Delhi,,New Delhi,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Dadar&Nagar Haveli,,Dadar&Nagar Haveli,,unchanged source name,HIGH
+India_Flood_Inventory_v3.csv,Ladakh,,Ladakh,,unchanged source name,HIGH

@@ -1,0 +1,33 @@
+dataset,column,missing_count,missing_percent,dtype,possible_reason,proposed_handling
+District_FloodImpact.csv,dist_name,0,0.0,str,No missing values observed,No handling required
+District_FloodImpact.csv,human_fatality,0,0.0,int64,No missing values observed,No handling required
+District_FloodImpact.csv,human_injured,0,0.0,int64,No missing values observed,No handling required
+District_FloodImpact.csv,population,0,0.0,int64,No missing values observed,No handling required
+District_FloodImpact.csv,mean_flood_duration,11,1.5027,float64,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+District_FloodedArea.csv,dist_name,0,0.0,str,No missing values observed,No handling required
+District_FloodedArea.csv,percent_flooded_area,0,0.0,float64,No missing values observed,No handling required
+District_FloodedArea.csv,parmanent_water,0,0.0,float64,No missing values observed,No handling required
+District_FloodedArea.csv,corrected_percent_flooded_area,0,0.0,float64,No missing values observed,No handling required
+India_Flood_Inventory_v3.csv,unnamed_0,0,0.0,int64,No missing values observed,No handling required
+India_Flood_Inventory_v3.csv,uei,0,0.0,string,No missing values observed,No handling required
+India_Flood_Inventory_v3.csv,start_date,20,0.2909,datetime64[us],Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,end_date,20,0.2909,datetime64[us],Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,duration_days,19,0.2763,float64,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,main_cause,31,0.4508,string,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,location,6876,100.0,float64,Column is entirely unpopulated in the source,Retain for provenance; exclude from later use unless source meaning is resolved
+India_Flood_Inventory_v3.csv,districts,59,0.8581,str,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,state,0,0.0,str,No missing values observed,No handling required
+India_Flood_Inventory_v3.csv,latitude,6876,100.0,float64,Column is entirely unpopulated in the source,Retain for provenance; exclude from later use unless source meaning is resolved
+India_Flood_Inventory_v3.csv,longitude,6876,100.0,float64,Column is entirely unpopulated in the source,Retain for provenance; exclude from later use unless source meaning is resolved
+India_Flood_Inventory_v3.csv,severity,6876,100.0,float64,Column is entirely unpopulated in the source,Retain for provenance; exclude from later use unless source meaning is resolved
+India_Flood_Inventory_v3.csv,area_affected,6876,100.0,float64,Column is entirely unpopulated in the source,Retain for provenance; exclude from later use unless source meaning is resolved
+India_Flood_Inventory_v3.csv,human_fatality,3106,45.1716,float64,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,human_injured,5818,84.6131,float64,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,human_displaced,6754,98.2257,string,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,animal_fatality,6305,91.6958,string,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,description_of_casualties_injured,3609,52.4869,string,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,extent_of_damage,3121,45.3898,string,Source value is absent; reason requires verification,Preserve missingness; no imputation in Phase 3
+India_Flood_Inventory_v3.csv,event_source,0,0.0,string,No missing values observed,No handling required
+India_Flood_Inventory_v3.csv,event_souce_id,6876,100.0,float64,Source identifier is absent; reason requires verification,Preserve missingness; do not fabricate
+India_Flood_Inventory_v3.csv,district_lgd_codes,304,4.4212,string,Source identifier is absent; reason requires verification,Preserve missingness; do not fabricate
+India_Flood_Inventory_v3.csv,state_codes,258,3.7522,string,Source identifier is absent; reason requires verification,Preserve missingness; do not fabricate

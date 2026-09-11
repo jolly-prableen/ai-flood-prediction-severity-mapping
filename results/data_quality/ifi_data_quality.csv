@@ -1,0 +1,33 @@
+dataset,column,dtype,missing_count,missing_percentage,unique_count,possible_use,possible_leakage_risk,minimum,maximum
+India_Flood_Inventory_v3.csv,Unnamed: 0,int64,0,0.0,6876,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,563,7438
+India_Flood_Inventory_v3.csv,UEI,str,0,0.0,6876,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+India_Flood_Inventory_v3.csv,Start Date,str,20,0.2909,3685,Temporal feature,Medium: use only information available at the stated forecast horizon; avoid future dates.,,
+India_Flood_Inventory_v3.csv,End Date,str,20,0.2909,3693,Temporal feature,Medium: use only information available at the stated forecast horizon; avoid future dates.,,
+India_Flood_Inventory_v3.csv,Duration(Days),float64,19,0.2763,62,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,1.0,365.0
+India_Flood_Inventory_v3.csv,Main Cause,str,31,0.4508,580,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+India_Flood_Inventory_v3.csv,Location,float64,6876,100.0,1,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,Districts,str,59,0.8581,2893,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,State,str,0,0.0,82,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,Latitude,float64,6876,100.0,1,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,Longitude,float64,6876,100.0,1,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,Severity,float64,6876,100.0,1,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Area Affected,float64,6876,100.0,1,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Human fatality,float64,3106,45.1716,184,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,1.0,5000.0
+India_Flood_Inventory_v3.csv,Human injured,float64,5818,84.6131,63,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,1.0,2000.0
+India_Flood_Inventory_v3.csv,Human Displaced,str,6754,98.2257,24,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Animal Fatality,str,6305,91.6958,248,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Description of Casualties/injured,str,3609,52.4869,2488,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Extent of damage ,str,3121,45.3898,3613,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,,
+India_Flood_Inventory_v3.csv,Event Source,str,0,0.0,1,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+India_Flood_Inventory_v3.csv,Event Souce ID,float64,6876,100.0,1,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+India_Flood_Inventory_v3.csv,District_LGD_Codes,str,304,4.4212,2483,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+India_Flood_Inventory_v3.csv,State_Codes,str,258,3.7522,66,Geographic key or location feature,Medium: may encode location or enable joins; validate availability at prediction time.,,
+District_FloodImpact.csv,Dist_Name,str,0,0.0,726,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+District_FloodImpact.csv,Human_fatality,int64,0,0.0,234,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,0,1726
+District_FloodImpact.csv,Human_injured,int64,0,0.0,85,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,0,671
+District_FloodImpact.csv,Population,int64,0,0.0,732,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,7110,13403998
+District_FloodImpact.csv,Mean_Flood_Duration,float64,11,1.5027,36,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,1.0,35.0
+District_FloodedArea.csv,Dist_Name,str,0,0.0,726,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,,
+District_FloodedArea.csv,Percent_Flooded_Area,float64,0,0.0,730,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,0.001739235,32.6562
+District_FloodedArea.csv,Parmanent_Water,float64,0,0.0,673,Numerical feature,Low by name; confirm measurement timing and provenance before modeling.,0.0,29.67097127
+District_FloodedArea.csv,Corrected_Percent_Flooded_Area,float64,0,0.0,730,Candidate target or post-event impact feature,High: likely observed after or during the flood; exclude from forecasting unless the timing is explicitly justified.,7.34e-05,23.62192797

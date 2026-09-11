@@ -1,6 +1,25 @@
-﻿__pycache__/
-*.pyc
-.env
-venv/
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
 .venv/
-.streamlit/secrets.toml
+venv/
+env/
+
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log

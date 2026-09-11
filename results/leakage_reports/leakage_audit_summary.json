@@ -1,0 +1,17 @@
+{
+  "columns_audited": 32,
+  "classification_counts": {
+    "SAFE": 0,
+    "CAUTION": 13,
+    "LEAKAGE": 16,
+    "UNKNOWN / REQUIRES VERIFICATION": 3
+  },
+  "cleaned_files_read": [
+    "ifi_event_clean.csv",
+    "district_flood_impact_clean.csv",
+    "district_flooded_area_clean.csv"
+  ],
+  "targets_created": false,
+  "splits_created": false,
+  "merge_performed": false
+}

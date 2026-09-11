@@ -1,0 +1,10 @@
+variable,meaning,occurrence_or_impact,availability,feature_leakage,target_use,notes
+start_date,Recorded flood event start date,occurrence,event/target time,LEAKAGE,Possible event reference/label boundary; not a feature,"A Flood_Binary target also requires non-event records, which are not present here."
+end_date,Recorded flood event end date,occurrence/temporal extent,after event,LEAKAGE,Possible duration/reference construction after definition,Not available for pre-event forecasting.
+duration_days,Recorded event duration in days,impact/temporal extent,after event,LEAKAGE,Possible Severity_Class or impact target component,Target semantics and timing require verification.
+severity,Source field named severity,impact/severity,unknown; entirely missing,LEAKAGE if populated,Possible direct target source only after source verification,No usable values are currently present.
+area_affected,Source field named area affected,impact,during/after event; currently missing,LEAKAGE if populated,Possible impact/severity target component,Units and definition require verification.
+human_fatality,Human fatality count or district aggregate,impact,during/after event,LEAKAGE,Possible impact target component,Event and district tables must not be combined without temporal provenance.
+human_injured,Human injury count or district aggregate,impact,during/after event,LEAKAGE,Possible impact target component,Aggregation and time period require verification.
+percent_flooded_area / corrected_percent_flooded_area,District flooded-area measurements,impact/severity,during/after event or unknown reference period,LEAKAGE,Possible Severity_Class or Severity_Score component,No target is created in Phase 4.
+mean_flood_duration,District mean flood duration,impact,unknown reference period; likely after event,LEAKAGE,Possible aggregate impact target component,Source period is not documented.

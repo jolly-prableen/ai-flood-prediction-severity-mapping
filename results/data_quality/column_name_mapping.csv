@@ -1,0 +1,33 @@
+source_file,original_column_name,cleaned_column_name
+District_FloodImpact.csv,Dist_Name,dist_name
+District_FloodImpact.csv,Human_fatality,human_fatality
+District_FloodImpact.csv,Human_injured,human_injured
+District_FloodImpact.csv,Population,population
+District_FloodImpact.csv,Mean_Flood_Duration,mean_flood_duration
+District_FloodedArea.csv,Dist_Name,dist_name
+District_FloodedArea.csv,Percent_Flooded_Area,percent_flooded_area
+District_FloodedArea.csv,Parmanent_Water,parmanent_water
+District_FloodedArea.csv,Corrected_Percent_Flooded_Area,corrected_percent_flooded_area
+India_Flood_Inventory_v3.csv,Unnamed: 0,unnamed_0
+India_Flood_Inventory_v3.csv,UEI,uei
+India_Flood_Inventory_v3.csv,Start Date,start_date
+India_Flood_Inventory_v3.csv,End Date,end_date
+India_Flood_Inventory_v3.csv,Duration(Days),duration_days
+India_Flood_Inventory_v3.csv,Main Cause,main_cause
+India_Flood_Inventory_v3.csv,Location,location
+India_Flood_Inventory_v3.csv,Districts,districts
+India_Flood_Inventory_v3.csv,State,state
+India_Flood_Inventory_v3.csv,Latitude,latitude
+India_Flood_Inventory_v3.csv,Longitude,longitude
+India_Flood_Inventory_v3.csv,Severity,severity
+India_Flood_Inventory_v3.csv,Area Affected,area_affected
+India_Flood_Inventory_v3.csv,Human fatality,human_fatality
+India_Flood_Inventory_v3.csv,Human injured,human_injured
+India_Flood_Inventory_v3.csv,Human Displaced,human_displaced
+India_Flood_Inventory_v3.csv,Animal Fatality,animal_fatality
+India_Flood_Inventory_v3.csv,Description of Casualties/injured,description_of_casualties_injured
+India_Flood_Inventory_v3.csv,Extent of damage ,extent_of_damage
+India_Flood_Inventory_v3.csv,Event Source,event_source
+India_Flood_Inventory_v3.csv,Event Souce ID,event_souce_id
+India_Flood_Inventory_v3.csv,District_LGD_Codes,district_lgd_codes
+India_Flood_Inventory_v3.csv,State_Codes,state_codes

@@ -1,0 +1,977 @@
+boundary_state,boundary_district,ifi_district_candidates,match_status,reason
+Andhra Pradesh,Adilabad,Adilabad,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Agra,Agra,EXACT_MATCH,Exact district-name token match
+Gujarat,Ahmadabad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Maharashtra,Ahmadnagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Mizoram,Aizawl,Aizawl,EXACT_MATCH,Exact district-name token match
+Rajasthan,Ajmer,Ajmer,EXACT_MATCH,Exact district-name token match
+Maharashtra,Akola,Akola,EXACT_MATCH,Exact district-name token match
+Kerala,Alappuzha,Alappuzha,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Aligarh,Aligarh,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Alirajpur,Alirajpur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Allahabad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttarakhand,Almora,Almora,EXACT_MATCH,Exact district-name token match
+Rajasthan,Alwar,Alwar,EXACT_MATCH,Exact district-name token match
+Haryana,Ambala,Ambala,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Ambedkar Nagar,Ambedkar Nagar,EXACT_MATCH,Exact district-name token match
+Maharashtra,Amravati,Amravati,EXACT_MATCH,Exact district-name token match
+Gujarat,Amreli,Amreli,EXACT_MATCH,Exact district-name token match
+Punjab,Amritsar,Amritsar,EXACT_MATCH,Exact district-name token match
+Gujarat,Anand,Anand,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Anantapur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jammu & Kashmir,Anantnag,Anantnag,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Anjaw,Anjaw,EXACT_MATCH,Exact district-name token match
+Odisha,Anugul,Anugul,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Anuppur,Anuppur,EXACT_MATCH,Exact district-name token match
+Bihar,Araria,Araria,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Ariyalur,Ariyalur,EXACT_MATCH,Exact district-name token match
+Bihar,Arwal,Arwal,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Ashoknagar,Ashoknagar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Auraiya,Auraiya,EXACT_MATCH,Exact district-name token match
+Bihar,Aurangabad,Aurangabad,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Azamgarh,Azamgarh,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Badgam,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Bagalkot,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttarakhand,Bageshwar,Bageshwar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Baghpat,Baghpat,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Bahraich,Bahraich,EXACT_MATCH,Exact district-name token match
+Assam,Baksa,Baksa,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Balaghat,Balaghat,EXACT_MATCH,Exact district-name token match
+Odisha,Balangir,Balangir,EXACT_MATCH,Exact district-name token match
+Odisha,Baleshwar,Baleshwar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Ballia,Ballia,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Balrampur,Balrampur,EXACT_MATCH,Exact district-name token match
+Gujarat,Banas Kantha,Banas Kantha,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Banda,Banda,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Bandipore,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Bangalore,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Bangalore Rural,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Bihar,Banka,Banka,EXACT_MATCH,Exact district-name token match
+West Bengal,Bankura,Bankura,EXACT_MATCH,Exact district-name token match
+Rajasthan,Banswara,Banswara,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Bara Banki,Bara Banki,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Baramula,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Baran,Baran,EXACT_MATCH,Exact district-name token match
+West Bengal,Barddhaman,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Bareilly,Bareilly,EXACT_MATCH,Exact district-name token match
+Odisha,Bargarh,Bargarh,EXACT_MATCH,Exact district-name token match
+Rajasthan,Barmer,Barmer,EXACT_MATCH,Exact district-name token match
+Punjab,Barnala,Barnala,EXACT_MATCH,Exact district-name token match
+Assam,Barpeta,Barpeta,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Barwani,Barwani,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Bastar,Bastar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Basti,Basti,EXACT_MATCH,Exact district-name token match
+Punjab,Bathinda,Bathinda,EXACT_MATCH,Exact district-name token match
+Odisha,Bauda,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Bihar,Begusarai,Begusarai,EXACT_MATCH,Exact district-name token match
+Karnataka,Belgaum,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Bellary,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Betul,Betul,EXACT_MATCH,Exact district-name token match
+Odisha,Bhadrak,Bhadrak,EXACT_MATCH,Exact district-name token match
+Bihar,Bhagalpur,Bhagalpur,EXACT_MATCH,Exact district-name token match
+Maharashtra,Bhandara,Bhandara,EXACT_MATCH,Exact district-name token match
+Rajasthan,Bharatpur,Bharatpur,EXACT_MATCH,Exact district-name token match
+Gujarat,Bharuch,Bharuch,EXACT_MATCH,Exact district-name token match
+Gujarat,Bhavnagar,Bhavnagar,EXACT_MATCH,Exact district-name token match
+Rajasthan,Bhilwara,Bhilwara,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Bhind,Bhind,EXACT_MATCH,Exact district-name token match
+Haryana,Bhiwani,Bhiwani,EXACT_MATCH,Exact district-name token match
+Bihar,Bhojpur,Bhojpur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Bhopal,Bhopal,EXACT_MATCH,Exact district-name token match
+Maharashtra,Bid,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Bidar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Chhattisgarh,Bijapur,Bijapur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Bijnor,Bijnor,EXACT_MATCH,Exact district-name token match
+Rajasthan,Bikaner,Bikaner,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Bilaspur,Bilaspur,EXACT_MATCH,Exact district-name token match
+West Bengal,Birbhum,Birbhum,EXACT_MATCH,Exact district-name token match
+Manipur,Bishnupur,Bishnupur,EXACT_MATCH,Exact district-name token match
+Jharkhand,Bokaro,Bokaro,EXACT_MATCH,Exact district-name token match
+Assam,Bongaigaon,Bongaigaon,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Budaun,Budaun,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Bulandshahr,Bulandshahr,EXACT_MATCH,Exact district-name token match
+Maharashtra,Buldana,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Bundi,Bundi,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Burhanpur,Burhanpur,EXACT_MATCH,Exact district-name token match
+Bihar,Buxar,Buxar,EXACT_MATCH,Exact district-name token match
+Assam,Cachar,Cachar,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,Central,Central,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Chamba,Chamba,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Chamoli,Chamoli,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Champawat,Champawat,EXACT_MATCH,Exact district-name token match
+Mizoram,Champhai,Champhai,EXACT_MATCH,Exact district-name token match
+Karnataka,Chamrajnagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Chandauli,Chandauli,EXACT_MATCH,Exact district-name token match
+Manipur,Chandel,Chandel,EXACT_MATCH,Exact district-name token match
+Chandigarh,Chandigarh,Chandigarh,EXACT_MATCH,Exact district-name token match
+Maharashtra,Chandrapur,Chandrapur,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Changlang,Changlang,EXACT_MATCH,Exact district-name token match
+Jharkhand,Chatra,Chatra,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Chennai,Chennai,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Chhatarpur,Chhatarpur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Chhindwara,Chhindwara,EXACT_MATCH,Exact district-name token match
+Karnataka,Chikkaballapura,Chikkaballapura,EXACT_MATCH,Exact district-name token match
+Karnataka,Chikmagalur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Assam,Chirang,Chirang,EXACT_MATCH,Exact district-name token match
+Karnataka,Chitradurga,Chitradurga,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Chitrakoot,Chitrakoot,EXACT_MATCH,Exact district-name token match
+Rajasthan,Chittaurgarh,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Andhra Pradesh,Chittoor,Chittoor,EXACT_MATCH,Exact district-name token match
+Manipur,Churachandpur,Churachandpur,EXACT_MATCH,Exact district-name token match
+Rajasthan,Churu,Churu,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Coimbatore,Coimbatore,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Cuddalore,Cuddalore,EXACT_MATCH,Exact district-name token match
+Odisha,Cuttack,Cuttack,EXACT_MATCH,Exact district-name token match
+Dadara & Nagar Havelli,Dadra & Nagar Haveli,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Chhattisgarh,Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,EXACT_MATCH,Exact district-name token match
+West Bengal,Dakshin Dinajpur,Dakshin Dinajpur,EXACT_MATCH,Exact district-name token match
+Karnataka,Dakshina Kannada,Dakshina Kannada,EXACT_MATCH,Exact district-name token match
+Daman & Diu,Daman,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Damoh,Damoh,EXACT_MATCH,Exact district-name token match
+Bihar,Darbhanga,Darbhanga,EXACT_MATCH,Exact district-name token match
+West Bengal,Darjiling,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Assam,Darrang,Darrang,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Data Not Available,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Datia,Datia,EXACT_MATCH,Exact district-name token match
+Rajasthan,Dausa,Dausa,EXACT_MATCH,Exact district-name token match
+Karnataka,Davanagere,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Odisha,Debagarh,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttarakhand,Dehradun,Dehradun,EXACT_MATCH,Exact district-name token match
+Jharkhand,Deoghar,Deoghar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Deoria,Deoria,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Dewas,Dewas,EXACT_MATCH,Exact district-name token match
+Tripura,Dhalai,Dhalai,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Dhamtari,Dhamtari,EXACT_MATCH,Exact district-name token match
+Jharkhand,Dhanbad,Dhanbad,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Dhar,Dhar,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Dharmapuri,Dharmapuri,EXACT_MATCH,Exact district-name token match
+Karnataka,Dharwad,Dharwad,EXACT_MATCH,Exact district-name token match
+Rajasthan,Dhaulpur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Assam,Dhemaji,Dhemaji,EXACT_MATCH,Exact district-name token match
+Odisha,Dhenkanal,Dhenkanal,EXACT_MATCH,Exact district-name token match
+Assam,Dhubri,Dhubri,EXACT_MATCH,Exact district-name token match
+Maharashtra,Dhule,Dhule,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Dibang Valley,Dibang Valley,EXACT_MATCH,Exact district-name token match
+Assam,Dibrugarh,Dibrugarh,EXACT_MATCH,Exact district-name token match
+Assam,Dima Hasao,Dima Hasao,EXACT_MATCH,Exact district-name token match
+Nagaland,Dimapur,Dimapur,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Dindigul,Dindigul,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Dindori,Dindori,EXACT_MATCH,Exact district-name token match
+Daman & Diu,Diu,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jammu & Kashmir,Doda,Doda,EXACT_MATCH,Exact district-name token match
+Gujarat,Dohad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Dumka,Dumka,EXACT_MATCH,Exact district-name token match
+Rajasthan,Dungarpur,Dungarpur,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Durg,Durg,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,East,East,EXACT_MATCH,Exact district-name token match
+Meghalaya,East Garo Hills,East Garo Hills,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,East Godavari,East Godavari,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,East Kameng,East Kameng,EXACT_MATCH,Exact district-name token match
+Meghalaya,East Khasi Hills,East Khasi Hills,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,East Nimar,East Nimar,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,East Siang,East Siang,EXACT_MATCH,Exact district-name token match
+Kerala,Ernakulam,Ernakulam,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Erode,Erode,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Etah,Etah,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Etawah,Etawah,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Faizabad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Haryana,Faridabad,Faridabad,EXACT_MATCH,Exact district-name token match
+Punjab,Faridkot,Faridkot,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Farrukhabad,Farrukhabad,EXACT_MATCH,Exact district-name token match
+Haryana,Fatehabad,Fatehabad,EXACT_MATCH,Exact district-name token match
+Punjab,Fatehgarh Sahib,Fatehgarh Sahib,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Fatehpur,Fatehpur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Firozabad,Firozabad,EXACT_MATCH,Exact district-name token match
+Punjab,Firozpur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Gadag,Gadag,EXACT_MATCH,Exact district-name token match
+Odisha,Gajapati,Gajapati,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Ganderbal,Ganderbal,EXACT_MATCH,Exact district-name token match
+Gujarat,Gandhinagar,Gandhinagar,EXACT_MATCH,Exact district-name token match
+Rajasthan,Ganganagar,Ganganagar,EXACT_MATCH,Exact district-name token match
+Odisha,Ganjam,Ganjam,EXACT_MATCH,Exact district-name token match
+Maharashtra,Garhchiroli,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Garhwa,Garhwa,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Garhwal,Garhwal,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Gautam Buddha Nagar,Gautam Buddha Nagar,EXACT_MATCH,Exact district-name token match
+Bihar,Gaya,Gaya,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Ghaziabad,Ghaziabad,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Ghazipur,Ghazipur,EXACT_MATCH,Exact district-name token match
+Jharkhand,Giridih,Giridih,EXACT_MATCH,Exact district-name token match
+Assam,Goalpara,Goalpara,EXACT_MATCH,Exact district-name token match
+Jharkhand,Godda,Godda,EXACT_MATCH,Exact district-name token match
+Assam,Golaghat,Golaghat,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Gonda,Gonda,EXACT_MATCH,Exact district-name token match
+Maharashtra,Gondiya,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Bihar,Gopalganj,Gopalganj,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Gorakhpur,Gorakhpur,EXACT_MATCH,Exact district-name token match
+Karnataka,Gulbarga,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Gumla,Gumla,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Guna,Guna,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Guntur,Guntur,EXACT_MATCH,Exact district-name token match
+Punjab,Gurdaspur,Gurdaspur,EXACT_MATCH,Exact district-name token match
+Haryana,Gurgaon,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Gwalior,Gwalior,EXACT_MATCH,Exact district-name token match
+Assam,Hailakandi,Hailakandi,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Hamirpur,Hamirpur,EXACT_MATCH,Exact district-name token match
+Rajasthan,Hanumangarh,Hanumangarh,EXACT_MATCH,Exact district-name token match
+West Bengal,Haora,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Harda,Harda,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Hardoi,Hardoi,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Hardwar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Hassan,Hassan,EXACT_MATCH,Exact district-name token match
+Karnataka,Haveri,Haveri,EXACT_MATCH,Exact district-name token match
+Jharkhand,Hazaribagh,Hazaribagh,EXACT_MATCH,Exact district-name token match
+Maharashtra,Hingoli,Hingoli,EXACT_MATCH,Exact district-name token match
+Haryana,Hisar,Hisar,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Hoshangabad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Punjab,Hoshiarpur,Hoshiarpur,EXACT_MATCH,Exact district-name token match
+West Bengal,Hugli,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Andhra Pradesh,Hyderabad,Hyderabad,EXACT_MATCH,Exact district-name token match
+Kerala,Idukki,Idukki,EXACT_MATCH,Exact district-name token match
+Manipur,Imphal East,Imphal East,EXACT_MATCH,Exact district-name token match
+Manipur,Imphal West,Imphal West,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Indore,Indore,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Jabalpur,Jabalpur,EXACT_MATCH,Exact district-name token match
+Odisha,Jagatsinghapur,Jagatsinghapur,EXACT_MATCH,Exact district-name token match
+Meghalaya,Jaintia Hills,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Jaipur,Jaipur,EXACT_MATCH,Exact district-name token match
+Rajasthan,Jaisalmer,Jaisalmer,EXACT_MATCH,Exact district-name token match
+Odisha,Jajapur,Jajapur,EXACT_MATCH,Exact district-name token match
+Punjab,Jalandhar,Jalandhar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Jalaun,Jalaun,EXACT_MATCH,Exact district-name token match
+Maharashtra,Jalgaon,Jalgaon,EXACT_MATCH,Exact district-name token match
+Maharashtra,Jalna,Jalna,EXACT_MATCH,Exact district-name token match
+Rajasthan,Jalor,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+West Bengal,Jalpaiguri,Jalpaiguri,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Jammu,Jammu,EXACT_MATCH,Exact district-name token match
+Gujarat,Jamnagar,Jamnagar,EXACT_MATCH,Exact district-name token match
+Jharkhand,Jamtara,Jamtara,EXACT_MATCH,Exact district-name token match
+Bihar,Jamui,Jamui,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Janjgir-champa,Janjgir-Champa,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Chhattisgarh,Jashpur,Jashpur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Jaunpur,Jaunpur,EXACT_MATCH,Exact district-name token match
+Bihar,Jehanabad,Jehanabad,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Jhabua,Jhabua,EXACT_MATCH,Exact district-name token match
+Haryana,Jhajjar,Jhajjar,EXACT_MATCH,Exact district-name token match
+Rajasthan,Jhalawar,Jhalawar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Jhansi,Jhansi,EXACT_MATCH,Exact district-name token match
+Odisha,Jharsuguda,Jharsuguda,EXACT_MATCH,Exact district-name token match
+Rajasthan,Jhunjhunun,Jhunjhunun,EXACT_MATCH,Exact district-name token match
+Haryana,Jind,Jind,EXACT_MATCH,Exact district-name token match
+Rajasthan,Jodhpur,Jodhpur,EXACT_MATCH,Exact district-name token match
+Assam,Jorhat,Jorhat,EXACT_MATCH,Exact district-name token match
+Gujarat,Junagadh,Junagadh,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Jyotiba Phule Nagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Chhattisgarh,Kabeerdham,Kabeerdham,EXACT_MATCH,Exact district-name token match
+Gujarat,Kachchh,Kachchh,EXACT_MATCH,Exact district-name token match
+Bihar,Kaimur (bhabua),Kaimur (Bhabua),NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Haryana,Kaithal,Kaithal,EXACT_MATCH,Exact district-name token match
+Odisha,Kalahandi,Kalahandi,EXACT_MATCH,Exact district-name token match
+Assam,Kamrup,Kamrup,EXACT_MATCH,Exact district-name token match
+Assam,Kamrup Metropolitan,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Tamil Nadu,Kancheepuram,Kancheepuram,EXACT_MATCH,Exact district-name token match
+Odisha,Kandhamal,Kandhamal,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Kangra,Kangra,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kannauj,Kannauj,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Kanniyakumari,Kanniyakumari,EXACT_MATCH,Exact district-name token match
+Kerala,Kannur,Kannur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kanpur Dehat,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Kanpur Nagar,Kanpur Nagar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kansiram Nagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Punjab,Kapurthala,Kapurthala,EXACT_MATCH,Exact district-name token match
+Puducherry,Karaikal,Karaikal,EXACT_MATCH,Exact district-name token match
+Rajasthan,Karauli,Karauli,EXACT_MATCH,Exact district-name token match
+Assam,Karbi Anglong,Karbi Anglong,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Kargil,Kargil,EXACT_MATCH,Exact district-name token match
+Assam,Karimganj,Karimganj,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Karimnagar,Karimnagar,EXACT_MATCH,Exact district-name token match
+Haryana,Karnal,Karnal,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Karur,Karur,EXACT_MATCH,Exact district-name token match
+Kerala,Kasaragod,Kasaragod,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Kathua,Kathua,EXACT_MATCH,Exact district-name token match
+Bihar,Katihar,Katihar,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Katni,Katni,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kaushambi,Kaushambi,EXACT_MATCH,Exact district-name token match
+Odisha,Kendrapara,Kendrapara,EXACT_MATCH,Exact district-name token match
+Odisha,Kendujhar,Kendujhar,EXACT_MATCH,Exact district-name token match
+Bihar,Khagaria,Khagaria,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Khammam,Khammam,EXACT_MATCH,Exact district-name token match
+Gujarat,Kheda,Kheda,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kheri,Kheri,EXACT_MATCH,Exact district-name token match
+Odisha,Khordha,Khordha,EXACT_MATCH,Exact district-name token match
+Jharkhand,Khunti,Khunti,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Kinnaur,Kinnaur,EXACT_MATCH,Exact district-name token match
+Nagaland,Kiphire,Kiphire,EXACT_MATCH,Exact district-name token match
+Bihar,Kishanganj,Kishanganj,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Kishtwar,Kishtwar,EXACT_MATCH,Exact district-name token match
+West Bengal,Koch Bihar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Kodagu,Kodagu,EXACT_MATCH,Exact district-name token match
+Jharkhand,Kodarma,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Nagaland,Kohima,Kohima,EXACT_MATCH,Exact district-name token match
+Assam,Kokrajhar,Kokrajhar,EXACT_MATCH,Exact district-name token match
+Karnataka,Kolar,Kolar,EXACT_MATCH,Exact district-name token match
+Mizoram,Kolasib,Kolasib,EXACT_MATCH,Exact district-name token match
+Maharashtra,Kolhapur,Kolhapur,EXACT_MATCH,Exact district-name token match
+West Bengal,Kolkata,Kolkata,EXACT_MATCH,Exact district-name token match
+Kerala,Kollam,Kollam,EXACT_MATCH,Exact district-name token match
+Karnataka,Koppal,Koppal,EXACT_MATCH,Exact district-name token match
+Odisha,Koraput,Koraput,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Korba,Korba,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Koriya,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Kota,Kota,EXACT_MATCH,Exact district-name token match
+Kerala,Kottayam,Kottayam,EXACT_MATCH,Exact district-name token match
+Kerala,Kozhikode,Kozhikode,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Krishna,Krishna,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Krishnagiri,Krishnagiri,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Kulgam,Kulgam,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Kullu,Kullu,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Kupwara,Kupwara,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Kurnool,Kurnool,EXACT_MATCH,Exact district-name token match
+Haryana,Kurukshetra,Kurukshetra,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Kurung Kumey,Kurung Kumey,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Kushinagar,Kushinagar,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Lahul & Spiti,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Assam,Lakhimpur,Lakhimpur,EXACT_MATCH,Exact district-name token match
+Bihar,Lakhisarai,Lakhisarai,EXACT_MATCH,Exact district-name token match
+Lakshadweep,Lakshadweep,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Lalitpur,Lalitpur,EXACT_MATCH,Exact district-name token match
+Jharkhand,Latehar,Latehar,EXACT_MATCH,Exact district-name token match
+Maharashtra,Latur,Latur,EXACT_MATCH,Exact district-name token match
+Mizoram,Lawangtlai,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jammu & Kashmir,Leh (ladakh),Leh ladakh,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Jharkhand,Lohardaga,Lohardaga,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Lohit,Lohit,EXACT_MATCH,Exact district-name token match
+Nagaland,Longleng,Longleng,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Lower Dibang Valley,Lower Dibang Valley,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Lower Subansiri,Lower Subansiri,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Lucknow,Lucknow,EXACT_MATCH,Exact district-name token match
+Punjab,Ludhiana,Ludhiana,EXACT_MATCH,Exact district-name token match
+Mizoram,Lunglei,Lunglei,EXACT_MATCH,Exact district-name token match
+Bihar,Madhepura,Madhepura,EXACT_MATCH,Exact district-name token match
+Bihar,Madhubani,Madhubani,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Madurai,Madurai,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Mahamaya Nagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Maharajganj,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Chhattisgarh,Mahasamund,Mahasamund,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Mahbubnagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Puducherry,Mahe,Mahe,EXACT_MATCH,Exact district-name token match
+Haryana,Mahendragarh,Mahendragarh,EXACT_MATCH,Exact district-name token match
+Gujarat,Mahesana,Mahesana,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Mahoba,Mahoba,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Mainpuri,Mainpuri,EXACT_MATCH,Exact district-name token match
+Kerala,Malappuram,Malappuram,EXACT_MATCH,Exact district-name token match
+West Bengal,Maldah,Maldah,EXACT_MATCH,Exact district-name token match
+Odisha,Malkangiri,Malkangiri,EXACT_MATCH,Exact district-name token match
+Mizoram,Mamit,Mamit,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Mandi,Mandi,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Mandla,Mandla,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Mandsaur,Mandsaur,EXACT_MATCH,Exact district-name token match
+Karnataka,Mandya,Mandya,EXACT_MATCH,Exact district-name token match
+Punjab,Mansa,Mansa,EXACT_MATCH,Exact district-name token match
+Assam,Marigaon,Marigaon,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Mathura,Mathura,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Mau,Mau,EXACT_MATCH,Exact district-name token match
+Odisha,Mayurbhanj,Mayurbhanj,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Medak,Medak,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Meerut,Meerut,EXACT_MATCH,Exact district-name token match
+Haryana,Mewat,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Mirzapur,Mirzapur,EXACT_MATCH,Exact district-name token match
+Punjab,Moga,Moga,EXACT_MATCH,Exact district-name token match
+Nagaland,Mokokchung,Mokokchung,EXACT_MATCH,Exact district-name token match
+Nagaland,Mon,Mon,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Moradabad,Moradabad,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Morena,Morena,EXACT_MATCH,Exact district-name token match
+Punjab,Muktsar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Maharashtra,Mumbai,Mumbai,EXACT_MATCH,Exact district-name token match
+Maharashtra,Mumbai Suburban,Mumbai Suburban,EXACT_MATCH,Exact district-name token match
+Bihar,Munger,Munger,EXACT_MATCH,Exact district-name token match
+West Bengal,Murshidabad,Murshidabad,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Muzaffarnagar,Muzaffarnagar,EXACT_MATCH,Exact district-name token match
+Bihar,Muzaffarpur,Muzaffarpur,EXACT_MATCH,Exact district-name token match
+Karnataka,Mysore,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Odisha,Nabarangapur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+West Bengal,Nadia,Nadia,EXACT_MATCH,Exact district-name token match
+Assam,Nagaon,Nagaon,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Nagappattinam,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Nagaur,Nagaur,EXACT_MATCH,Exact district-name token match
+Maharashtra,Nagpur,Nagpur,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Nainital,Nainital,EXACT_MATCH,Exact district-name token match
+Bihar,Nalanda,Nalanda,EXACT_MATCH,Exact district-name token match
+Assam,Nalbari,Nalbari,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Nalgonda,Nalgonda,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Namakkal,Namakkal,EXACT_MATCH,Exact district-name token match
+Maharashtra,Nanded,Nanded,EXACT_MATCH,Exact district-name token match
+Maharashtra,Nandurbar,Nandurbar,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Narayanpur,Narayanpur,EXACT_MATCH,Exact district-name token match
+Gujarat,Narmada,Narmada,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Narsimhapur,Narsimhapur,EXACT_MATCH,Exact district-name token match
+Maharashtra,Nashik,Nashik,EXACT_MATCH,Exact district-name token match
+Gujarat,Navsari,Navsari,EXACT_MATCH,Exact district-name token match
+Bihar,Nawada,Nawada,EXACT_MATCH,Exact district-name token match
+Odisha,Nayagarh,Nayagarh,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Neemuch,Neemuch,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,New Delhi,New Delhi,EXACT_MATCH,Exact district-name token match
+Andaman & Nicobar Island,Nicobar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Andhra Pradesh,Nizamabad,Nizamabad,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,North,North,EXACT_MATCH,Exact district-name token match
+Andaman & Nicobar Island,North & Middle Andaman,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+West Bengal,North 24 Parganas,North 24 Parganas,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,North East,North East,EXACT_MATCH,Exact district-name token match
+Goa,North Goa,North Goa,EXACT_MATCH,Exact district-name token match
+Tripura,North Tripura,North Tripura,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,North West,North West,EXACT_MATCH,Exact district-name token match
+Odisha,Nuapada,Nuapada,EXACT_MATCH,Exact district-name token match
+Maharashtra,Osmanabad,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Pakur,Pakur,EXACT_MATCH,Exact district-name token match
+Kerala,Palakkad,Palakkad,EXACT_MATCH,Exact district-name token match
+Jharkhand,Palamu,Palamu,EXACT_MATCH,Exact district-name token match
+Rajasthan,Pali,Pali,EXACT_MATCH,Exact district-name token match
+Haryana,Palwal,Palwal,EXACT_MATCH,Exact district-name token match
+Gujarat,Panch Mahals,Panch Mahals,EXACT_MATCH,Exact district-name token match
+Haryana,Panchkula,Panchkula,EXACT_MATCH,Exact district-name token match
+Haryana,Panipat,Panipat,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Panna,Panna,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Papum Pare,Papum Pare,EXACT_MATCH,Exact district-name token match
+Maharashtra,Parbhani,Parbhani,EXACT_MATCH,Exact district-name token match
+Bihar,Pashchim Champaran,Pashchim Champaran,EXACT_MATCH,Exact district-name token match
+West Bengal,Pashchim Medinipur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Pashchimi Singhbhum,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Gujarat,Patan,Patan,EXACT_MATCH,Exact district-name token match
+Kerala,Pathanamthitta,Pathanamthitta,EXACT_MATCH,Exact district-name token match
+Punjab,Patiala,Patiala,EXACT_MATCH,Exact district-name token match
+Bihar,Patna,Patna,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Perambalur,Perambalur,EXACT_MATCH,Exact district-name token match
+Nagaland,Peren,Peren,EXACT_MATCH,Exact district-name token match
+Nagaland,Phek,Phek,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Pilibhit,Pilibhit,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Pithoragarh,Pithoragarh,EXACT_MATCH,Exact district-name token match
+Gujarat,Porbandar,Porbandar,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Prakasam,Prakasam,EXACT_MATCH,Exact district-name token match
+Rajasthan,Pratapgarh,Pratapgarh,EXACT_MATCH,Exact district-name token match
+Puducherry,Puducherry,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Tamil Nadu,Pudukkottai,Pudukkottai,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Pulwama,Pulwama,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Punch,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Maharashtra,Pune,Pune,EXACT_MATCH,Exact district-name token match
+Bihar,Purba Champaran,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+West Bengal,Purba Medinipur,Purba Medinipur,EXACT_MATCH,Exact district-name token match
+Jharkhand,Purbi Singhbhum,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Odisha,Puri,Puri,EXACT_MATCH,Exact district-name token match
+Bihar,Purnia,Purnia,EXACT_MATCH,Exact district-name token match
+West Bengal,Puruliya,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Rae Bareli,Rae Bareli,EXACT_MATCH,Exact district-name token match
+Karnataka,Raichur,Raichur,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Raigarh,Raigarh,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Raipur,Raipur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Raisen,Raisen,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Rajgarh,Rajgarh,EXACT_MATCH,Exact district-name token match
+Gujarat,Rajkot,Rajkot,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Rajnandgaon,Rajnandgaon,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Rajouri,Rajouri,EXACT_MATCH,Exact district-name token match
+Rajasthan,Rajsamand,Rajsamand,EXACT_MATCH,Exact district-name token match
+Karnataka,Ramanagara,Ramanagara,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Ramanathapuram,Ramanathapuram,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Ramban,Ramban,EXACT_MATCH,Exact district-name token match
+Jharkhand,Ramgarh,Ramgarh,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Rampur,Rampur,EXACT_MATCH,Exact district-name token match
+Jharkhand,Ranchi,Ranchi,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Rangareddy,Ranga Reddy,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Madhya Pradesh,Ratlam,Ratlam,EXACT_MATCH,Exact district-name token match
+Maharashtra,Ratnagiri,Ratnagiri,EXACT_MATCH,Exact district-name token match
+Odisha,Rayagada,Rayagada,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Reasi,Reasi,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Rewa,Rewa,EXACT_MATCH,Exact district-name token match
+Haryana,Rewari,Rewari,EXACT_MATCH,Exact district-name token match
+Meghalaya,Ri Bhoi,Ri Bhoi,EXACT_MATCH,Exact district-name token match
+Haryana,Rohtak,Rohtak,EXACT_MATCH,Exact district-name token match
+Bihar,Rohtas,Rohtas,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Rudraprayag,Rudra Prayag,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Punjab,Rupnagar,Rupnagar,EXACT_MATCH,Exact district-name token match
+Gujarat,Sabar Kantha,Sabar Kantha,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Sagar,Sagar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Saharanpur,Saharanpur,EXACT_MATCH,Exact district-name token match
+Bihar,Saharsa,Saharsa,EXACT_MATCH,Exact district-name token match
+Jharkhand,Sahibganj,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Punjab,Sahibzada Ajit Singh Nagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Mizoram,Saiha,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Tamil Nadu,Salem,Salem,EXACT_MATCH,Exact district-name token match
+Bihar,Samastipur,Samastipur,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Samba,Samba,EXACT_MATCH,Exact district-name token match
+Odisha,Sambalpur,Sambalpur,EXACT_MATCH,Exact district-name token match
+Maharashtra,Sangli,Sangli,EXACT_MATCH,Exact district-name token match
+Punjab,Sangrur,Sangrur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Sant Kabir Nagar,Sant Kabir Nagar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Sant Ravi Das Nagar(bhadohi),,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jharkhand,Saraikela-kharsawan,Saraikela Kharsawan,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Bihar,Saran (chhapra),,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Maharashtra,Satara,Satara,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Satna,Satna,EXACT_MATCH,Exact district-name token match
+Rajasthan,Sawai Madhopur,Sawai Madhopur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Sehore,Sehore,EXACT_MATCH,Exact district-name token match
+Manipur,Senapati,Senapati,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Seoni,Seoni,EXACT_MATCH,Exact district-name token match
+Mizoram,Serchhip,Serchhip,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Shahdol,Shahdol,EXACT_MATCH,Exact district-name token match
+Punjab,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Shajapur,Shajapur,EXACT_MATCH,Exact district-name token match
+Bihar,Sheikhpura,Sheikhpura,EXACT_MATCH,Exact district-name token match
+Bihar,Sheohar,Sheohar,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Sheopur,Sheopur,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Shimla,Shimla,EXACT_MATCH,Exact district-name token match
+Karnataka,Shimoga,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Madhya Pradesh,Shivpuri,Shivpuri,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Shrawasti,Shrawasti,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Shupiyan,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttar Pradesh,Siddharth Nagar,Siddharthnagar,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Madhya Pradesh,Sidhi,Sidhi,EXACT_MATCH,Exact district-name token match
+Rajasthan,Sikar,Sikar,EXACT_MATCH,Exact district-name token match
+Jharkhand,Simdega,Simdega,EXACT_MATCH,Exact district-name token match
+Maharashtra,Sindhudurg,Sindhudurg,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Singrauli,Singrauli,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Sirmaur,Sirmaur,EXACT_MATCH,Exact district-name token match
+Rajasthan,Sirohi,Sirohi,EXACT_MATCH,Exact district-name token match
+Haryana,Sirsa,Sirsa,EXACT_MATCH,Exact district-name token match
+Bihar,Sitamarhi,Sitamarhi,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Sitapur,Sitapur,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Sivaganga,Sivaganga,EXACT_MATCH,Exact district-name token match
+Assam,Sivasagar,Sivasagar,EXACT_MATCH,Exact district-name token match
+Bihar,Siwan,Siwan,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Solan,Solan,EXACT_MATCH,Exact district-name token match
+Maharashtra,Solapur,Solapur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Sonbhadra,Sonbhadra,EXACT_MATCH,Exact district-name token match
+Haryana,Sonipat,Sonipat,EXACT_MATCH,Exact district-name token match
+Assam,Sonitpur,Sonitpur,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,South,South,EXACT_MATCH,Exact district-name token match
+West Bengal,South 24 Parganas,South 24 Parganas,EXACT_MATCH,Exact district-name token match
+Andaman & Nicobar Island,South Andaman,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Meghalaya,South Garo Hills,South Garo Hills,EXACT_MATCH,Exact district-name token match
+Goa,South Goa,South Goa,EXACT_MATCH,Exact district-name token match
+Tripura,South Tripura,South Tripura,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,South West,South West,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Srikakulam,Srikakulam,EXACT_MATCH,Exact district-name token match
+Jammu & Kashmir,Srinagar,Srinagar,EXACT_MATCH,Exact district-name token match
+Odisha,Subarnapur,Subarnapur,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Sultanpur,Sultanpur,EXACT_MATCH,Exact district-name token match
+Odisha,Sundargarh,Sundargarh,EXACT_MATCH,Exact district-name token match
+Bihar,Supaul,Supaul,EXACT_MATCH,Exact district-name token match
+Gujarat,Surat,Surat,EXACT_MATCH,Exact district-name token match
+Gujarat,Surendranagar,Surendranagar,EXACT_MATCH,Exact district-name token match
+Chhattisgarh,Surguja,Surguja,EXACT_MATCH,Exact district-name token match
+Manipur,Tamenglong,Tamenglong,EXACT_MATCH,Exact district-name token match
+Gujarat,Tapi,Tapi,EXACT_MATCH,Exact district-name token match
+Punjab,Tarn Taran,Tarn Taran,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Tawang,Tawang,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Tehri Garhwal,Tehri Garhwal,EXACT_MATCH,Exact district-name token match
+Maharashtra,Thane,Thane,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Thanjavur,Thanjavur,EXACT_MATCH,Exact district-name token match
+Gujarat,The Dangs,The Dangs,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,The Nilgiris,The Nilgiris,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Theni,Theni,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Thiruvallur,Thiruvallur,EXACT_MATCH,Exact district-name token match
+Kerala,Thiruvananthapuram,Thiruvananthapuram,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Thiruvarur,Thiruvarur,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Thoothukkudi,Thoothukkudi,EXACT_MATCH,Exact district-name token match
+Manipur,Thoubal,Thoubal,EXACT_MATCH,Exact district-name token match
+Kerala,Thrissur,Thrissur,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Tikamgarh,Tikamgarh,EXACT_MATCH,Exact district-name token match
+Assam,Tinsukia,Tinsukia,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Tirap,Tirap,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Tiruchirappalli,Tiruchirappalli,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Tirunelveli,Tirunelveli,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Tiruppur,Tiruppur,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Tiruvannamalai,Tiruvannamalai,EXACT_MATCH,Exact district-name token match
+Rajasthan,Tonk,Tonk,EXACT_MATCH,Exact district-name token match
+Nagaland,Tuensang,Tuensang,EXACT_MATCH,Exact district-name token match
+Karnataka,Tumkur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Rajasthan,Udaipur,Udaipur,EXACT_MATCH,Exact district-name token match
+Assam,Udalguri,Udalguri,EXACT_MATCH,Exact district-name token match
+Uttarakhand,Udham Singh Nagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Jammu & Kashmir,Udhampur,Udhampur,EXACT_MATCH,Exact district-name token match
+Karnataka,Udupi,Udupi,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Ujjain,Ujjain,EXACT_MATCH,Exact district-name token match
+Manipur,Ukhrul,Ukhrul,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Umaria,Umaria,EXACT_MATCH,Exact district-name token match
+Himachal Pradesh,Una,Una,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Unnao,Unnao,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Upper Siang,Upper Siang,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,Upper Subansiri,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Chhattisgarh,Uttar Bastar Kanker,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+West Bengal,Uttar Dinajpur,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Karnataka,Uttara Kannada,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Uttarakhand,Uttarkashi,Uttar Kashi,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Gujarat,Vadodara,Vadodara,EXACT_MATCH,Exact district-name token match
+Bihar,Vaishali,Vaishali,EXACT_MATCH,Exact district-name token match
+Gujarat,Valsad,Valsad,EXACT_MATCH,Exact district-name token match
+Uttar Pradesh,Varanasi,Varanasi,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Vellore,Vellore,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,Vidisha,Vidisha,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Viluppuram,Viluppuram,EXACT_MATCH,Exact district-name token match
+Tamil Nadu,Virudunagar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Vizianagaram,Vizianagaram,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Warangal,Warangal,EXACT_MATCH,Exact district-name token match
+Maharashtra,Wardha,Wardha,EXACT_MATCH,Exact district-name token match
+Maharashtra,Washim,Washim,EXACT_MATCH,Exact district-name token match
+Kerala,Wayanad,Wayanad,EXACT_MATCH,Exact district-name token match
+NCT of Delhi,West,West,EXACT_MATCH,Exact district-name token match
+Meghalaya,West Garo Hills,West Garo Hills,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,West Godavari,West Godavari,EXACT_MATCH,Exact district-name token match
+Arunanchal Pradesh,West Kameng,West Kameng,EXACT_MATCH,Exact district-name token match
+Meghalaya,West Khasi Hills,West Khasi Hills,EXACT_MATCH,Exact district-name token match
+Madhya Pradesh,West Nimar,,BOUNDARY_ONLY,No exact or normalized IFI district token match
+Arunanchal Pradesh,West Siang,West Siang,EXACT_MATCH,Exact district-name token match
+Tripura,West Tripura,West Tripura,EXACT_MATCH,Exact district-name token match
+Nagaland,Wokha,Wokha,EXACT_MATCH,Exact district-name token match
+Andhra Pradesh,Y.s.r.,Y.S.R.,NORMALIZED_MATCH_REQUIRES_VERIFICATION,Case/punctuation/whitespace-normalized match; state context and historical identity require verification
+Karnataka,Yadgir,Yadgir,EXACT_MATCH,Exact district-name token match
+Haryana,Yamunanagar,Yamunanagar,EXACT_MATCH,Exact district-name token match
+Puducherry,Yanam,Yanam,EXACT_MATCH,Exact district-name token match
+Maharashtra,Yavatmal,Yavatmal,EXACT_MATCH,Exact district-name token match
+Nagaland,Zunheboto,Zunheboto,EXACT_MATCH,Exact district-name token match
+,,& Parts of Himachal Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,& Parts of Uttar Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,& various parts of Nagaland,IFI_ONLY,IFI district token absent from boundary exact names
+,,11 districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,14 districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,14 districts of Assam,IFI_ONLY,IFI district token absent from boundary exact names
+,,19 districts of Orissa,IFI_ONLY,IFI district token absent from boundary exact names
+,,21 districts of Assam,IFI_ONLY,IFI district token absent from boundary exact names
+,,26 districts of Rajasthan,IFI_ONLY,IFI district token absent from boundary exact names
+,,29 districts affected,IFI_ONLY,IFI district token absent from boundary exact names
+,,3 out of 8 districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,6 districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Agar-Malwa,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ahmedabad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ahmednagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Akharpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Amethi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Amroha,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ananthapuramu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ananthapuramuamu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Arvalli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ayodhya,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkote,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkotee,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkotee Ballari,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkotee Belagavi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkotee Bengaluru Urban,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bagalkotee Udupi,IFI_ONLY,IFI district token absent from boundary exact names
+,,BagalkoteeBijapur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ballari,IFI_ONLY,IFI district token absent from boundary exact names
+,,Balod,IFI_ONLY,IFI district token absent from boundary exact names
+,,Balodabazar-Bhatapara,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bandipora,IFI_ONLY,IFI district token absent from boundary exact names
+,,Baramulla,IFI_ONLY,IFI district token absent from boundary exact names
+,,Beed,IFI_ONLY,IFI district token absent from boundary exact names
+,,Beedar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Belagavi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bemetara,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bengaluru Rural,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bengaluru Urban,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhadohi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhadradri Bhadradri Kothagudem,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhadradri Bhadradri Kothagudem Bhadradri Kothagudem,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhadradri Bhadradri Kothagudem kothagudem,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhadradri Kothagudem,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhandara Chandrapur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bhubaneshwar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Bijapur Surendranagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Biswanath,IFI_ONLY,IFI district token absent from boundary exact names
+,,Botad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Boudh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Budgam,IFI_ONLY,IFI district token absent from boundary exact names
+,,Buldhana,IFI_ONLY,IFI district token absent from boundary exact names
+,,Central Part of Uttar Kashi Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagara,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Chikkaballapura,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Chitradurga,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Davangere,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Gadag,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Hassan,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chamarajanagaraa Kalaburagi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Charaideo,IFI_ONLY,IFI district token absent from boundary exact names
+,,Charki Dadri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chengalpattu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chhatisgarh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chikkamagaluru,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chikodi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chittorgarh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chota Udaipur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Chumanung,IFI_ONLY,IFI district token absent from boundary exact names
+,,Cooch Behar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Dadra And Nagar Haveli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Dahod,IFI_ONLY,IFI district token absent from boundary exact names
+,,Dangs,IFI_ONLY,IFI district token absent from boundary exact names
+,,Darjeeling,IFI_ONLY,IFI district token absent from boundary exact names
+,,Darjeelingm,IFI_ONLY,IFI district token absent from boundary exact names
+,,Davangere,IFI_ONLY,IFI district token absent from boundary exact names
+,,Davangere����,IFI_ONLY,IFI district token absent from boundary exact names
+,,Deogarh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Devbhumi Dwarka,IFI_ONLY,IFI district token absent from boundary exact names
+,,Devbhumi Dwarka Dwarka,IFI_ONLY,IFI district token absent from boundary exact names
+,,Dharashiv,IFI_ONLY,IFI district token absent from boundary exact names
+,,Dholpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Different parts of Jammu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Districts of Cauvery delta,IFI_ONLY,IFI district token absent from boundary exact names
+,,Districts of Cauvery delta zone,IFI_ONLY,IFI district token absent from boundary exact names
+,,East & West Godavari,IFI_ONLY,IFI district token absent from boundary exact names
+,,East & West Purba Purba Medinipur,IFI_ONLY,IFI district token absent from boundary exact names
+,,East East Jaintia Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,East Jaintia Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,East Uttar Kashi Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,East West Singhbhum,IFI_ONLY,IFI district token absent from boundary exact names
+,,Entire village,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ernakulam Kannur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ernakulam ant Thiruvananthapuram,IFI_ONLY,IFI district token absent from boundary exact names
+,,Fazilka,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ferozepur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Few districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gadchiroli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gadchiroli Yavotmal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gangtok,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ghat area,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ghazipurr,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gir Somnath,IFI_ONLY,IFI district token absent from boundary exact names
+,,Goa,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gomati,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gondia,IFI_ONLY,IFI district token absent from boundary exact names
+,,Greater Kolkata area,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gurugram,IFI_ONLY,IFI district token absent from boundary exact names
+,,Gyalshing,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hapur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Haridwar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hathras,IFI_ONLY,IFI district token absent from boundary exact names
+,,Heavy rains Hazaribagh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hilly areas,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hojai,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hooghly,IFI_ONLY,IFI district token absent from boundary exact names
+,,Howrah,IFI_ONLY,IFI district token absent from boundary exact names
+,,Hyderabad & Parts of Telangana,IFI_ONLY,IFI district token absent from boundary exact names
+,,Itanagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jagdalpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jagitial,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jalore,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jaloree,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jangoan,IFI_ONLY,IFI district token absent from boundary exact names
+,,Janjgir-Champa,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Jawad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jayashankar Bhupalapally,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jhelum,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jhunjhunu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jiribam,IFI_ONLY,IFI district token absent from boundary exact names
+,,Jogulamba Gadwal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kaimur (Bhabua),NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Kakching,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kalaburagi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kalimpong,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kallakurichi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kamareddy,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kamjong,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kamle,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kamrup Metro,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kangpokpi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kanniyakumariumari,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kanpur nagar,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Kanpur nagar Dehat,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kanpur nagar Nagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kanpur nagar-Dehat,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kasganj,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kashmir,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kashmir Valley,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kashmir valley,IFI_ONLY,IFI district token absent from boundary exact names
+,,Khargone (Khargone (West Nimar)),IFI_ONLY,IFI district token absent from boundary exact names
+,,Khowai,IFI_ONLY,IFI district token absent from boundary exact names
+,,Khurja,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kochi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Koderma,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kokrajhar Darrang,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kollam Kozhikode,IFI_ONLY,IFI district token absent from boundary exact names
+,,Korea,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kra Daadi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Kumuram Bheem Asifabad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Lahul And Spiti,IFI_ONLY,IFI district token absent from boundary exact names
+,,Lawngtlai,IFI_ONLY,IFI district token absent from boundary exact names
+,,Leh ladakh,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Leparada,IFI_ONLY,IFI district token absent from boundary exact names
+,,Longding,IFI_ONLY,IFI district token absent from boundary exact names
+,,Lower Lower Subansiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Lower Siang,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mahabubabad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mahabubnagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mahisagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mahrajganj,IFI_ONLY,IFI district token absent from boundary exact names
+,,Majuli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Malda,IFI_ONLY,IFI district token absent from boundary exact names
+,,Malikkeri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Manali,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mancachar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mancherial,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mangalbari,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mangalore,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mangan,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many districts of South Bengal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many districts of Tamil Nadu.,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many districts of Uttar Kashi Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many parts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many parts of Tamil Nadu.,IFI_ONLY,IFI district token absent from boundary exact names
+,,Many parts of the State,IFI_ONLY,IFI district token absent from boundary exact names
+,,Marathwada,IFI_ONLY,IFI district token absent from boundary exact names
+,,Medchal Malkajgiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mirpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Morbi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Most Upper Lower Subansiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Most of the districts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Most parts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mudigere,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mulugu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mumbai (Colaba),IFI_ONLY,IFI district token absent from boundary exact names
+,,Mungeli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Muzaffarabad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Mysuru,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nabarangpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nagapattinam,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nagarkoil,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nagarkurnool,IFI_ONLY,IFI district token absent from boundary exact names
+,,Namchi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Namsai,IFI_ONLY,IFI district token absent from boundary exact names
+,,Narayanpet,IFI_ONLY,IFI district token absent from boundary exact names
+,,Narmadapuram,IFI_ONLY,IFI district token absent from boundary exact names
+,,New New Delhi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nirmal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Niwari,IFI_ONLY,IFI district token absent from boundary exact names
+,,Noney,IFI_ONLY,IFI district token absent from boundary exact names
+,,North And Middle Andaman,IFI_ONLY,IFI district token absent from boundary exact names
+,,North Bengal,IFI_ONLY,IFI district token absent from boundary exact names
+,,North Garo Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,North west,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,North westduar,IFI_ONLY,IFI district token absent from boundary exact names
+,,North westdusar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Northern parts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ntr,IFI_ONLY,IFI district token absent from boundary exact names
+,,Nuh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pak,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pakke Kessang,IFI_ONLY,IFI district token absent from boundary exact names
+,,Palampur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Palghar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Palnadu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Andhra Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Himachal Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Jammu,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Jharkhand,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Karnataka,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Lahul & Spitti,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Maharashtra,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Meghalaya,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Nagaland,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Orissa,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Rajasthan,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Sikkim,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Telangana,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Uttar Kashiakhand,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of Uttar Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,Parts of West Bengal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Paschim Medinipur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Paschim Purba Bardhaman,IFI_ONLY,IFI district token absent from boundary exact names
+,,Paschim Purba Medinipur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pashchimi West Singhbhum,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pathankot,IFI_ONLY,IFI district token absent from boundary exact names
+,,Peddapalli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pherzawl,IFI_ONLY,IFI district token absent from boundary exact names
+,,Pondicherry,IFI_ONLY,IFI district token absent from boundary exact names
+,,Poonch,IFI_ONLY,IFI district token absent from boundary exact names
+,,Prayagraj,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purba Bardhaman,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purba Purba Bardhaman,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purba Purba Medinipur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purba bardhaman,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purbi Champaran,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purbi West Singhbhum,IFI_ONLY,IFI district token absent from boundary exact names
+,,Purulia,IFI_ONLY,IFI district token absent from boundary exact names
+,,Raigad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Rajanna Sircilla,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ramagiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Ranga Reddy,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Ranipet,IFI_ONLY,IFI district token absent from boundary exact names
+,,Rudra Prayag,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Rugi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Rural,IFI_ONLY,IFI district token absent from boundary exact names
+,,S.A.S Nagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,S.A.S Nagar*,IFI_ONLY,IFI district token absent from boundary exact names
+,,SShrawasti,IFI_ONLY,IFI district token absent from boundary exact names
+,,SShrawasti & Parts of East U.P.,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sahebganj,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sambhal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sangareddy,IFI_ONLY,IFI district token absent from boundary exact names
+,,Santal Pargan,IFI_ONLY,IFI district token absent from boundary exact names
+,,Saraikela Kharsawan,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Saran,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sepahijala,IFI_ONLY,IFI district token absent from boundary exact names
+,,Shahdara,IFI_ONLY,IFI district token absent from boundary exact names
+,,Shamli,IFI_ONLY,IFI district token absent from boundary exact names
+,,Shi Yomi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Shivamogga,IFI_ONLY,IFI district token absent from boundary exact names
+,,Shopian,IFI_ONLY,IFI district token absent from boundary exact names
+,,Siaha,IFI_ONLY,IFI district token absent from boundary exact names
+,,Siang,IFI_ONLY,IFI district token absent from boundary exact names
+,,Siddharthnagar,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Siddipet,IFI_ONLY,IFI district token absent from boundary exact names
+,,Silchar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Siliguri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sivasagar amd Sonitpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Some districts of Punjab,IFI_ONLY,IFI district token absent from boundary exact names
+,,Some parts,IFI_ONLY,IFI district token absent from boundary exact names
+,,South 24 Parganas*,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,South Andamans,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Assam,IFI_ONLY,IFI district token absent from boundary exact names
+,,South East,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Gujarat,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Kashmir,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Salmara Mancachar,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Salmara Mancachar - Mankachar,IFI_ONLY,IFI district token absent from boundary exact names
+,,South Salmara Mancachar- Mankachar,IFI_ONLY,IFI district token absent from boundary exact names
+,,South West Garo Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,South West Khasi Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,Southern parts,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sri Muktsar Sahib,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sri Sri Muktsar Sahib Sahib,IFI_ONLY,IFI district token absent from boundary exact names
+,,Suburbans,IFI_ONLY,IFI district token absent from boundary exact names
+,,Sukma,IFI_ONLY,IFI district token absent from boundary exact names
+,,Suryapet,IFI_ONLY,IFI district token absent from boundary exact names
+,,Tengnoupal,IFI_ONLY,IFI district token absent from boundary exact names
+,,Tenkasi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Tirupathur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Tripura,IFI_ONLY,IFI district token absent from boundary exact names
+,,Tumakuru,IFI_ONLY,IFI district token absent from boundary exact names
+,,Udaiur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Udam Singh Nagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Unakoti,IFI_ONLY,IFI district token absent from boundary exact names
+,,Upper Lower Subansiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Urban,IFI_ONLY,IFI district token absent from boundary exact names
+,,Uttar Kashi,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Uttar Kashi Bastar Kanker,IFI_ONLY,IFI district token absent from boundary exact names
+,,Uttar Kashi Dinajpur,IFI_ONLY,IFI district token absent from boundary exact names
+,,Uttar Kashi Kashi,IFI_ONLY,IFI district token absent from boundary exact names
+,,Uttar Kashia,IFI_ONLY,IFI district token absent from boundary exact names
+,,Uttar Kashia Kannada,IFI_ONLY,IFI district token absent from boundary exact names
+,,Vijayapura,IFI_ONLY,IFI district token absent from boundary exact names
+,,Vikarabad,IFI_ONLY,IFI district token absent from boundary exact names
+,,Virudhunagar,IFI_ONLY,IFI district token absent from boundary exact names
+,,Wanaparthy,IFI_ONLY,IFI district token absent from boundary exact names
+,,West East Jaintia Hills,IFI_ONLY,IFI district token absent from boundary exact names
+,,West Karbi Anglong,IFI_ONLY,IFI district token absent from boundary exact names
+,,West Madhya Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,West Singhbhum,IFI_ONLY,IFI district token absent from boundary exact names
+,,Y.S.R.,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,Yadadri Bhuvanagiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Yadadri Yadadri Bhuvanagiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,Yadadri Yadadri Bhuvanagiri Yadadri Bhuvanagiri,IFI_ONLY,IFI district token absent from boundary exact names
+,,adjoining areas,IFI_ONLY,IFI district token absent from boundary exact names
+,,coastal districts of Andhra Pradesh,IFI_ONLY,IFI district token absent from boundary exact names
+,,howrah,IFI_ONLY,IFI district token absent from boundary exact names
+,,nalgonda,NORMALIZED_MATCH_REQUIRES_VERIFICATION,IFI name has a normalized boundary candidate; state and historical identity require verification
+,,neighborhood,IFI_ONLY,IFI district token absent from boundary exact names
+,,neighbourhood,IFI_ONLY,IFI district token absent from boundary exact names
+,,several other district (Andhra Pradesh),IFI_ONLY,IFI district token absent from boundary exact names
