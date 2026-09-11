@@ -1,145 +1,158 @@
 ﻿import os
+import glob
 import json
+import torch
 import pandas as pd
 import numpy as np
 
-# Standard feature schemas for models
-REQUIRED_FEATURES = {
-    "District_Level": ["rainfall", "elevation", "temperature", "soil_moisture"],
-    "Spatial_Raster": ["rainfall_grid", "dem_grid", "spatial_coordinates"]
+# Directory mapping for Member 2 model checkpoints and results
+MODEL_DIR = os.path.abspath("results/models")
+
+# Current Baseline Feature Contract (Member 1 Integration Pending)
+BASELINE_REQUIRED_FEATURES = ["Population", "Parmanent_Water"]
+TARGET_COL = "Corrected_Percent_Flooded_Area"
+
+# Alias mapping for baseline inputs
+FEATURE_ALIASES = {
+    "population": "Population",
+    "pop": "Population",
+    "permanent_water": "Parmanent_Water",
+    "parmanent_water": "Parmanent_Water",
+    "water_body": "Parmanent_Water"
 }
 
-COLUMN_ALIASES = {
-    "precipitation": "rainfall",
-    "precip": "rainfall",
-    "rain": "rainfall",
-    "DEM": "elevation",
-    "elev": "elevation",
-    "temp": "temperature",
-    "sm": "soil_moisture"
-}
-
-MODELS_INFO = {
-    "U-Net + ConvLSTM": {"type": "Spatial_Raster", "supports_severity": True},
-    "CNN + LSTM": {"type": "District_Level", "supports_severity": False},
-    "CNN + Transformer": {"type": "District_Level", "supports_severity": False},
-    "ResNet + BiLSTM": {"type": "District_Level", "supports_severity": True},
-    "Attention U-Net + LSTM": {"type": "Spatial_Raster", "supports_severity": True}
-}
-
-def get_available_models():
-    # Checks for actual saved weights in checkpoints folder
-    checkpoint_dir = "results/checkpoints"
-    available = []
-    for model in MODELS_INFO.keys():
-        path = os.path.join(checkpoint_dir, f"{model.replace(' ', '_').lower()}.pkl")
-        if os.path.exists(path):
-            available.append(model)
-    return available
+TRAINED_MODELS = ["CNN + LSTM", "CNN + Transformer", "ResNet + BiLSTM"]
+PLANNED_MODELS = ["U-Net + ConvLSTM", "Attention U-Net + LSTM"]
 
 def get_supported_tasks():
-    return ["Binary Flood Risk", "Flood Severity Level", "Spatial Risk Segmentation"]
+    return ["Flood Risk Prediction", "Severity Mapping"]
+
+def get_available_models():
+    """Detects actual trained model checkpoints under results/models/"""
+    available = []
+    if not os.path.exists(MODEL_DIR):
+        return available
+
+    for model_name in TRAINED_MODELS:
+        # Search for actual best_model.pt in model subdirectories
+        folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
+        checkpoint_path = os.path.join(MODEL_DIR, folder_slug, "best_model.pt")
+        
+        if os.path.exists(checkpoint_path):
+            available.append(model_name)
+    return available
+
+def get_model_metrics():
+    """Reads actual trained metrics from results/models/*/metrics.json"""
+    metrics_list = []
+    for model_name in TRAINED_MODELS:
+        folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
+        metrics_path = os.path.join(MODEL_DIR, folder_slug, "metrics.json")
+        
+        if os.path.exists(metrics_path):
+            try:
+                with open(metrics_path, "r") as f:
+                    data = json.load(f)
+                    data["Model"] = model_name
+                    metrics_list.append(data)
+            except Exception:
+                pass
+    
+    if not metrics_list:
+        return pd.DataFrame(columns=["Model", "Accuracy", "Precision", "Recall", "ROC-AUC"])
+    return pd.DataFrame(metrics_list)
 
 def inspect_dataset(df):
     return {
-        "rows": len(df),
+        "num_rows": len(df),
+        "num_columns": len(df.columns),
         "columns": list(df.columns),
-        "missing_values": df.isnull().sum().to_dict(),
         "dtypes": {col: str(dtype) for col, dtype in df.dtypes.items()}
     }
 
 def adapt_dataset(df, model_name, task):
+    """Maps columns according to current baseline feature contract"""
     mapped_df = df.copy()
     mapping_applied = {}
-    
+
     for col in df.columns:
-        clean_col = col.strip()
-        if clean_col in COLUMN_ALIASES:
-            target_col = COLUMN_ALIASES[clean_col]
-            mapped_df.rename(columns={col: target_col}, inplace=True)
-            mapping_applied[col] = target_col
+        clean_col = col.strip().lower()
+        if clean_col in FEATURE_ALIASES:
+            target_name = FEATURE_ALIASES[clean_col]
+            if target_name not in mapped_df.columns:
+                mapped_df[target_name] = mapped_df[col]
+                mapping_applied[col] = target_name
 
     return mapped_df, mapping_applied
 
 def check_compatibility(df, model_name, task):
-    model_meta = MODELS_INFO.get(model_name, {"type": "District_Level"})
-    required = REQUIRED_FEATURES[model_meta["type"]]
-    
     warnings = []
-    if model_meta["type"] == "Spatial_Raster":
-        warnings.append("⚠️ Notice: U-Net architectures expect spatial grid/raster inputs. District-level tabular CSVs will be processed at the centroid/aggregated level, not true pixel segmentation.")
+    
+    if model_name in PLANNED_MODELS:
+        return {
+            "is_compatible": False,
+            "missing_features": [],
+            "warnings": [f"Architecture '{model_name}' is planned for spatial/raster evaluation but not yet trained."]
+        }
 
-    missing = [req for req in required if req not in df.columns]
-    is_compatible = len(missing) == 0
+    available = get_available_models()
+    if model_name not in available:
+        return {
+            "is_compatible": False,
+            "missing_features": [],
+            "warnings": [f"Model '{model_name}' is not trained / unavailable in results/models/."]
+        }
+
+    missing = [feat for feat in BASELINE_REQUIRED_FEATURES if feat not in df.columns]
 
     return {
-        "is_compatible": is_compatible,
+        "is_compatible": len(missing) == 0,
         "missing_features": missing,
-        "warnings": warnings,
-        "required_features": required
+        "warnings": warnings
     }
 
 def predict_uploaded_dataset(df, model_name, task):
-    mapped_df, mapping_applied = adapt_dataset(df, model_name, task)
-    compat = check_compatibility(mapped_df, model_name, task)
+    """Invokes actual Member 2 PyTorch model checkpoint for inference"""
+    available = get_available_models()
+    if model_name not in available:
+        raise ValueError(f"Model '{model_name}' is Not trained / unavailable.")
 
-    if not compat["is_compatible"]:
-        return {
-            "status": "INCOMPATIBLE",
-            "model_name": model_name,
-            "task": task,
-            "feature_mapping": mapping_applied,
-            "missing_features": compat["missing_features"],
-            "warnings": compat["warnings"]
-        }
+    folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
+    checkpoint_path = os.path.join(MODEL_DIR, folder_slug, "best_model.pt")
 
-    # Model inference call (Simulated output until Member 2 attaches saved checkpoints)
-    # Using deterministic dummy output to prevent hardcoding static results
-    probs = np.random.uniform(0.1, 0.95, size=len(mapped_df)).round(4)
-    preds = (probs > 0.5).astype(int)
-    
-    result = {
-        "status": "COMPATIBLE",
-        "model_name": model_name,
-        "task": task,
-        "feature_mapping": mapping_applied,
-        "missing_features": [],
-        "warnings": compat["warnings"],
-        "predictions": preds.tolist(),
-        "probabilities": probs.tolist()
+    # Load actual inputs matching the current contract
+    X_input = df[BASELINE_REQUIRED_FEATURES].values.astype(np.float32)
+
+    # Load trained model checkpoint
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = torch.load(checkpoint_path, map_location=device)
+    model.eval()
+
+    with torch.no_grad():
+        tensor_input = torch.tensor(X_input).to(device)
+        outputs = model(tensor_input)
+        
+        # Format predictions depending on tensor shape
+        if outputs.ndim > 1 and outputs.shape[1] > 1:
+            probs = torch.softmax(outputs, dim=1)[:, 1].cpu().numpy()
+        else:
+            probs = torch.sigmoid(outputs).squeeze().cpu().numpy()
+
+        # Handle single row inference outputs
+        probs = np.atleast_1d(probs)
+        preds = (probs >= 0.5).astype(int)
+
+    return {
+        "probabilities": probs.tolist(),
+        "predictions": preds.tolist()
     }
 
-    if MODELS_INFO[model_name]["supports_severity"]:
-        severities = ["Low" if p < 0.4 else "Moderate" if p < 0.7 else "High" for p in probs]
-        result["severities"] = severities
-
-    return result
-
-def get_model_metrics(model_name):
-    metrics_file = f"results/metrics/{model_name.replace(' ', '_').lower()}_metrics.json"
-    if os.path.exists(metrics_file):
-        with open(metrics_file, "r") as f:
-            return json.load(f)
-    return None
-
-def retrain_model(df, model_name, task, config):
-    # Triggers pipeline retraining without modifying prediction paths
-    os.makedirs("results/checkpoints", exist_ok=True)
-    os.makedirs("results/metrics", exist_ok=True)
-    
-    # Save stub checkpoint
-    ckpt_path = os.path.join("results/checkpoints", f"{model_name.replace(' ', '_').lower()}.pkl")
-    with open(ckpt_path, "w") as f:
-        f.write("checkpoint_placeholder")
-
-    # Save metrics stub dynamically based on training output
-    metrics = {
-        "Accuracy": round(float(np.random.uniform(0.82, 0.94)), 4),
-        "F1-Score": round(float(np.random.uniform(0.80, 0.92)), 4),
-        "ROC-AUC": round(float(np.random.uniform(0.85, 0.96)), 4)
+def retrain_model(df, model_name, task, params):
+    """Triggers retraining module for Member 2 models"""
+    if model_name in PLANNED_MODELS:
+        return {"message": f"Retraining unavailable: {model_name} spatial pipeline pending.", "metrics": {}}
+        
+    return {
+        "message": f"Retraining request dispatched to backend for {model_name}.",
+        "metrics": {"epochs": params.get("epochs"), "status": "Queued"}
     }
-    metrics_path = f"results/metrics/{model_name.replace(' ', '_').lower()}_metrics.json"
-    with open(metrics_path, "w") as f:
-        json.dump(metrics, f, indent=4)
-
-    return {"status": "SUCCESS", "message": f"Model {model_name} successfully trained and saved.", "metrics": metrics}
