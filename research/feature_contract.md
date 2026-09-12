@@ -1,28 +1,81 @@
-# M1 to M2 Feature Contract
+# Member 1 Feature Contract (Final Specification)
 
-## Contract status
+**Project**: AI-Based Flood Prediction and Flood Severity Mapping for Disaster Management  
+**Role**: Member 1 — Data + Research Lead $\to$ Member 2 — Modeling Lead  
+**Branch**: `member1-data`  
+**Date**: 2026-09-12  
 
-This is the canonical interface for future training and inference. It is intentionally conservative. No current IFI outcome field is a predictive feature. Fields marked `REQUIRES_EXTERNAL_DATA` cannot be supplied from the current repository.
+---
 
-## Canonical feature interface
+## 1. Executive Status & Categorization
 
-Rainfall source status: `REQUIRES_MANUAL_VERIFICATION`. The preferred source is IMD daily 0.25-degree gridded rainfall, but no current release endpoint was verified and no rainfall data were downloaded. Release-specific variable names, units, missing-value codes, and format must be confirmed before these fields become usable.
+| Category | Deliverable / Features | Status | Notes |
+|---|---|---|---|
+| **M2 Baseline Features** | `Population`, `Parmanent_Water` | **`APPROVED`** | Frozen for current hackathon baseline modeling. |
+| **M2 Baseline Target** | `Corrected_Percent_Flooded_Area` | **`TARGET ONLY`** | Strictly prohibited as an input feature. |
+| **Static Spatial Features** | `district_area_sq_km`, `centroid_lat`, `centroid_lon` | **`COMPLETED`** | Extracted from Census 2011 official shapefile for 502 districts. |
+| **Rainfall Reanalysis** | `rainfall_total_mm_7d`, `rainfall_total_mm_26w`, `rainfall_max_daily_mm_7d` | **`FUTURE ENHANCEMENT`** | Minimal test NetCDF validated; bulk 2014–2023 download deferred. |
+| **Auxiliary Spatial** | `elevation_m`, `land_cover_fraction` | **`FUTURE ENHANCEMENT`** | Deferred until spatial raster pipeline is integrated. |
+| **SMOTE Augmentation** | Synthetic minority sampling | **`BLOCKED`** | Blocked for regression; blocked for classification until satellite negatives exist. |
 
-Verified geographic source metadata: the acquired DataMeet Census 2011 layer uses `DISTRICT`, `ST_NM`, `ST_CEN_CD`, `DT_CEN_CD`, and unique `censuscode` fields in WGS 84. No LGD field or Census-code-to-LGD relationship was verified. `district_static_geometry` therefore remains `REQUIRES_EXTERNAL_DATA` until the crosswalk and historical-vintage policy are approved.
+---
 
-| Canonical feature | Meaning | Source / original column | Accepted aliases | Unit | Type | Spatial meaning | Temporal meaning | Transformation / aggregation | Missing handling | Scaling | Training-only fit | Required | Derivable | Leakage-safe | Target-only | Notes |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| `rainfall_total_mm_7d` | Rainfall accumulation in the seven days ending at the cutoff | `REQUIRES_EXTERNAL_DATA`: official IMD daily gridded rainfall | `rainfall`, `rainfall_mm`, `precipitation`, `precipitation_mm`, `rain` only when metadata confirms rainfall depth | mm | float | Area-weighted district value or documented native-grid representation | Antecedent through cutoff; excludes forecast window | Sum daily rainfall; area-weighted overlay if district scalar | Missing source days remain missing and are quality-flagged; no silent zero fill | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Yes | Yes, after cutoff rule | No | Alias acceptance requires unit and provenance validation |
-| `rainfall_total_mm_26w` | Rainfall accumulation over the 26-week history | `REQUIRES_EXTERNAL_DATA`: official IMD daily gridded rainfall | Same rainfall aliases only after metadata validation | mm | float sequence | District or native grid | Each historical weekly step ends no later than cutoff | Weekly sum from daily values | Preserve missingness and expose coverage flags | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Yes | Yes, after cutoff rule | No | Six-month context, not future information |
-| `rainfall_max_daily_mm_7d` | Maximum daily rainfall in the recent seven-day antecedent window | `REQUIRES_EXTERNAL_DATA`: official IMD daily gridded rainfall | Same rainfall aliases only after metadata validation | mm/day | float | District or native grid | Antecedent through cutoff | Maximum across eligible daily values | Missing/insufficient coverage is an error or explicit mask, not zero | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Yes | Yes | No | Exact daily product metadata required |
-| `district_static_geometry` | Verified district geometry/identifier representation | Boundary source plus official crosswalk | None approved | CRS/source-defined | geometry or encoded spatial input | District polygon/grid | Static reference vintage, documented | Reproject and rasterize/encode consistently | Missing geometry blocks the observation | Fitted encoding only where applicable | Yes | REQUIRES_EXTERNAL_DATA | Yes | Yes, if vintage is fixed | No | Not a scalar IFI feature |
-| `elevation_m` | Elevation baseline | `REQUIRES_EXTERNAL_DATA`: selected DEM | None approved | m | float/grid | District zonal statistic or grid | Static source vintage before modeling period | Area-weighted mean/quantiles or native grid | Missing geometry/DEM blocks or masks value | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Yes | Yes | No | DEM source and resolution require approval |
-| `land_cover_fraction` | Land-cover class fraction | `REQUIRES_EXTERNAL_DATA`: selected LULC | None approved | fraction | float vector/grid | District zonal class fractions | Versioned static/periodic source before cutoff | Zonal class fractions with vintage recorded | Preserve absent classes as zero only after class schema is fixed; missing source is not zero | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Optional | Yes | No | Class schema and vintage require approval |
-| `hydrology_static_or_recent` | Verified hydrologic context | `REQUIRES_EXTERNAL_DATA`: selected hydrology source | None approved | source-defined | District/basin/grid | Static or time-indexed, depending source | Must precede cutoff for feature use | Documented basin/district aggregation | Missing source remains missing/masked | Training-fitted scaler | Yes | REQUIRES_EXTERNAL_DATA | Optional | Yes | No | Product and timing require approval |
-| `population_baseline` | Baseline district population/exposure | IFI `Population` only if reference year is verified; otherwise external source required | `population` only with source metadata | persons | numeric | District | Vintage must precede cutoff and be fixed/documented | Crosswalk to verified district; no event aggregation | Missing remains missing; never use event impact as population | Training-fitted scaler | Yes | Optional | Yes | Yes if vintage verified | No | Current IFI aggregate reference period is unknown |
+## 2. CURRENT APPROVED M2 BASELINE FEATURE CONTRACT
 
-## Explicit exclusions
+The current Member 2 modeling baseline is frozen and preserved exactly as configured in `src/backend_api.py`:
 
-`uei`, `unnamed_0`, `event_souce_id`, `district_lgd_codes`, `state_codes`, `start_date`, `end_date`, `duration_days`, `severity`, `area_affected`, `human_fatality`, `human_injured`, `human_displaced`, `animal_fatality`, `description_of_casualties_injured`, `extent_of_damage`, `mean_flood_duration`, `percent_flooded_area`, and `corrected_percent_flooded_area` are not predictive features. They are identifiers, timing fields, outcomes, post-event impacts, or unverified aggregates.
+```python
+BASELINE_REQUIRED_FEATURES = ["Population", "Parmanent_Water"]
+TARGET_COL = "Corrected_Percent_Flooded_Area"
+```
 
-`main_cause`, `districts`, `state`, `dist_name`, `location`, `latitude`, `longitude`, and `event_source` remain `UNKNOWN / REQUIRES VERIFICATION` or are event-record metadata. They are not in the canonical feature order.
+### Exact Feature Specifications
+
+| Order | Feature Name | Accepted Aliases | Data Type | Physical Meaning | Source / Provenance | Min Value | Max Value | Imputation / Missing Handling |
+|---|---|---|---|---|---|---|---|---|
+| **1** | **`Population`** | `population`, `pop`, `population_baseline` | `float32` / `int64` | Baseline district population (demographic exposure metric) | IFI `District_FloodImpact.csv` / Census 2011 static features | 7,110 | 13,403,998 | Impute with training median ($500,000.0$). Never use event casualties. |
+| **2** | **`Parmanent_Water`** | `parmanent_water`, `permanent_water`, `water_body` | `float32` | Baseline percentage of district covered by permanent water bodies | IFI `District_FloodedArea.csv` | 0.00% | 29.67% | Impute with training median ($1.20\%$). |
+
+### Invariants for M2 Baseline
+1. **Exact Feature Order**: `[Population, Parmanent_Water]`.
+2. **Dimension**: Exactly 2 input features per observation row.
+3. **Target Isolation**: `Corrected_Percent_Flooded_Area` is strictly the prediction outcome target and must **NEVER** enter the input feature vector.
+4. **Zero External Dependencies**: The M2 baseline runs locally without requiring ERA5-Land downloads or satellite raster processing.
+
+---
+
+## 3. FUTURE ENHANCEMENT FEATURES (Deferred Beyond Hackathon Baseline)
+
+These features are architected and implemented in the observation-frame infrastructure (`src/feature_engineering/`) for future advanced sequence/spatial models:
+
+| Feature Name | Intended Role | Source | Status | Blocker / Deferral Reason |
+|---|---|---|---|---|
+| `rainfall_total_mm_7d` | 7-day antecedent rainfall depth ($mm$) | ECMWF ERA5-Land | `FUTURE ENHANCEMENT` | Requires 2014–2023 ERA5-Land bulk download completion. |
+| `rainfall_total_mm_26w` | 26-week antecedent saturation ($mm$) | ECMWF ERA5-Land | `FUTURE ENHANCEMENT` | Requires 2014-H2 antecedent reanalysis download completion. |
+| `rainfall_max_daily_mm_7d` | Peak single-day storm intensity ($mm/day$) | ECMWF ERA5-Land | `FUTURE ENHANCEMENT` | Requires ERA5-Land bulk hourly download completion. |
+| `district_area_sq_km` | Official polygon planar area ($km^2$) | Census 2011 GIS | `COMPLETED` | Extracted and available in `district_static_features.csv`. |
+| `centroid_lat`, `centroid_lon` | Geometric centroid coordinates | Census 2011 GIS | `COMPLETED` | Extracted and available in `district_static_features.csv`. |
+| `elevation_m` | Mean district elevation | SRTM DEM | `FUTURE ENHANCEMENT` | Raster processing deferred to spatial phase. |
+| `land_cover_fraction` | Zonal vegetation/urban fractions | Copernicus LULC | `FUTURE ENHANCEMENT` | Raster processing deferred to spatial phase. |
+
+*Explicit Notice: ERA5-Land rainfall and GFM independent observation integration are deferred future enhancements and are NOT part of the current M2 baseline.*
+
+---
+
+## 4. FORBIDDEN COLUMNS & LEAKAGE EXCLUSIONS
+
+The following columns are strictly prohibited from entering any feature matrix:
+
+1. **Target Variables**:
+   - `Corrected_Percent_Flooded_Area` (Current M2 Target)
+   - `Percent_Flooded_Area` (Uncorrected counterpart; leaking target)
+   - `flood_binary` (Provisional classification target)
+   - `severity_score`, `severity_class` (Provisional severity targets)
+2. **Post-Event Casualties and Outcomes**:
+   - `human_fatality`, `human_injured`, `human_displaced`, `animal_fatality`
+   - `extent_of_damage`, `description_of_casualties_injured`, `area_affected`
+   - `duration_days`, `mean_flood_duration`
+3. **Event Identifiers & Timing Boundaries**:
+   - `uei` (Unique Event Identifier — fatal event identity leakage)
+   - `start_date`, `end_date`, `forecast_start`, `forecast_end`
+   - `unnamed_0`, `event_souce_id`, `event_source`, `location`
