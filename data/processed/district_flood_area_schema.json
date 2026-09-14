@@ -1,0 +1,26 @@
+{
+  "task": "district-level regression",
+  "target": "Corrected_Percent_Flooded_Area",
+  "features": [
+    "Population",
+    "Parmanent_Water"
+  ],
+  "input_shape": [
+    "batch",
+    1,
+    2
+  ],
+  "source_files": [
+    "India_Flood_Inventory_v3.csv",
+    "District_FloodImpact.csv",
+    "District_FloodedArea.csv"
+  ],
+  "excluded_ambiguous_duplicate_keys": [
+    "aurangabad",
+    "balrampur",
+    "bilaspur",
+    "hamirpur",
+    "pratapgarh",
+    "raigarh"
+  ]
+}

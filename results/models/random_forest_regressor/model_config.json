@@ -1,0 +1,8 @@
+{
+  "model": "Random Forest Regressor",
+  "task": "regression",
+  "features": [
+    "Population",
+    "Parmanent_Water"
+  ]
+}

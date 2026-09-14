@@ -1,0 +1,41 @@
+[
+  {
+    "split": "train",
+    "sample_count": 157126,
+    "positive_count": 11269,
+    "unknown_count": 145857,
+    "positive_pct": 7.17,
+    "distinct_districts": 502,
+    "date_range": [
+      "2015-01-04",
+      "2020-12-27"
+    ],
+    "mean_positive_severity_score": 48.19
+  },
+  {
+    "split": "val",
+    "sample_count": 39156,
+    "positive_count": 1421,
+    "unknown_count": 37735,
+    "positive_pct": 3.63,
+    "distinct_districts": 502,
+    "date_range": [
+      "2021-01-03",
+      "2022-06-26"
+    ],
+    "mean_positive_severity_score": 53.7
+  },
+  {
+    "split": "test",
+    "sample_count": 39658,
+    "positive_count": 1495,
+    "unknown_count": 38163,
+    "positive_pct": 3.77,
+    "distinct_districts": 502,
+    "date_range": [
+      "2022-07-03",
+      "2023-12-31"
+    ],
+    "mean_positive_severity_score": 47.1
+  }
+]

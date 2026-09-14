@@ -1,0 +1,3 @@
+Model,Status,IoU,Dice_F1,Precision,Recall,Pixel_Accuracy,Loss,Inference_Time
+U-Net + ConvLSTM,NOT TRAINED,,,,,,,
+Attention U-Net + LSTM,NOT TRAINED,,,,,,,

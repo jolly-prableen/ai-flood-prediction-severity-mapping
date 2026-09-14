@@ -1,0 +1,35 @@
+{
+  "member": "Member 2 - AI Models + Evaluation",
+  "baseline_experiment": {
+    "dataset": "data/processed/district_flood_area_regression.csv",
+    "features": ["Population", "Parmanent_Water"],
+    "target": "Corrected_Percent_Flooded_Area",
+    "input_shape": ["N", 1, 2],
+    "split": [503, 108, 109],
+    "models": ["CNN + LSTM", "CNN + Transformer", "ResNet + BiLSTM", "Linear Regression", "Random Forest Regressor"]
+  },
+  "cross_validation": {
+    "artifact": "results/cv_regression_results.csv",
+    "folds": 10,
+    "selection_or_test_use": "not used to alter protected baseline checkpoints"
+  },
+  "error_analysis": {
+    "artifact": "results/evaluation/member2_error_analysis.json",
+    "test_rows": 109,
+    "sensitivity_method": "repeated permutation MAE increase; not SHAP and not causal"
+  },
+  "underfitting_experiment": {
+    "artifact": "results/experiments/underfitting_correction/experiment_summary.json",
+    "selection": "minimum validation MAE per architecture",
+    "test_isolation": true,
+    "underfitting_remains_for_all_selected_models": true
+  },
+  "spatial_models": {
+    "U-Net + ConvLSTM": "implemented, not trained",
+    "Attention U-Net + LSTM": "implemented, not trained",
+    "reason": "No legitimate verified temporal raster/image sequence dataset with corresponding flood masks was available."
+  },
+  "protected_checkpoints_modified": false,
+  "member1_work_performed": false,
+  "dashboard_work_performed": false
+}

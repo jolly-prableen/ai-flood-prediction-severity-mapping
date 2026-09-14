@@ -1,0 +1,9 @@
+Model,Experiment,Task,MAE,MSE,RMSE,R2,Mean_Bias,Median_Absolute_Error,Maximum_Absolute_Error,Selection_Status,Conclusion
+CNN + LSTM,Protected baseline,regression,2.433762,,3.376278,0.074452,,,,protected reference,baseline
+CNN + Transformer,Protected baseline,regression,2.427292,,3.454255,0.031206,,,,protected reference,baseline
+ResNet + BiLSTM,Protected baseline,regression,2.296399,,3.359883,0.083419,,,,protected reference,baseline
+Linear Regression,Protected baseline,regression,2.567885,,3.585889,-0.044038,,,,reference baseline,baseline
+Random Forest Regressor,Protected baseline,regression,2.416081,,3.534304,-0.014216,,,,reference baseline,baseline
+CNN + LSTM,Underfitting correction,regression,2.410747,11.396679,3.375897,0.074661,0.113967,1.593996,15.430599,selected by validation MAE,small improvement across all three primary metrics
+CNN + Transformer,Underfitting correction,regression,2.373542,12.028361,3.468193,0.023372,0.192477,1.538368,15.437382,selected by validation MAE,MAE improved but RMSE and R2 degraded; protected baseline preferable
+ResNet + BiLSTM,Underfitting correction,regression,2.291087,11.215674,3.348981,0.089357,-0.211079,1.448460,15.564042,selected by validation MAE,slight improvement across all three primary metrics

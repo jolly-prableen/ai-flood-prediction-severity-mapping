@@ -1,0 +1,487 @@
+{
+  "task": "Member 2 baseline district flooded-area regression",
+  "test_rows": 109,
+  "test_indices": [
+    483,
+    5,
+    597,
+    683,
+    442,
+    649,
+    385,
+    332,
+    359,
+    590,
+    504,
+    690,
+    375,
+    114,
+    170,
+    123,
+    301,
+    615,
+    602,
+    657,
+    508,
+    599,
+    221,
+    111,
+    475,
+    484,
+    329,
+    279,
+    277,
+    349,
+    685,
+    187,
+    65,
+    699,
+    611,
+    583,
+    69,
+    410,
+    637,
+    177,
+    707,
+    117,
+    586,
+    372,
+    10,
+    628,
+    63,
+    500,
+    1,
+    42,
+    634,
+    529,
+    167,
+    76,
+    313,
+    296,
+    502,
+    490,
+    543,
+    641,
+    673,
+    617,
+    290,
+    212,
+    555,
+    693,
+    672,
+    317,
+    57,
+    535,
+    272,
+    15,
+    432,
+    503,
+    621,
+    137,
+    287,
+    451,
+    528,
+    300,
+    622,
+    195,
+    34,
+    286,
+    314,
+    547,
+    333,
+    182,
+    49,
+    518,
+    102,
+    687,
+    651,
+    41,
+    553,
+    366,
+    534,
+    275,
+    675,
+    303,
+    113,
+    437,
+    491,
+    526,
+    141,
+    706,
+    548,
+    609,
+    648
+  ],
+  "features": [
+    "Population",
+    "Parmanent_Water"
+  ],
+  "target": "Corrected_Percent_Flooded_Area",
+  "models_evaluated": [
+    "CNN + LSTM",
+    "CNN + Transformer",
+    "ResNet + BiLSTM",
+    "Linear Regression",
+    "Random Forest Regressor"
+  ],
+  "best_model_by_mae": "ResNet + BiLSTM",
+  "worst_model_by_mae": "Linear Regression",
+  "metrics": [
+    {
+      "Model": "ResNet + BiLSTM",
+      "MAE": 2.296399433343619,
+      "MSE": 11.288813964075809,
+      "RMSE": 3.359883028332357,
+      "R2": 0.08341888475292347,
+      "Mean_Error_Bias": -0.19882234971757023,
+      "Median_Absolute_Error": 1.3762657136938476,
+      "Maximum_Absolute_Error": 15.774067020998537,
+      "Error_Actual_Correlation": 0.7425590614153382,
+      "Overprediction_Count": 68,
+      "Underprediction_Count": 41,
+      "Exact_Match_Count": 0
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "MAE": 2.4160814305299434,
+      "MSE": 12.491308092411899,
+      "RMSE": 3.534304470813444,
+      "R2": -0.014216120371247642,
+      "Mean_Error_Bias": 0.2630282772576764,
+      "Median_Absolute_Error": 1.5424390457723538,
+      "Maximum_Absolute_Error": 16.526166601763308,
+      "Error_Actual_Correlation": 0.5596690950110382,
+      "Overprediction_Count": 71,
+      "Underprediction_Count": 38,
+      "Exact_Match_Count": 0
+    },
+    {
+      "Model": "CNN + Transformer",
+      "MAE": 2.4272923582323758,
+      "MSE": 11.93187525141968,
+      "RMSE": 3.4542546593179373,
+      "R2": 0.031206328695080665,
+      "Mean_Error_Bias": 0.27203330083425203,
+      "Median_Absolute_Error": 1.6705457872298584,
+      "Maximum_Absolute_Error": 15.451525307283937,
+      "Error_Actual_Correlation": 0.5473214793298724,
+      "Overprediction_Count": 70,
+      "Underprediction_Count": 39,
+      "Exact_Match_Count": 0
+    },
+    {
+      "Model": "CNN + LSTM",
+      "MAE": 2.4337615776151984,
+      "MSE": 11.399250727687727,
+      "RMSE": 3.376277643750248,
+      "R2": 0.07445211000778063,
+      "Mean_Error_Bias": 0.1690118595845795,
+      "Median_Absolute_Error": 1.6561959980218506,
+      "Maximum_Absolute_Error": 15.373348808870851,
+      "Error_Actual_Correlation": 0.674391584947834,
+      "Overprediction_Count": 73,
+      "Underprediction_Count": 36,
+      "Exact_Match_Count": 0
+    },
+    {
+      "Model": "Linear Regression",
+      "MAE": 2.5678849382628175,
+      "MSE": 12.858600047617818,
+      "RMSE": 3.5858890177496874,
+      "R2": -0.04403793079307272,
+      "Mean_Error_Bias": 0.24120317235699792,
+      "Median_Absolute_Error": 2.0805272521264646,
+      "Maximum_Absolute_Error": 15.285212612734377,
+      "Error_Actual_Correlation": 0.6621112788058418,
+      "Overprediction_Count": 72,
+      "Underprediction_Count": 37,
+      "Exact_Match_Count": 0
+    }
+  ],
+  "largest_errors": [
+    {
+      "test_position": 36,
+      "source_row": 69,
+      "actual": 17.33980856,
+      "predicted": 0.8136419582366944,
+      "error": -16.526166601763308,
+      "absolute_error": 16.526166601763308,
+      "model": "Random Forest Regressor"
+    },
+    {
+      "test_position": 36,
+      "source_row": 69,
+      "actual": 17.33980856,
+      "predicted": 1.5657415390014648,
+      "error": -15.774067020998537,
+      "absolute_error": 15.774067020998537,
+      "model": "ResNet + BiLSTM"
+    },
+    {
+      "test_position": 36,
+      "source_row": 69,
+      "actual": 17.33980856,
+      "predicted": 1.8882832527160645,
+      "error": -15.451525307283937,
+      "absolute_error": 15.451525307283937,
+      "model": "CNN + Transformer"
+    },
+    {
+      "test_position": 36,
+      "source_row": 69,
+      "actual": 17.33980856,
+      "predicted": 1.9664597511291504,
+      "error": -15.373348808870851,
+      "absolute_error": 15.373348808870851,
+      "model": "CNN + LSTM"
+    },
+    {
+      "test_position": 36,
+      "source_row": 69,
+      "actual": 17.33980856,
+      "predicted": 2.054595947265625,
+      "error": -15.285212612734377,
+      "absolute_error": 15.285212612734377,
+      "model": "Linear Regression"
+    },
+    {
+      "test_position": 24,
+      "source_row": 475,
+      "actual": 2.98522873,
+      "predicted": 14.253530502319336,
+      "error": 11.268301772319337,
+      "absolute_error": 11.268301772319337,
+      "model": "Linear Regression"
+    },
+    {
+      "test_position": 42,
+      "source_row": 586,
+      "actual": 11.48765717,
+      "predicted": 0.7886223146319389,
+      "error": -10.699034855368062,
+      "absolute_error": 10.699034855368062,
+      "model": "Random Forest Regressor"
+    },
+    {
+      "test_position": 74,
+      "source_row": 621,
+      "actual": 13.30007152,
+      "predicted": 3.10343074798584,
+      "error": -10.19664077201416,
+      "absolute_error": 10.19664077201416,
+      "model": "ResNet + BiLSTM"
+    },
+    {
+      "test_position": 74,
+      "source_row": 621,
+      "actual": 13.30007152,
+      "predicted": 3.644585609436035,
+      "error": -9.655485910563964,
+      "absolute_error": 9.655485910563964,
+      "model": "Linear Regression"
+    },
+    {
+      "test_position": 42,
+      "source_row": 586,
+      "actual": 11.48765717,
+      "predicted": 1.8738723993301392,
+      "error": -9.613784770669861,
+      "absolute_error": 9.613784770669861,
+      "model": "ResNet + BiLSTM"
+    }
+  ],
+  "error_pattern_analysis": {
+    "definition": "error = predicted - actual; positive bias means overprediction",
+    "actual_value_error_analysis": [
+      {
+        "Model": "CNN + LSTM",
+        "Actual_Bin": "(-0.000723, 0.575]",
+        "Count": 37,
+        "Mean_Absolute_Error": 2.563780060251684,
+        "Median_Absolute_Error": 1.9250880896895752
+      },
+      {
+        "Model": "CNN + LSTM",
+        "Actual_Bin": "(0.575, 2.731]",
+        "Count": 35,
+        "Mean_Absolute_Error": 1.1872053803432723,
+        "Median_Absolute_Error": 0.7816808853541259
+      },
+      {
+        "Model": "CNN + LSTM",
+        "Actual_Bin": "(2.731, 17.34]",
+        "Count": 37,
+        "Mean_Absolute_Error": 3.482917876181888,
+        "Median_Absolute_Error": 2.652691138369507
+      },
+      {
+        "Model": "CNN + Transformer",
+        "Actual_Bin": "(-0.000723, 0.575]",
+        "Count": 37,
+        "Mean_Absolute_Error": 2.544180519438135,
+        "Median_Absolute_Error": 1.8223554221220704
+      },
+      {
+        "Model": "CNN + Transformer",
+        "Actual_Bin": "(0.575, 2.731]",
+        "Count": 35,
+        "Mean_Absolute_Error": 1.3440897860106045,
+        "Median_Absolute_Error": 0.8455773204988404
+      },
+      {
+        "Model": "CNN + Transformer",
+        "Actual_Bin": "(2.731, 17.34]",
+        "Count": 37,
+        "Mean_Absolute_Error": 3.3350552788580226,
+        "Median_Absolute_Error": 2.7979780014335933
+      },
+      {
+        "Model": "Linear Regression",
+        "Actual_Bin": "(-0.000723, 0.575]",
+        "Count": 37,
+        "Mean_Absolute_Error": 2.6534659739304463,
+        "Median_Absolute_Error": 2.42611778655896
+      },
+      {
+        "Model": "Linear Regression",
+        "Actual_Bin": "(0.575, 2.731]",
+        "Count": 35,
+        "Mean_Absolute_Error": 1.2666649139873378,
+        "Median_Absolute_Error": 1.129738632241333
+      },
+      {
+        "Model": "Linear Regression",
+        "Actual_Bin": "(2.731, 17.34]",
+        "Count": 37,
+        "Mean_Absolute_Error": 3.7131877093422654,
+        "Median_Absolute_Error": 2.326890572175781
+      },
+      {
+        "Model": "Random Forest Regressor",
+        "Actual_Bin": "(-0.000723, 0.575]",
+        "Count": 37,
+        "Mean_Absolute_Error": 2.274607352282821,
+        "Median_Absolute_Error": 1.9977979752747634
+      },
+      {
+        "Model": "Random Forest Regressor",
+        "Actual_Bin": "(0.575, 2.731]",
+        "Count": 35,
+        "Mean_Absolute_Error": 1.6804116664279258,
+        "Median_Absolute_Error": 0.5577962908862202
+      },
+      {
+        "Model": "Random Forest Regressor",
+        "Actual_Bin": "(2.731, 17.34]",
+        "Count": 37,
+        "Mean_Absolute_Error": 3.253459339684378,
+        "Median_Absolute_Error": 2.022382020051299
+      },
+      {
+        "Model": "ResNet + BiLSTM",
+        "Actual_Bin": "(-0.000723, 0.575]",
+        "Count": 37,
+        "Mean_Absolute_Error": 2.1512638207245747,
+        "Median_Absolute_Error": 1.5782200423308106
+      },
+      {
+        "Model": "ResNet + BiLSTM",
+        "Actual_Bin": "(0.575, 2.731]",
+        "Count": 35,
+        "Mean_Absolute_Error": 1.0119851019724313,
+        "Median_Absolute_Error": 0.7167775468502806
+      },
+      {
+        "Model": "ResNet + BiLSTM",
+        "Actual_Bin": "(2.731, 17.34]",
+        "Count": 37,
+        "Mean_Absolute_Error": 3.6565215756381098,
+        "Median_Absolute_Error": 2.836223198372986
+      }
+    ],
+    "interpretation": "Correlation and actual-range tables are descriptive only; this two-feature test set does not establish causation."
+  },
+  "feature_sensitivity": [
+    {
+      "Model": "CNN + LSTM",
+      "Feature": "Population",
+      "Permutation_MAE_Increase": 0.24286857131510567,
+      "Permutation_MAE_Increase_STD": 0.061260241376104356,
+      "Repeats": 10
+    },
+    {
+      "Model": "CNN + LSTM",
+      "Feature": "Parmanent_Water",
+      "Permutation_MAE_Increase": 0.14265926608359325,
+      "Permutation_MAE_Increase_STD": 0.07433764844313853,
+      "Repeats": 10
+    },
+    {
+      "Model": "CNN + Transformer",
+      "Feature": "Population",
+      "Permutation_MAE_Increase": 0.2633953828459281,
+      "Permutation_MAE_Increase_STD": 0.06670322537559335,
+      "Repeats": 10
+    },
+    {
+      "Model": "CNN + Transformer",
+      "Feature": "Parmanent_Water",
+      "Permutation_MAE_Increase": 0.27275231857480836,
+      "Permutation_MAE_Increase_STD": 0.1161243825100525,
+      "Repeats": 10
+    },
+    {
+      "Model": "ResNet + BiLSTM",
+      "Feature": "Population",
+      "Permutation_MAE_Increase": 0.24920661679962972,
+      "Permutation_MAE_Increase_STD": 0.04961112533403789,
+      "Repeats": 10
+    },
+    {
+      "Model": "ResNet + BiLSTM",
+      "Feature": "Parmanent_Water",
+      "Permutation_MAE_Increase": 0.14369367413679432,
+      "Permutation_MAE_Increase_STD": 0.08142955783876306,
+      "Repeats": 10
+    },
+    {
+      "Model": "Linear Regression",
+      "Feature": "Population",
+      "Permutation_MAE_Increase": 0.1493285692173601,
+      "Permutation_MAE_Increase_STD": 0.0379111636772716,
+      "Repeats": 10
+    },
+    {
+      "Model": "Linear Regression",
+      "Feature": "Parmanent_Water",
+      "Permutation_MAE_Increase": 0.054871851936877915,
+      "Permutation_MAE_Increase_STD": 0.05995650964541603,
+      "Repeats": 10
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "Feature": "Population",
+      "Permutation_MAE_Increase": 0.5257464903111944,
+      "Permutation_MAE_Increase_STD": 0.11532790833793877,
+      "Repeats": 10
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "Feature": "Parmanent_Water",
+      "Permutation_MAE_Increase": 0.41920095761417964,
+      "Permutation_MAE_Increase_STD": 0.1502241774234964,
+      "Repeats": 10
+    }
+  ],
+  "limitations": [
+    "Only two predictors are available, so sensitivity is permutation MAE increase, not SHAP.",
+    "Permutation sensitivity is measured on the untouched test rows without fitting.",
+    "This analysis does not establish causal feature importance.",
+    "No model was retrained and no checkpoint was written."
+  ],
+  "checkpoint_sha256": {
+    "CNN + LSTM": "13638cb6139bd4ec1b772834505c4a6228559bd14330a26947e8448e1bb9fa57",
+    "CNN + Transformer": "e24feaa579c8e9a6d4a8c63576816ef6268467ba398719f3b08e76daee93986c",
+    "ResNet + BiLSTM": "6c127ef92be23e48cc382341a7a3f60108f5edf54ff15597033b7fb6bf07c9d6"
+  }
+}

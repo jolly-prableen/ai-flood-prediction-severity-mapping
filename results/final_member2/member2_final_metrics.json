@@ -1,0 +1,27 @@
+{
+  "task": "district-level flooded-area regression",
+  "dataset": "data/processed/district_flood_area_regression.csv",
+  "rows": 720,
+  "features": ["Population", "Parmanent_Water"],
+  "target": "Corrected_Percent_Flooded_Area",
+  "split": {"train": 503, "validation": 108, "test": 109},
+  "protected_baseline": {
+    "CNN + LSTM": {"MAE": 2.433762, "RMSE": 3.376278, "R2": 0.074452},
+    "CNN + Transformer": {"MAE": 2.427292, "RMSE": 3.454255, "R2": 0.031206},
+    "ResNet + BiLSTM": {"MAE": 2.296399, "RMSE": 3.359883, "R2": 0.083419},
+    "Linear Regression": {"MAE": 2.567885, "RMSE": 3.585889, "R2": -0.044038},
+    "Random Forest Regressor": {"MAE": 2.416081, "RMSE": 3.534304, "R2": -0.014216}
+  },
+  "selected_underfitting_experiment": {
+    "CNN + LSTM": {"MAE": 2.410747, "MSE": 11.396679, "RMSE": 3.375897, "R2": 0.074661, "underfitting_remains": true},
+    "CNN + Transformer": {"MAE": 2.373542, "MSE": 12.028361, "RMSE": 3.468193, "R2": 0.023372, "underfitting_remains": true},
+    "ResNet + BiLSTM": {"MAE": 2.291087, "MSE": 11.215674, "RMSE": 3.348981, "R2": 0.089357, "underfitting_remains": true}
+  },
+  "current_best_model": "ResNet + BiLSTM",
+  "current_best_metrics": {"MAE": 2.291087, "RMSE": 3.348981, "R2": 0.089357},
+  "test_evaluation": "performed once after validation-only configuration selection",
+  "unet_models": {
+    "U-Net + ConvLSTM": "NOT TRAINED - DATA REQUIREMENT BLOCKER",
+    "Attention U-Net + LSTM": "NOT TRAINED - DATA REQUIREMENT BLOCKER"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "version": "1.0",
+  "prediction_unit": "district-week",
+  "historical_context_weeks": 26,
+  "prediction_horizon_days": 7,
+  "rainfall_source_status": "REQUIRES_MANUAL_VERIFICATION",
+  "rainfall_source": "IMD daily 0.25-degree gridded rainfall; no release downloaded",
+  "features": [
+    {
+      "name": "rainfall_total_mm_7d",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "IMD daily gridded rainfall",
+      "position": 1
+    },
+    {
+      "name": "rainfall_total_mm_26w",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "IMD daily gridded rainfall",
+      "position": 2
+    },
+    {
+      "name": "rainfall_max_daily_mm_7d",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "IMD daily gridded rainfall",
+      "position": 3
+    },
+    {
+      "name": "district_static_geometry",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "Verified district boundary source and crosswalk",
+      "position": 4
+    },
+    {
+      "name": "elevation_m",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "Approved DEM",
+      "position": 5
+    },
+    {
+      "name": "land_cover_fraction",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "Approved LULC product",
+      "position": 6
+    },
+    {
+      "name": "hydrology_static_or_recent",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "Approved hydrology product",
+      "position": 7
+    },
+    {
+      "name": "population_baseline",
+      "status": "REQUIRES_EXTERNAL_DATA",
+      "source": "Verified-vintage population source or IFI Population after verification",
+      "position": 8
+    }
+  ],
+  "excluded_from_feature_order": [
+    "uei",
+    "unnamed_0",
+    "event_souce_id",
+    "district_lgd_codes",
+    "state_codes",
+    "start_date",
+    "end_date",
+    "duration_days",
+    "severity",
+    "area_affected",
+    "human_fatality",
+    "human_injured",
+    "human_displaced",
+    "animal_fatality",
+    "description_of_casualties_injured",
+    "extent_of_damage",
+    "mean_flood_duration",
+    "percent_flooded_area",
+    "corrected_percent_flooded_area"
+  ]
+}

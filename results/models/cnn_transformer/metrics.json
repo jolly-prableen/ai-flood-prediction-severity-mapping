@@ -1,0 +1,13 @@
+{
+  "Model": "CNN + Transformer",
+  "Task": "regression",
+  "MAE": 2.4272923687579206,
+  "RMSE": 3.454254695469931,
+  "R2": 0.031206332413679316,
+  "Validation MAE": 2.2315233158823067,
+  "Validation RMSE": 3.449541255003368,
+  "Training Time": 9.264387299999726,
+  "Best Epoch": 21,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none"
+}

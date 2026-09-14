@@ -1,0 +1,8 @@
+{
+  "model": "ResNet + BiLSTM",
+  "task": "regression",
+  "model_kwargs": {
+    "input_dim": 2,
+    "task": "regression"
+  }
+}

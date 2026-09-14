@@ -1,0 +1,42 @@
+{
+  "dataset_name": "mwBTFreddy",
+  "subset": "Sample Subset1 (sample only, not the full dataset)",
+  "source": {
+    "url": "https://zenodo.org/records/14190390",
+    "doi": "10.5281/zenodo.14190390",
+    "record_version": "1.0",
+    "paper": "https://arxiv.org/abs/2505.01242",
+    "repository": "https://github.com/kuyeseraAi/mwBTFreddy",
+    "license": "CC-BY-4.0"
+  },
+  "download": {
+    "file": "msBTFreddy_Sample_Subset1.zip",
+    "expected_bytes": 25150734,
+    "downloaded_bytes": 25150734,
+    "size_match": true
+  },
+  "contents": {
+    "image_pairs": 10,
+    "pre_disaster_images": 10,
+    "post_disaster_images": 10,
+    "image_files": 20,
+    "json_files": 20,
+    "image_format": "GeoTIFF (tif)",
+    "image_dimensions_px": 1024,
+    "total_image_bytes": 62983560,
+    "total_json_bytes": 1364890,
+    "annotation_count": 1274,
+    "annotation_feature_type": "building",
+    "damage_subtypes": {"no-damage": 1266, "destroyed": 7, "major-damage": 1},
+    "annotation_format": "features.lng_lat: WKT polygons in lng/lat with feature_type + subtype (xView2-style damage scale)"
+  },
+  "validation": {
+    "extraction_succeeded": true,
+    "zip_integrity_check": "verify_extract_ok (20 of 20 tif magic bytes valid, pairing: every image has a matching json and vice versa)",
+    "archive_junk_removed": "__MACOSX folder deleted (macOS resource-fork metadata only)"
+  },
+  "notes": [
+    "Sample subset only (20 images); the full mwBTFreddy dataset has 696 images and is NOT included.",
+    "No targets converted, no model trained, source images and JSON annotations preserved as downloaded."
+  ]
+}

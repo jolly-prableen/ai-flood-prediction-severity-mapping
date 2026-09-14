@@ -1,0 +1,13 @@
+{
+  "Model": "ResNet + BiLSTM",
+  "Task": "regression",
+  "MAE": 2.2963994500137024,
+  "RMSE": 3.359883070675933,
+  "R2": 0.08341888435407951,
+  "Validation MAE": 2.16509003848727,
+  "Validation RMSE": 3.569584428413807,
+  "Training Time": 7.555938499999684,
+  "Best Epoch": 11,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none"
+}

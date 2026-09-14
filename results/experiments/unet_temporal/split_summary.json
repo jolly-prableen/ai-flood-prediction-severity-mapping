@@ -1,0 +1,10 @@
+{
+  "status": "NOT_CREATED",
+  "reason": "No valid temporal image/mask dataset was available.",
+  "train_sequences": null,
+  "validation_sequences": null,
+  "test_sequences": null,
+  "grouping_key": null,
+  "leakage_checks": "Not applicable before dataset acquisition and sequence manifest creation.",
+  "test_set_used": false
+}

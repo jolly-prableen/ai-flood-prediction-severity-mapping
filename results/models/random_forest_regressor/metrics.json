@@ -1,0 +1,13 @@
+{
+  "Model": "Random Forest Regressor",
+  "Task": "regression",
+  "MAE": 2.416081441707446,
+  "RMSE": 3.5343045082328404,
+  "R2": -0.014216116724862893,
+  "Validation MAE": 2.5984362670267567,
+  "Validation RMSE": 3.9971374658262664,
+  "Training Time": 0.31760399999984656,
+  "Best Epoch": null,
+  "Diagnosis": "not applicable",
+  "Correction": "not applicable"
+}

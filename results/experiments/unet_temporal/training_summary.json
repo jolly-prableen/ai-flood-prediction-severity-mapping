@@ -1,0 +1,12 @@
+{
+  "status": "NOT_TRAINED",
+  "models": {
+    "U-Net + ConvLSTM": "NOT TRAINED - genuine temporal raster sequences and masks unavailable",
+    "Attention U-Net + LSTM": "NOT TRAINED - genuine temporal raster sequences and masks unavailable"
+  },
+  "loss": null,
+  "epochs": null,
+  "early_stopping": null,
+  "training_histories": [],
+  "fabricated_metrics": false
+}

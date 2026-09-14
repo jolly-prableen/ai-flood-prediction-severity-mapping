@@ -1,0 +1,13 @@
+{
+  "Model": "CNN + LSTM",
+  "Task": "regression",
+  "MAE": 2.4337615867670297,
+  "RMSE": 3.376277683319599,
+  "R2": 0.07445211123932693,
+  "Validation MAE": 2.331373286134732,
+  "Validation RMSE": 3.56934521259246,
+  "Training Time": 5.939362800001618,
+  "Best Epoch": 29,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none"
+}

@@ -1,0 +1,74 @@
+{
+  "task": "district-level regression",
+  "rows": [
+    {
+      "Model": "CNN + LSTM",
+      "Task": "regression",
+      "MAE": 2.4337615867670297,
+      "RMSE": 3.376277683319599,
+      "R2": 0.07445211123932693,
+      "Validation MAE": 2.331373286134732,
+      "Validation RMSE": 3.56934521259246,
+      "Training Time": 5.939362800001618,
+      "Best Epoch": 29,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none"
+    },
+    {
+      "Model": "CNN + Transformer",
+      "Task": "regression",
+      "MAE": 2.4272923687579206,
+      "RMSE": 3.454254695469931,
+      "R2": 0.031206332413679316,
+      "Validation MAE": 2.2315233158823067,
+      "Validation RMSE": 3.449541255003368,
+      "Training Time": 9.264387299999726,
+      "Best Epoch": 21,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none"
+    },
+    {
+      "Model": "ResNet + BiLSTM",
+      "Task": "regression",
+      "MAE": 2.2963994500137024,
+      "RMSE": 3.359883070675933,
+      "R2": 0.08341888435407951,
+      "Validation MAE": 2.16509003848727,
+      "Validation RMSE": 3.569584428413807,
+      "Training Time": 7.555938499999684,
+      "Best Epoch": 11,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none"
+    },
+    {
+      "Model": "Linear Regression",
+      "Task": "regression",
+      "MAE": 2.567885160446167,
+      "RMSE": 3.585888964089764,
+      "R2": -0.044037818908691406,
+      "Validation MAE": 2.4982118606567383,
+      "Validation RMSE": 3.710108228683158,
+      "Training Time": 0.012981800000488875,
+      "Best Epoch": null,
+      "Diagnosis": "not applicable",
+      "Correction": "not applicable"
+    },
+    {
+      "Model": "Random Forest Regressor",
+      "Task": "regression",
+      "MAE": 2.416081441707446,
+      "RMSE": 3.5343045082328404,
+      "R2": -0.014216116724862893,
+      "Validation MAE": 2.5984362670267567,
+      "Validation RMSE": 3.9971374658262664,
+      "Training Time": 0.31760399999984656,
+      "Best Epoch": null,
+      "Diagnosis": "not applicable",
+      "Correction": "not applicable"
+    }
+  ],
+  "spatial_models": {
+    "U-Net + ConvLSTM": "PENDING SPATIAL DATA",
+    "Attention U-Net + LSTM": "PENDING SPATIAL DATA"
+  }
+}

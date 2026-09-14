@@ -1,158 +1,109 @@
-﻿import os
-import glob
-import json
-import torch
+"""Thin dashboard adapter over the real Member 2 inference pipeline."""
+from __future__ import annotations
+
+from pathlib import Path
+
 import pandas as pd
-import numpy as np
 
-# Directory mapping for Member 2 model checkpoints and results
-MODEL_DIR = os.path.abspath("results/models")
+from src.inference.dataset_adapter import adapt_uploaded_dataset
+from src.inference.predictor import predict_uploaded_dataset as member2_predict
 
-# Current Baseline Feature Contract (Member 1 Integration Pending)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+MODEL_ROOT = PROJECT_ROOT / "results" / "models"
 BASELINE_REQUIRED_FEATURES = ["Population", "Parmanent_Water"]
 TARGET_COL = "Corrected_Percent_Flooded_Area"
-
-# Alias mapping for baseline inputs
-FEATURE_ALIASES = {
-    "population": "Population",
-    "pop": "Population",
-    "permanent_water": "Parmanent_Water",
-    "parmanent_water": "Parmanent_Water",
-    "water_body": "Parmanent_Water"
+TRAINED_MODELS = {
+    "CNN + LSTM": MODEL_ROOT / "cnn_lstm" / "best_model.pt",
+    "CNN + Transformer": MODEL_ROOT / "cnn_transformer" / "best_model.pt",
+    "ResNet + BiLSTM": MODEL_ROOT / "resnet_bilstm" / "best_model.pt",
+}
+PLANNED_MODELS = {
+    "U-Net + ConvLSTM": "Not trained - spatial/raster sequence data required",
+    "Attention U-Net + LSTM": "Not trained - spatial/raster sequence data required",
 }
 
-TRAINED_MODELS = ["CNN + LSTM", "CNN + Transformer", "ResNet + BiLSTM"]
-PLANNED_MODELS = ["U-Net + ConvLSTM", "Attention U-Net + LSTM"]
 
-def get_supported_tasks():
-    return ["Flood Risk Prediction", "Severity Mapping"]
+def get_supported_tasks() -> list[str]:
+    return ["District flooded-area regression"]
 
-def get_available_models():
-    """Detects actual trained model checkpoints under results/models/"""
-    available = []
-    if not os.path.exists(MODEL_DIR):
-        return available
 
-    for model_name in TRAINED_MODELS:
-        # Search for actual best_model.pt in model subdirectories
-        folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
-        checkpoint_path = os.path.join(MODEL_DIR, folder_slug, "best_model.pt")
-        
-        if os.path.exists(checkpoint_path):
-            available.append(model_name)
-    return available
+def get_available_models() -> list[str]:
+    return [name for name, path in TRAINED_MODELS.items() if path.is_file()]
 
-def get_model_metrics():
-    """Reads actual trained metrics from results/models/*/metrics.json"""
-    metrics_list = []
-    for model_name in TRAINED_MODELS:
-        folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
-        metrics_path = os.path.join(MODEL_DIR, folder_slug, "metrics.json")
-        
-        if os.path.exists(metrics_path):
-            try:
-                with open(metrics_path, "r") as f:
-                    data = json.load(f)
-                    data["Model"] = model_name
-                    metrics_list.append(data)
-            except Exception:
-                pass
-    
-    if not metrics_list:
-        return pd.DataFrame(columns=["Model", "Accuracy", "Precision", "Recall", "ROC-AUC"])
-    return pd.DataFrame(metrics_list)
 
-def inspect_dataset(df):
+def get_model_status() -> dict[str, str]:
+    status = {name: "trained" if name in get_available_models() else "unavailable"
+              for name in TRAINED_MODELS}
+    status.update({name: "unavailable" for name in PLANNED_MODELS})
+    return status
+
+
+def get_model_metrics() -> pd.DataFrame:
+    path = PROJECT_ROOT / "results" / "model_comparison.csv"
+    if not path.is_file():
+        return pd.DataFrame()
+    frame = pd.read_csv(path)
+    return frame[frame["Model"].isin(TRAINED_MODELS)].copy()
+
+
+def inspect_dataset(frame: pd.DataFrame) -> dict:
     return {
-        "num_rows": len(df),
-        "num_columns": len(df.columns),
-        "columns": list(df.columns),
-        "dtypes": {col: str(dtype) for col, dtype in df.dtypes.items()}
+        "num_rows": len(frame),
+        "num_columns": len(frame.columns),
+        "columns": list(frame.columns),
+        "dtypes": {column: str(dtype) for column, dtype in frame.dtypes.items()},
     }
 
-def adapt_dataset(df, model_name, task):
-    """Maps columns according to current baseline feature contract"""
-    mapped_df = df.copy()
-    mapping_applied = {}
 
-    for col in df.columns:
-        clean_col = col.strip().lower()
-        if clean_col in FEATURE_ALIASES:
-            target_name = FEATURE_ALIASES[clean_col]
-            if target_name not in mapped_df.columns:
-                mapped_df[target_name] = mapped_df[col]
-                mapping_applied[col] = target_name
-
-    return mapped_df, mapping_applied
-
-def check_compatibility(df, model_name, task):
-    warnings = []
-    
-    if model_name in PLANNED_MODELS:
-        return {
-            "is_compatible": False,
-            "missing_features": [],
-            "warnings": [f"Architecture '{model_name}' is planned for spatial/raster evaluation but not yet trained."]
+def adapt_dataset(frame: pd.DataFrame, model_name: str | None = None,
+                   task: str | None = None) -> tuple[pd.DataFrame, dict[str, str]]:
+    original_columns = list(frame.columns)
+    adapted = adapt_uploaded_dataset(frame)
+    mapping = {
+        source: target for source, target in zip(original_columns, adapted.columns)
+        if source != target and source.strip().casefold() in {
+            "population", "permanent_water", "parmanent_water"
         }
-
-    available = get_available_models()
-    if model_name not in available:
-        return {
-            "is_compatible": False,
-            "missing_features": [],
-            "warnings": [f"Model '{model_name}' is not trained / unavailable in results/models/."]
-        }
-
-    missing = [feat for feat in BASELINE_REQUIRED_FEATURES if feat not in df.columns]
-
-    return {
-        "is_compatible": len(missing) == 0,
-        "missing_features": missing,
-        "warnings": warnings
     }
+    return adapted, mapping
 
-def predict_uploaded_dataset(df, model_name, task):
-    """Invokes actual Member 2 PyTorch model checkpoint for inference"""
-    available = get_available_models()
-    if model_name not in available:
-        raise ValueError(f"Model '{model_name}' is Not trained / unavailable.")
 
-    folder_slug = model_name.lower().replace(" ", "_").replace("+", "plus")
-    checkpoint_path = os.path.join(MODEL_DIR, folder_slug, "best_model.pt")
-
-    # Load actual inputs matching the current contract
-    X_input = df[BASELINE_REQUIRED_FEATURES].values.astype(np.float32)
-
-    # Load trained model checkpoint
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = torch.load(checkpoint_path, map_location=device)
-    model.eval()
-
-    with torch.no_grad():
-        tensor_input = torch.tensor(X_input).to(device)
-        outputs = model(tensor_input)
-        
-        # Format predictions depending on tensor shape
-        if outputs.ndim > 1 and outputs.shape[1] > 1:
-            probs = torch.softmax(outputs, dim=1)[:, 1].cpu().numpy()
-        else:
-            probs = torch.sigmoid(outputs).squeeze().cpu().numpy()
-
-        # Handle single row inference outputs
-        probs = np.atleast_1d(probs)
-        preds = (probs >= 0.5).astype(int)
-
-    return {
-        "probabilities": probs.tolist(),
-        "predictions": preds.tolist()
-    }
-
-def retrain_model(df, model_name, task, params):
-    """Triggers retraining module for Member 2 models"""
+def check_compatibility(frame: pd.DataFrame, model_name: str,
+                        task: str | None = None) -> dict:
     if model_name in PLANNED_MODELS:
-        return {"message": f"Retraining unavailable: {model_name} spatial pipeline pending.", "metrics": {}}
-        
-    return {
-        "message": f"Retraining request dispatched to backend for {model_name}.",
-        "metrics": {"epochs": params.get("epochs"), "status": "Queued"}
-    }
+        return {"is_compatible": False, "missing_features": [],
+                "warnings": [PLANNED_MODELS[model_name]]}
+    if model_name not in TRAINED_MODELS:
+        return {"is_compatible": False, "missing_features": [],
+                "warnings": [f"Unknown model: {model_name}"]}
+    if model_name not in get_available_models():
+        return {"is_compatible": False, "missing_features": [],
+                "warnings": [f"No trained checkpoint found for {model_name}"]}
+    try:
+        adapt_uploaded_dataset(frame)
+    except ValueError as error:
+        message = str(error)
+        missing = [feature for feature in BASELINE_REQUIRED_FEATURES if feature not in frame.columns]
+        return {"is_compatible": False, "missing_features": missing,
+                "warnings": [message]}
+    return {"is_compatible": True, "missing_features": [], "warnings": []}
+
+
+def predict_uploaded_dataset(frame: pd.DataFrame, model_name: str,
+                             task: str | None = None) -> dict:
+    if model_name in PLANNED_MODELS:
+        return {"status": "unavailable", "task": "regression", "model": model_name,
+                "prediction": [], "metrics": {}, "warnings": [PLANNED_MODELS[model_name]]}
+    if model_name not in TRAINED_MODELS:
+        raise ValueError(f"Unknown or unavailable model: {model_name}")
+    compatible = check_compatibility(frame, model_name, task)
+    if not compatible["is_compatible"]:
+        return {"status": "INCOMPATIBLE", "task": "regression", "model": model_name,
+                "prediction": [], "metrics": {}, "warnings": compatible["warnings"]}
+    return member2_predict(model_name, frame, checkpoint_path=TRAINED_MODELS[model_name],
+                           task="regression")
+
+
+def retrain_model(*args, **kwargs) -> dict:
+    return {"status": "unavailable", "message": "Retraining is disabled in the dashboard.",
+            "metrics": {}, "warnings": ["Use the explicit Member 2 training command outside the dashboard."]}

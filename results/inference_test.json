@@ -1,0 +1,23 @@
+{
+  "test_rows": 109,
+  "models": {
+    "CNN + LSTM": {
+      "status": "success",
+      "task": "regression",
+      "prediction_count": 109,
+      "inference_time": 0.01897639999879175
+    },
+    "CNN + Transformer": {
+      "status": "success",
+      "task": "regression",
+      "prediction_count": 109,
+      "inference_time": 0.01969939999980852
+    },
+    "ResNet + BiLSTM": {
+      "status": "success",
+      "task": "regression",
+      "prediction_count": 109,
+      "inference_time": 0.01321029999962775
+    }
+  }
+}

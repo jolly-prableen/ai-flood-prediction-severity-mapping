@@ -1,0 +1,8 @@
+{
+  "task": "regression",
+  "training_time": 0.012981800000488875,
+  "validation_metrics": {
+    "mae": 2.4982118606567383,
+    "rmse": 3.710108228683158
+  }
+}

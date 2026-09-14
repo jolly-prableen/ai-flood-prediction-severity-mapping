@@ -1,0 +1,31 @@
+{
+  "dataset": "data/processed/district_flood_area_regression.csv",
+  "status": "restored_from_deterministic_existing_script",
+  "source_script": "src/datasets/prepare_ifi.py",
+  "source_raw_files": [
+    "data/raw/India_Flood_Inventory_v3.csv",
+    "data/raw/District_FloodImpact.csv",
+    "data/raw/District_FloodedArea.csv"
+  ],
+  "rows": 720,
+  "columns": [
+    "district_key",
+    "Dist_Name",
+    "Population",
+    "Parmanent_Water",
+    "Corrected_Percent_Flooded_Area"
+  ],
+  "features": ["Population", "Parmanent_Water"],
+  "target": "Corrected_Percent_Flooded_Area",
+  "input_shape": ["batch", 1, 2],
+  "split": {
+    "path": "data/splits/district_flood_area_split.json",
+    "content_match": true,
+    "train_rows": 503,
+    "validation_rows": 108,
+    "test_rows": 109
+  },
+  "sha256": "071101115DA53D8F82B9CB5CD62E101B77CE87CA0D589EBD6BCE00537C633E32",
+  "baseline_models_modified": false,
+  "baseline_retrained": false
+}

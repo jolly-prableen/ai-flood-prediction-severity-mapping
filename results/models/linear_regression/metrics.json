@@ -1,0 +1,13 @@
+{
+  "Model": "Linear Regression",
+  "Task": "regression",
+  "MAE": 2.567885160446167,
+  "RMSE": 3.585888964089764,
+  "R2": -0.044037818908691406,
+  "Validation MAE": 2.4982118606567383,
+  "Validation RMSE": 3.710108228683158,
+  "Training Time": 0.012981800000488875,
+  "Best Epoch": null,
+  "Diagnosis": "not applicable",
+  "Correction": "not applicable"
+}

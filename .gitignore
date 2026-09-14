@@ -1,6 +1,50 @@
-﻿__pycache__/
-*.pyc
-.env
-venv/
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
 .venv/
+venv/
+env/
+ENV/
+
+# --- IDE / editor ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- OS metadata ---
+.DS_Store
+Thumbs.db
+
+# --- Streamlit ---
 .streamlit/secrets.toml
+
+# --- Secrets & credentials ---
+.env
+.env.*
+!.env.example
+*.env
+cdsapirc
+~/.cdsapirc
+*_API_KEY
+*_KEY
+*_TOKEN
+
+# --- Logs & temporary files ---
+*.log
+*.tmp
+*.pid
+*.bak
+
+# --- Local-only large artifact (161 MB, exceeds GitHub 100 MB per-file limit) ---
+data/raw/custom_flood_datasets/mwBTFreddy_v1.0_full.zip
+
+# --- Legacy prototype artifacts ---
+results/archive/legacy_remote_checkpoints/

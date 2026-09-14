@@ -1,0 +1,8 @@
+{
+  "features": [
+    "Population",
+    "Parmanent_Water"
+  ],
+  "target": "Corrected_Percent_Flooded_Area",
+  "sequence_length": 1
+}

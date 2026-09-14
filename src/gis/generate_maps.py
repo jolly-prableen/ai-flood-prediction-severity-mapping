@@ -1,56 +1,50 @@
-import os
+"""GIS scaffold for actual flooded-area regression predictions."""
+from __future__ import annotations
+
+from pathlib import Path
+
 import folium
 import geopandas as gpd
 import pandas as pd
 
 
-def generate_interactive_alert_map(geojson_path, predictions_csv_path, output_html_path):
+def generate_interactive_prediction_map(geojson_path, predictions_csv_path, output_html_path):
+    """Render actual regression predictions only when a validated join key exists.
+
+    The prediction CSV must contain ``district_lgd_code`` and
+    ``predicted_corrected_percent_flooded_area``. No probability conversion or
+    segmentation interpretation is performed.
     """
-    Combines GeoJSON geometry with flood probability predictions to output an interactive Folium map.
-    """
-    if not os.path.exists(geojson_path) or not os.path.exists(predictions_csv_path):
-        print("Missing GeoJSON or predictions file. Script ready for integration.")
-        return
-
-    gdf = gpd.read_file(geojson_path)
-    preds = pd.read_csv(predictions_csv_path)
-
-    # Merge spatial data with model outputs
-    merged = gdf.merge(preds, on="district_lgd_code", how="left")
-
-    # Center map on spatial bounds
-    centroid = merged.geometry.unary_union.centroid
-    m = folium.Map(location=[centroid.y, centroid.x], zoom_start=7, tiles="cartodbpositron")
-
-    def get_color(prob):
-        if pd.isna(prob):
-            return "gray"
-        elif prob >= 0.7:
-            return "red"      # High Alert
-        elif prob >= 0.4:
-            return "orange"   # Medium Alert
-        else:
-            return "green"    # Low Risk
-
+    geojson = Path(geojson_path)
+    predictions = Path(predictions_csv_path)
+    if not geojson.exists() or not predictions.exists():
+        raise FileNotFoundError("Validated geometry and prediction files are required")
+    geometry = gpd.read_file(geojson)
+    values = pd.read_csv(predictions)
+    required = {"district_lgd_code", "predicted_corrected_percent_flooded_area"}
+    missing = required - set(values.columns)
+    if missing:
+        raise ValueError(f"INCOMPATIBLE: missing GIS columns {sorted(missing)}")
+    if "district_lgd_code" not in geometry.columns:
+        raise ValueError("INCOMPATIBLE: geometry has no validated district_lgd_code join key")
+    merged = geometry.merge(values, on="district_lgd_code", how="left", validate="one_to_one")
+    if merged.empty:
+        raise ValueError("INCOMPATIBLE: geographic join produced no rows")
+    center = merged.geometry.union_all().centroid
+    map_view = folium.Map(location=[center.y, center.x], zoom_start=6, tiles="cartodbpositron")
     folium.GeoJson(
         merged,
         style_function=lambda feature: {
-            'fillColor': get_color(feature['properties'].get('flood_probability')),
-            'color': 'black',
-            'weight': 1,
-            'fillOpacity': 0.6
+            "fillColor": "#3182bd" if feature["properties"].get("predicted_corrected_percent_flooded_area") is not None else "#bdbdbd",
+            "color": "black",
+            "weight": 1,
+            "fillOpacity": 0.6,
         },
         tooltip=folium.GeoJsonTooltip(
-            fields=['district', 'flood_probability'],
-            aliases=['District:', 'Flood Prob:'],
-            localize=True
-        )
-    ).add_to(m)
-
-    os.makedirs(os.path.dirname(output_html_path), exist_ok=True)
-    m.save(output_html_path)
-    print(f"Interactive alert map saved to {output_html_path}")
-
-
-if __name__ == "__main__":
-    print("GIS map generation module ready.")
+            fields=["district_lgd_code", "predicted_corrected_percent_flooded_area"],
+            aliases=["District LGD code:", "Predicted corrected flooded area:"],
+        ),
+    ).add_to(map_view)
+    output = Path(output_html_path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    map_view.save(output)

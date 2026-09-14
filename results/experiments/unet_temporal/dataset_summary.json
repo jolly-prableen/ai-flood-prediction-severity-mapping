@@ -1,0 +1,31 @@
+{
+  "status": "NOT_TRAINED",
+  "dataset_selected": null,
+  "reason": "No local raster/mask dataset with genuine temporal sequences is available; reviewed public segmentation datasets do not provide sufficient repeated temporal observations for this task.",
+  "candidates_reviewed": [
+    {
+      "name": "Sen1Floods11",
+      "official_source": "https://github.com/cloudtostreet/Sen1Floods11",
+      "imagery_and_masks": true,
+      "documented_dimensions": "512x512 chips; S1 2 bands; S2 13 bands; QC 1 band",
+      "temporal_metadata": "one acquisition date per event/chip in documented event metadata",
+      "genuine_temporal_sequences_for_this_task": false,
+      "selected": false
+    },
+    {
+      "name": "FloodNet Supervised v1.0",
+      "official_source": "https://github.com/BinaLab/FloodNet-Supervised_v1.0",
+      "imagery_and_masks": true,
+      "documented_dimensions": "2343 UAS images with semantic labels",
+      "temporal_metadata": "post-Hurricane-Harvey image collection; no genuine repeated temporal sequences documented",
+      "genuine_temporal_sequences_for_this_task": false,
+      "selected": false
+    }
+  ],
+  "local_raster_files": 0,
+  "local_mask_files": 0,
+  "download_performed": false,
+  "fabricated_data": false,
+  "fabricated_masks": false,
+  "fabricated_temporal_sequences": false
+}

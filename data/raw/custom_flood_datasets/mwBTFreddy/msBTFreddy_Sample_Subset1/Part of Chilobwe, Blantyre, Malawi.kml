@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Part of Chilobwe, Blantyre, Malawi.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Part of Chilobwe, Blantyre, Malawi</name>
+		<open>1</open>
+		<Placemark>
+			<name>top_left</name>
+			<LookAt>
+				<longitude>35.00606290000002</longitude>
+				<latitude>-15.8321223</latitude>
+				<altitude>0</altitude>
+				<heading>1.272221872585407e-14</heading>
+				<tilt>0</tilt>
+				<range>1084.518957347982</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.00606290000002,-15.8321223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>top_right</name>
+			<LookAt>
+				<longitude>35.01007840000001</longitude>
+				<latitude>-15.8321262</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-14</heading>
+				<tilt>0</tilt>
+				<range>1084.518957346156</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.01007840000001,-15.8321262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>bottom_right</name>
+			<LookAt>
+				<longitude>35.01008129999999</longitude>
+				<latitude>-15.83814290000001</latitude>
+				<altitude>0</altitude>
+				<heading>1.590277340731758e-14</heading>
+				<tilt>0</tilt>
+				<range>1084.48505298903</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.0100813,-15.83814290000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>bottom_left</name>
+			<LookAt>
+				<longitude>35.0060629</longitude>
+				<latitude>-15.83813509999999</latitude>
+				<altitude>0</altitude>
+				<heading>9.541664044390549e-15</heading>
+				<tilt>0</tilt>
+				<range>1084.485052988546</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.0060629,-15.83813509999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

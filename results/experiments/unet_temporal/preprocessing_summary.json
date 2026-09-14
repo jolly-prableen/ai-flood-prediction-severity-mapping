@@ -1,0 +1,12 @@
+{
+  "status": "NOT_EXECUTED",
+  "image_shape": null,
+  "mask_shape": null,
+  "channels": null,
+  "normalization": null,
+  "mask_encoding": null,
+  "invalid_pixel_policy": null,
+  "augmentation": "Not used; no valid local dataset.",
+  "clahe": "Not used; no image characteristics were available for this project dataset.",
+  "mask_intensity_transform": "Not performed."
+}
