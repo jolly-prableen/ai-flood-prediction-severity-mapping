@@ -1014,27 +1014,37 @@ def _tabular_dataset_compatibility(cfg: DatasetConfig, model_name: str) -> Model
 def _image_dataset_compatibility(cfg: DatasetConfig, model_name: str) -> ModelCompatibility:
     spec = MODEL_CATALOG[model_name]
     spatial = model_name in SPATIAL_MODELS
-    return ModelCompatibility(
-        dataset_key=cfg.key, dataset_name=cfg.name, dataset_type=cfg.dataset_type,
-        model_name=model_name, architecture=spec.architecture, input_type=spec.input_type,
-        target_task=cfg.task_type or "building damage classification (imagery)",
-        status=MODEL_STATUS_TRAINING_REQUIRED, compatible=True, inference_possible=False,
-        reason=(
-            f"{model_name} is implemented and architecturally compatible with this image-pair "
-            "dataset. No checkpoint or preprocessing has been trained on it yet."
-            if spatial else
-            f"{model_name} is a tabular-sequence architecture; using it here requires an image "
-            "feature-extraction step that is not implemented, and the existing IFI regression "
-            "checkpoint must NOT be run on this imagery."
-        ),
-        input_requirements=spec.input_type,
-        training_data=(
-            "10 pre/post image pairs with 1274 building damage annotations (Sample Subset1)"
-        ),
-        preprocessing="None yet",
-        checkpoint="None (training required)",
-        evaluation="None",
-    )
+    if spatial:
+        return ModelCompatibility(
+            dataset_key=cfg.key, dataset_name=cfg.name, dataset_type=cfg.dataset_type,
+            model_name=model_name, architecture=spec.architecture, input_type=spec.input_type,
+            target_task=cfg.task_type or "building damage classification (imagery)",
+            status=MODEL_STATUS_TRAINING_REQUIRED, compatible=True, inference_possible=False,
+            reason=(
+                f"{model_name} is implemented and architecturally compatible with this image-pair "
+                "dataset. No checkpoint or preprocessing has been trained on it yet."
+            ),
+            input_requirements=spec.input_type,
+            training_data=(
+                "10 pre/post image pairs with 1274 building damage annotations (Sample Subset1)"
+            ),
+            preprocessing="None yet",
+            checkpoint="None (training required)",
+            evaluation="None",
+        )
+    else:
+        return ModelCompatibility(
+            dataset_key=cfg.key, dataset_name=cfg.name, dataset_type=cfg.dataset_type,
+            model_name=model_name, architecture=spec.architecture, input_type=spec.input_type,
+            target_task="building damage classification (imagery)",
+            status=MODEL_STATUS_INCOMPATIBLE, compatible=False, inference_possible=False,
+            reason="INCOMPATIBLE — this model currently expects the IFI tabular input contract.",
+            input_requirements=spec.input_type,
+            training_data="None for this tabular architecture on imagery",
+            preprocessing="None",
+            checkpoint="None",
+            evaluation="None",
+        )
 
 
 def model_compatibility(cfg: DatasetConfig, model_name: str) -> ModelCompatibility:

@@ -1,0 +1,12 @@
+{
+  "model": "CNN + LSTM",
+  "task": "regression",
+  "model_kwargs": {
+    "input_dim": 1,
+    "task": "regression"
+  },
+  "ablation_config": "Permanent Water Only",
+  "features": [
+    "Parmanent_Water"
+  ]
+}

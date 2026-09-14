@@ -1,0 +1,17 @@
+{
+  "Model": "ResNet + BiLSTM",
+  "Feature Configuration": "Permanent Water Only",
+  "Features": [
+    "Parmanent_Water"
+  ],
+  "MAE": 2.4006522237010826,
+  "RMSE": 3.4385818217039628,
+  "R2": 0.03997773797787518,
+  "Validation MAE": 2.3022745877482924,
+  "Validation RMSE": 3.739847063243712,
+  "Training Time": 1.9099369579926133,
+  "Best Epoch": 10,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}

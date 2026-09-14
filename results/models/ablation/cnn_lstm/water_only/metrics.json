@@ -1,0 +1,17 @@
+{
+  "Model": "CNN + LSTM",
+  "Feature Configuration": "Permanent Water Only",
+  "Features": [
+    "Parmanent_Water"
+  ],
+  "MAE": 2.5287372999631805,
+  "RMSE": 3.424921061195599,
+  "R2": 0.04759051792303548,
+  "Validation MAE": 2.4912400220257918,
+  "Validation RMSE": 3.719337720793464,
+  "Training Time": 1.1051049170200713,
+  "Best Epoch": 30,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}

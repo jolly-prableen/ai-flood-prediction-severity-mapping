@@ -1,0 +1,17 @@
+{
+  "Model": "CNN + Transformer",
+  "Feature Configuration": "Permanent Water Only",
+  "Features": [
+    "Parmanent_Water"
+  ],
+  "MAE": 2.5543342751497295,
+  "RMSE": 3.480268986005629,
+  "R2": 0.016559247473603933,
+  "Validation MAE": 2.4469565348471303,
+  "Validation RMSE": 3.6409846220040847,
+  "Training Time": 1.3818322079896461,
+  "Best Epoch": 25,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}

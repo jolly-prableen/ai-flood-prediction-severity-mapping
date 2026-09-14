@@ -1,0 +1,146 @@
+{
+  "CNN + LSTM": {
+    "Full Baseline": {
+      "Model": "CNN + LSTM",
+      "Feature Configuration": "Full Baseline",
+      "Features": [
+        "Population",
+        "Parmanent_Water"
+      ],
+      "MAE": 2.433761558331786,
+      "RMSE": 3.376277682507145,
+      "R2": 0.07445211168476717,
+      "Type": "Existing Baseline Checkpoint"
+    },
+    "Population Only": {
+      "Model": "CNN + LSTM",
+      "Feature Configuration": "Population Only",
+      "Features": [
+        "Population"
+      ],
+      "MAE": 2.4366744526332447,
+      "RMSE": 3.523209104297649,
+      "R2": -0.0078581621560736,
+      "Validation MAE": 2.4281446179836537,
+      "Validation RMSE": 3.7026128285291517,
+      "Training Time": 1.1854591669980437,
+      "Best Epoch": 24,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    },
+    "Permanent Water Only": {
+      "Model": "CNN + LSTM",
+      "Feature Configuration": "Permanent Water Only",
+      "Features": [
+        "Parmanent_Water"
+      ],
+      "MAE": 2.5287372999631805,
+      "RMSE": 3.424921061195599,
+      "R2": 0.04759051792303548,
+      "Validation MAE": 2.4912400220257918,
+      "Validation RMSE": 3.719337720793464,
+      "Training Time": 1.1051049170200713,
+      "Best Epoch": 30,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    }
+  },
+  "CNN + Transformer": {
+    "Full Baseline": {
+      "Model": "CNN + Transformer",
+      "Feature Configuration": "Full Baseline",
+      "Features": [
+        "Population",
+        "Parmanent_Water"
+      ],
+      "MAE": 2.427292438752366,
+      "RMSE": 3.454254756563534,
+      "R2": 0.031206298144581424,
+      "Type": "Existing Baseline Checkpoint"
+    },
+    "Population Only": {
+      "Model": "CNN + Transformer",
+      "Feature Configuration": "Population Only",
+      "Features": [
+        "Population"
+      ],
+      "MAE": 2.4435128607184287,
+      "RMSE": 3.5415010966683025,
+      "R2": -0.018350637111816948,
+      "Validation MAE": 2.3671786218860182,
+      "Validation RMSE": 3.6473719200119104,
+      "Training Time": 1.3939611660025548,
+      "Best Epoch": 27,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    },
+    "Permanent Water Only": {
+      "Model": "CNN + Transformer",
+      "Feature Configuration": "Permanent Water Only",
+      "Features": [
+        "Parmanent_Water"
+      ],
+      "MAE": 2.5543342751497295,
+      "RMSE": 3.480268986005629,
+      "R2": 0.016559247473603933,
+      "Validation MAE": 2.4469565348471303,
+      "Validation RMSE": 3.6409846220040847,
+      "Training Time": 1.3818322079896461,
+      "Best Epoch": 25,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    }
+  },
+  "ResNet + BiLSTM": {
+    "Full Baseline": {
+      "Model": "ResNet + BiLSTM",
+      "Feature Configuration": "Full Baseline",
+      "Features": [
+        "Population",
+        "Parmanent_Water"
+      ],
+      "MAE": 2.296399480636272,
+      "RMSE": 3.3598831083987184,
+      "R2": 0.08341886377241525,
+      "Type": "Existing Baseline Checkpoint"
+    },
+    "Population Only": {
+      "Model": "ResNet + BiLSTM",
+      "Feature Configuration": "Population Only",
+      "Features": [
+        "Population"
+      ],
+      "MAE": 2.423122002374447,
+      "RMSE": 3.5066452769241945,
+      "R2": 0.0015961427165569475,
+      "Validation MAE": 2.406951050734144,
+      "Validation RMSE": 3.685901726473107,
+      "Training Time": 2.367218999977922,
+      "Best Epoch": 14,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    },
+    "Permanent Water Only": {
+      "Model": "ResNet + BiLSTM",
+      "Feature Configuration": "Permanent Water Only",
+      "Features": [
+        "Parmanent_Water"
+      ],
+      "MAE": 2.4006522237010826,
+      "RMSE": 3.4385818217039628,
+      "R2": 0.03997773797787518,
+      "Validation MAE": 2.3022745877482924,
+      "Validation RMSE": 3.739847063243712,
+      "Training Time": 1.9099369579926133,
+      "Best Epoch": 10,
+      "Diagnosis": "UNDERFITTING",
+      "Correction": "none",
+      "Type": "Ablation Retrained Model"
+    }
+  }
+}

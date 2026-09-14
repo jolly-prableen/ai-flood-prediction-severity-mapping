@@ -1,0 +1,17 @@
+{
+  "Model": "ResNet + BiLSTM",
+  "Feature Configuration": "Population Only",
+  "Features": [
+    "Population"
+  ],
+  "MAE": 2.423122002374447,
+  "RMSE": 3.5066452769241945,
+  "R2": 0.0015961427165569475,
+  "Validation MAE": 2.406951050734144,
+  "Validation RMSE": 3.685901726473107,
+  "Training Time": 2.367218999977922,
+  "Best Epoch": 14,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}

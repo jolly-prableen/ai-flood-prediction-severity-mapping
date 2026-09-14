@@ -1,0 +1,12 @@
+{
+  "model": "ResNet + BiLSTM",
+  "task": "regression",
+  "model_kwargs": {
+    "input_dim": 1,
+    "task": "regression"
+  },
+  "ablation_config": "Population Only",
+  "features": [
+    "Population"
+  ]
+}

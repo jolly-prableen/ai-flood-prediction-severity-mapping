@@ -1,0 +1,12 @@
+{
+  "features": [
+    "Population"
+  ],
+  "target": "Corrected_Percent_Flooded_Area",
+  "input_shape": [
+    "batch",
+    1,
+    1
+  ],
+  "ablation_config": "Population Only"
+}

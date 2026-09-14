@@ -1,0 +1,17 @@
+{
+  "Model": "CNN + Transformer",
+  "Feature Configuration": "Population Only",
+  "Features": [
+    "Population"
+  ],
+  "MAE": 2.4435128607184287,
+  "RMSE": 3.5415010966683025,
+  "R2": -0.018350637111816948,
+  "Validation MAE": 2.3671786218860182,
+  "Validation RMSE": 3.6473719200119104,
+  "Training Time": 1.3939611660025548,
+  "Best Epoch": 27,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}

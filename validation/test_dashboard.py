@@ -159,7 +159,13 @@ def test_status_of_every_model_on_every_dataset() -> None:
         },
         "ifi_impact": {m: STATUS_INCOMPATIBLE for m in registry.MODEL_NAMES},
         "ifi_flooded_area": {m: STATUS_INCOMPATIBLE for m in registry.MODEL_NAMES},
-        "mwbtfreddy": {m: STATUS_TRAINING_REQUIRED for m in registry.MODEL_NAMES},
+        "mwbtfreddy": {
+            "CNN + LSTM": STATUS_INCOMPATIBLE,
+            "CNN + Transformer": STATUS_INCOMPATIBLE,
+            "ResNet + BiLSTM": STATUS_INCOMPATIBLE,
+            "U-Net + ConvLSTM": STATUS_TRAINING_REQUIRED,
+            "Attention U-Net + LSTM": STATUS_TRAINING_REQUIRED,
+        },
     }
     for cfg in registry.available_datasets():
         for model_name in registry.MODEL_NAMES:
@@ -297,9 +303,10 @@ def test_model_comparison_status_only_for_other_datasets() -> None:
         tbl = comparison_table(at)
         assert len(tbl) == 5, f"{cfg.key}: expected 5 rows, got {len(tbl)}"
         statuses = set(tbl["Status"])
-        expected_status = (
-            {STATUS_TRAINING_REQUIRED} if cfg.is_image_dataset else {STATUS_INCOMPATIBLE}
-        )
+        if cfg.is_image_dataset:
+            expected_status = {STATUS_TRAINING_REQUIRED, STATUS_INCOMPATIBLE}
+        else:
+            expected_status = {STATUS_INCOMPATIBLE}
         assert statuses == expected_status, f"{cfg.key}: statuses={statuses}"
         assert (tbl["Rank"] == "—").all(), f"{cfg.key}: untrained models got a rank"
         assert (tbl["MAE ↓"] == "—").all(), f"{cfg.key}: untrained models got metrics"

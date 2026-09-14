@@ -1,0 +1,17 @@
+{
+  "Model": "CNN + LSTM",
+  "Feature Configuration": "Population Only",
+  "Features": [
+    "Population"
+  ],
+  "MAE": 2.4366744526332447,
+  "RMSE": 3.523209104297649,
+  "R2": -0.0078581621560736,
+  "Validation MAE": 2.4281446179836537,
+  "Validation RMSE": 3.7026128285291517,
+  "Training Time": 1.1854591669980437,
+  "Best Epoch": 24,
+  "Diagnosis": "UNDERFITTING",
+  "Correction": "none",
+  "Type": "Ablation Retrained Model"
+}
